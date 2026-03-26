@@ -10,7 +10,7 @@ current_year = datetime.now().year
 season_str = str(current_year)
 
 # 檔案路徑設定 (根目錄)
-id_file = f"mlbPlayerID_{season_str}.txt"
+id_file = f"mlbPlayerID_Y26.txt"
 field_xlsx = f"mlbField_{season_str}.xlsx"
 pitch_xlsx = f"mlbPitch_{season_str}.xlsx"
 hit_xlsx = f"mlbHit_{season_str}.xlsx"
