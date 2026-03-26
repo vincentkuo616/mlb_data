@@ -112,8 +112,19 @@ df_pitch = pd.DataFrame(all_pitch, columns=cols_pitch)
 df_hit = pd.DataFrame(all_hit, columns=cols_hit)
 
 # --- 5. 儲存檔案 ---
-df_field.to_excel(field_xlsx, float_format='%.3f', sheet_name=f'MLB_Field_{season_str}', index=False)
-df_pitch.to_excel(pitch_xlsx, float_format='%.3f', sheet_name=f'MLB_Pitch_{season_str}', index=False)
-df_hit.to_excel(hit_xlsx, float_format='%.3f', sheet_name=f'MLB_Hit_{season_str}', index=False)
+files_to_save = [
+    (df_field, field_xlsx, f'MLB_Field_{season_str}'),
+    (df_pitch, pitch_xlsx, f'MLB_Pitch_{season_str}'),
+    (df_hit, hit_xlsx, f'MLB_Hit_{season_str}')
+]
+
+for df, filename, sheet in files_to_save:
+    if not df.empty:
+        # 直接寫入/覆蓋。在 GitHub Actions 中，
+        # 每天執行時會抓取最新累積數據並產生新版檔案。
+        df.to_excel(filename, float_format='%.3f', sheet_name=sheet, index=False)
+        print(f"💾 檔案已更新: {filename}")
+    else:
+        print(f"⚠️ 警告: {sheet} 沒有抓取到資料，跳過儲存。")
 
 print(f"✅ 處理完成！耗時: {time.time() - tic:.2f}s")
