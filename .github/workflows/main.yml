@@ -1,0 +1,44 @@
+name: Update MLB Data
+
+on:
+  schedule:
+    - cron: '18 10 * * *' # 每天自動執行
+  workflow_dispatch: # 也可以手動點擊執行
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 賦予寫入檔案回 Repo 的權限
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # 確保抓取完整的歷史紀錄，避免遺漏現有檔案
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install pandas MLB-StatsAPI
+
+      # 執行第一個腳本
+      - name: Run MLB API Player Stats
+        continue-on-error: true  # 即使這個失敗，也會繼續執行下一步
+        run: python MLB_API_GoogleSheet.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add *.csv
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Auto update NBA data: $(date +'%Y-%m-%d')"
+            git push
+          else
+            echo "No changes to commit"
+          fi
