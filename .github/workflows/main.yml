@@ -39,14 +39,14 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # --- 關鍵修改點 ---
-          # 1. 使用 -A 追蹤所有更動，或者條列副檔名但加上 || true 防止報錯
-          git add *.csv *.xlsx *.txt || true
+          # 1. 使用 git add . 直接追蹤目錄下所有變動（包含新產生的 xlsx, txt, csv）
+          git add .
           
-          # 2. 檢查是否有任何變更（包含新檔案、修改）
+          # 2. 檢查 status 是否有變動 (包含 Untracked files)
           if [ -n "$(git status --porcelain)" ]; then
+            echo "檢測到檔案變動，準備提交..."
             git commit -m "Auto update Sports data: $(date +'%Y-%m-%d')"
             git push
           else
-            echo "No changes to commit"
+            echo "沒有任何檔案變動，跳過提交。"
           fi
