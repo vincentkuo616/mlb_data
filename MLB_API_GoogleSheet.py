@@ -6,14 +6,17 @@ from datetime import datetime
 
 # --- 1. 初始化設定 ---
 tic = time.time()
-current_year = datetime.now().year
+now = datetime.now()
+current_year = now.year
 season_str = str(current_year)
+# 格式化今天的日期
+execution_date = now.strftime('%Y/%m/%d')
 
-# 檔案路徑設定 (根目錄)
+# 檔案路徑設定 (根目錄，改為 .csv)
 id_file = f"mlbPlayerID_Y26.txt"
-field_xlsx = f"mlbField_{season_str}.xlsx"
-pitch_xlsx = f"mlbPitch_{season_str}.xlsx"
-hit_xlsx = f"mlbHit_{season_str}.xlsx"
+field_csv = f"mlbField_{season_str}.csv"
+pitch_csv = f"mlbPitch_{season_str}.csv"
+hit_csv = f"mlbHit_{season_str}.csv"
 
 # 30 支球隊 ID
 teamList = [108,109,110,111,112,113,114,115,116,117,118,119,120,121,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,158]
@@ -28,19 +31,21 @@ def getMlbPlayerID():
     mlbPlayerID = []
     unique_names = set()
     for team in teamList:
-        roster = statsapi.roster(team)
-        # 簡單解析 roster 字串獲取姓名
-        lines = roster.split('\n')
-        for line in lines:
-            if not line.strip(): continue
-            # 移除背號與位置標籤，提取姓名
-            parts = line.split()
-            name = " ".join([p for p in parts if not p.isdigit() and p not in ['TWP', 'P', 'C', '1B', '2B', '3B', 'SS', 'LF', 'CF', 'RF', 'DH']])
-            if name and name not in unique_names:
-                unique_names.add(name)
-                players = statsapi.lookup_player(name)
-                for p in players:
-                    mlbPlayerID.append(p['id'])
+        try:
+            roster = statsapi.roster(team)
+            lines = roster.split('\n')
+            for line in lines:
+                if not line.strip(): continue
+                parts = line.split()
+                # 濾除背號與位置縮寫
+                name = " ".join([p for p in parts if not p.isdigit() and p not in ['TWP', 'P', 'C', '1B', '2B', '3B', 'SS', 'LF', 'CF', 'RF', 'DH']])
+                if name and name not in unique_names:
+                    unique_names.add(name)
+                    players = statsapi.lookup_player(name)
+                    for p in players:
+                        mlbPlayerID.append(p['id'])
+        except:
+            continue
     return list(set(mlbPlayerID))
 
 def getMlbPlayerData(player_id, updateData):
@@ -111,20 +116,29 @@ df_field = pd.DataFrame(all_field, columns=cols_field)
 df_pitch = pd.DataFrame(all_pitch, columns=cols_pitch)
 df_hit = pd.DataFrame(all_hit, columns=cols_hit)
 
-# --- 5. 儲存檔案 ---
+# 插入執行日期
+df_field.insert(0, 'EXECUTION_DATE', execution_date)
+df_pitch.insert(0, 'EXECUTION_DATE', execution_date)
+df_hit.insert(0, 'EXECUTION_DATE', execution_date)
+
+# --- 5. 儲存檔案 (CSV Append 模式) ---
 files_to_save = [
-    (df_field, field_xlsx, f'MLB_Field_{season_str}'),
-    (df_pitch, pitch_xlsx, f'MLB_Pitch_{season_str}'),
-    (df_hit, hit_xlsx, f'MLB_Hit_{season_str}')
+    (df_field, field_csv),
+    (df_pitch, pitch_csv),
+    (df_hit, hit_csv)
 ]
 
-for df, filename, sheet in files_to_save:
+for df, filename in files_to_save:
     if not df.empty:
-        # 直接寫入/覆蓋。在 GitHub Actions 中，
-        # 每天執行時會抓取最新累積數據並產生新版檔案。
-        df.to_excel(filename, float_format='%.3f', sheet_name=sheet, index=False)
-        print(f"💾 檔案已更新: {filename}")
+        if not os.path.exists(filename):
+            # 檔案不存在：寫入標題
+            df.to_csv(filename, index=False, encoding='utf-8-sig')
+            print(f"🆕 建立新 CSV: {filename}")
+        else:
+            # 檔案已存在：附加數據，不寫標題
+            df.to_csv(filename, mode='a', index=False, header=False, encoding='utf-8-sig')
+            print(f"📝 附加數據至: {filename}")
     else:
-        print(f"⚠️ 警告: {sheet} 沒有抓取到資料，跳過儲存。")
+        print(f"⚠️ 跳過空白數據。")
 
 print(f"✅ 處理完成！耗時: {time.time() - tic:.2f}s")
