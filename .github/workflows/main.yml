@@ -15,7 +15,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0 # 確保抓取完整的歷史紀錄，避免遺漏現有檔案
+          fetch-depth: 0 
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -24,20 +24,28 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install pandas MLB-StatsAPI
+          # 加上 openpyxl 以支援 Excel 輸出
+          pip install pandas MLB-StatsAPI nba_api openpyxl numpy
 
-      # 執行第一個腳本
-      - name: Run MLB API Player Stats
-        continue-on-error: true  # 即使這個失敗，也會繼續執行下一步
-        run: python MLB_API_GoogleSheet.py
+      - name: Run MLB Scripts
+        continue-on-error: true  
+        run: |
+          # 這裡假設你的檔名是 MLB_API_GoogleSheet.py
+          # 如果還有 NBA 的腳本，也可以加在下面一行執行
+          python MLB_API_GoogleSheet.py
 
       - name: Commit and push if changed
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add *.csv
+          
+          # --- 關鍵修改點 ---
+          # 1. 使用 -A 追蹤所有更動，或者條列副檔名但加上 || true 防止報錯
+          git add *.csv *.xlsx *.txt || true
+          
+          # 2. 檢查是否有任何變更（包含新檔案、修改）
           if [ -n "$(git status --porcelain)" ]; then
-            git commit -m "Auto update NBA data: $(date +'%Y-%m-%d')"
+            git commit -m "Auto update Sports data: $(date +'%Y-%m-%d')"
             git push
           else
             echo "No changes to commit"
