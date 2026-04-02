@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2026 MLB 打者數據查詢</title>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+    <style>
+        body { font-family: sans-serif; margin: 20px; background-color: #f4f4f9; }
+        h2 { color: #003263; } /* MLB Blue */
+        .container { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>⚾ 2026 MLB 打者數據即時查詢</h2>
+    <hr>
+    <table id="mlbTable" class="display" style="width:100%">
+        <thead>
+            <tr id="tableHeader"></tr>
+        </thead>
+        <tbody id="tableBody"></tbody>
+    </table>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+
+<script>
+    // 你的資料來源 (注意：要用 Raw 原始連結)
+    const csvUrl = 'https://raw.githubusercontent.com/vincentkuo616/mlb_data/main/mlbHit_2026.csv';
+
+    $(document).ready(function() {
+        // 1. 使用 PapaParse 讀取遠端 CSV
+        Papa.parse(csvUrl, {
+            download: true,
+            header: true,
+            skipEmptyLines: true,
+            complete: function(results) {
+                const data = results.data;
+                const columns = Object.keys(data[0]);
+
+                // 2. 動態生成表格標題
+                let headerHtml = '';
+                columns.forEach(col => {
+                    headerHtml += `<th>${col}</th>`;
+                });
+                $('#tableHeader').html(headerHtml);
+
+                // 3. 渲染資料到 DataTable
+                $('#mlbTable').DataTable({
+                    data: data,
+                    columns: columns.map(col => ({ data: col })),
+                    language: {
+                        search: "搜尋球員/球隊：",
+                        lengthMenu: "顯示 _MENU_ 筆",
+                        info: "顯示第 _START_ 至 _END_ 筆，共 _TOTAL_ 筆資料"
+                    },
+                    scrollX: true, // 欄位太多，啟動水平捲軸
+                    pageLength: 10
+                });
+            },
+            error: function(err) {
+                console.error("讀取 CSV 失敗:", err);
+                alert("無法讀取資料，請檢查 GitHub 連結是否正確。");
+            }
+        });
+    });
+</script>
+
+</body>
+</html>
