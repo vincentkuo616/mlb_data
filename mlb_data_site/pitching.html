@@ -1,1 +1,136 @@
-#############################
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2026 MLB 投手數據查詢</title>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+    <style>
+        body { font-family: sans-serif; margin: 20px; background-color: #f4f4f9; }
+        h2 { color: #d50032; } /* MLB Red for Pitching */
+        .container { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        
+        /* 導覽列樣式 */
+        .nav-menu { margin-bottom: 20px; background: #003263; padding: 10px; border-radius: 5px; }
+        .nav-menu a { color: white; text-decoration: none; padding: 10px 15px; margin-right: 5px; display: inline-block; }
+        .nav-menu a:hover { background: #0056b3; border-radius: 4px; }
+        .nav-menu a.active { background: #ffcc00; color: #003263; font-weight: bold; border-radius: 4px; }
+
+        .filter-section { margin-bottom: 20px; display: flex; gap: 15px; align-items: center; background: #fdf2f2; padding: 15px; border-radius: 5px; border-left: 5px solid #d50032; }
+        select { padding: 5px; border-radius: 4px; border: 1px solid #ccc; min-width: 150px; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <nav class="nav-menu">
+        <a href="index.html">打擊數據 (Hitting)</a>
+        <a href="pitch.html" class="active">投手數據 (Pitching)</a>
+        <a href="fielding.html">防守數據 (Fielding)</a>
+    </nav>
+
+    <h2>🔥 2026 MLB 投手數據即時查詢</h2>
+    
+    <div class="filter-section">
+        <div>
+            <label>球隊 (Team): </label>
+            <select id="teamFilter">
+                <option value="">全部球隊</option>
+            </select>
+        </div>
+        <div>
+            <label>投手姓名 (Name): </label>
+            <select id="nameFilter">
+                <option value="">全部投手</option>
+            </select>
+        </div>
+    </div>
+
+    <hr>
+    <table id="pitchTable" class="display" style="width:100%">
+        <thead>
+            <tr id="tableHeader"></tr>
+        </thead>
+        <tbody id="tableBody"></tbody>
+    </table>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+
+<script>
+    // 投手資料來源 (請確保檔名正確)
+    const csvUrl = 'https://raw.githubusercontent.com/vincentkuo616/mlb_data/main/mlbPitch_2026.csv';
+    let allData = [];
+    let table;
+
+    $(document).ready(function() {
+        Papa.parse(csvUrl, {
+            download: true,
+            header: true,
+            skipEmptyLines: true,
+            complete: function(results) {
+                allData = results.data;
+                if (allData.length === 0) return;
+
+                const columns = Object.keys(allData[0]);
+
+                // 1. 生成表頭
+                let headerHtml = '';
+                columns.forEach(col => headerHtml += `<th>${col}</th>`);
+                $('#tableHeader').html(headerHtml);
+
+                // 2. 初始化 DataTable
+                table = $('#pitchTable').DataTable({
+                    data: allData,
+                    columns: columns.map(col => ({ data: col })),
+                    scrollX: true,
+                    pageLength: 10,
+                    order: [[16, 'asc']], // 預設依 ERA (第17欄) 排序
+                    language: { 
+                        search: "關鍵字搜尋：",
+                        lengthMenu: "顯示 _MENU_ 筆",
+                        info: "共 _TOTAL_ 位投手"
+                    }
+                });
+
+                // 3. 初始化「球隊」下拉選單
+                const teams = [...new Set(allData.map(item => item.team))].sort();
+                teams.forEach(team => {
+                    if(team) $('#teamFilter').append(`<option value="${team}">${team}</option>`);
+                });
+
+                // 4. 當「球隊」變動時
+                $('#teamFilter').on('change', function() {
+                    const selectedTeam = $(this).val();
+                    table.column(2).search(selectedTeam).draw(); // Team 在第 3 欄
+                    updateNameOptions(selectedTeam);
+                });
+
+                // 5. 當「球員」變動時
+                $('#nameFilter').on('change', function() {
+                    const selectedName = $(this).val();
+                    table.column(3).search(selectedName).draw(); // Name 在第 4 欄
+                });
+            }
+        });
+
+        function updateNameOptions(team) {
+            const $nameSelect = $('#nameFilter');
+            $nameSelect.html('<option value="">全部投手</option>');
+
+            const filteredPlayers = team 
+                ? allData.filter(d => d.team === team)
+                : allData;
+
+            const names = [...new Set(filteredPlayers.map(item => item.name))].sort();
+            names.forEach(name => {
+                if(name) $nameSelect.append(`<option value="${name}">${name}</option>`);
+            });
+        }
+    });
+</script>
+
+</body>
+</html>
