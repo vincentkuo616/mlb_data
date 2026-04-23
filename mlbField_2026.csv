@@ -28458,3 +28458,1328 @@
 2026/04/22,True,Columbus Clippers,CJ Kayfus,RF,Outfielder,0,4,0,0,1.000,4,4,3,29.0,4,1.24,1.00,0,0
 2026/04/22,True,Minnesota Twins,Taj Bradley,P,Pitcher,0,0,0,0,.000,5,5,5,27.2,0,0.00,0.00,0,0
 2026/04/22,True,Atlanta Braves,Michael Harris,CF,Outfielder,0,52,0,0,1.000,22,22,20,182.0,52,2.57,2.36,0,0
+2026/04/23,True,Detroit Tigers,Casey Mize,P,Pitcher,2,2,0,0,1.000,5,5,5,28.2,0,0.64,0.40,0,0
+2026/04/23,True,Tampa Bay Rays,Shane McClanahan,P,Pitcher,4,5,0,1,.800,4,4,4,18.0,0,2.00,1.00,1,0
+2026/04/23,True,Boston Red Sox,Jovani Moran,P,Pitcher,0,1,0,0,1.000,7,7,0,13.1,1,0.69,0.14,0,0
+2026/04/23,True,Omaha Storm Chasers,Bailey Falter,P,Pitcher,0,0,0,0,.000,2,2,0,3.1,0,0.00,0.00,0,0
+2026/04/23,True,Milwaukee Brewers,Carlos Rodriguez,P,Pitcher,0,1,0,0,1.000,2,2,0,4.0,1,2.25,0.50,0,0
+2026/04/23,True,Colorado Rockies,Juan Mejia,P,Pitcher,1,3,1,0,1.000,9,9,1,10.0,2,2.70,0.33,0,0
+2026/04/23,True,Houston Astros,Peter Lambert,P,Pitcher,1,2,0,0,1.000,2,2,2,11.0,1,1.64,1.00,0,0
+2026/04/23,True,Colorado Rockies,Antonio Senzatela,P,Pitcher,1,1,0,0,1.000,7,7,0,16.1,0,0.56,0.14,0,0
+2026/04/23,True,Cincinnati Reds,Tony Santillan,P,Pitcher,2,2,0,0,1.000,11,11,0,10.2,0,1.80,0.18,0,0
+2026/04/23,True,Athletics,Brent Rooker,RF,Outfielder,0,3,0,0,1.000,2,2,2,16.0,3,1.69,1.50,0,0
+2026/04/23,True,Athletics,Brent Rooker,DH,Designated Hitter,0,0,0,0,.000,9,9,9,0.0,0,-.--,0.00,0,0
+2026/04/23,True,San Diego Padres,David Morgan,P,Pitcher,3,4,0,0,1.000,9,9,0,12.1,1,3.00,0.44,0,0
+2026/04/23,True,Atlanta Braves,Austin Riley,3B,Third Base,32,52,1,2,.962,25,25,24,213.0,18,2.11,2.00,2,0
+2026/04/23,True,Arizona Diamondbacks,Eduardo Rodriguez,P,Pitcher,2,2,0,0,1.000,5,5,5,28.0,0,0.64,0.40,0,0
+2026/04/23,True,Las Vegas Aviators,Luis Morales,P,Pitcher,0,0,0,0,.000,2,2,2,7.1,0,0.00,0.00,0,0
+2026/04/23,True,Milwaukee Brewers,Brandon Lockridge,1B,First Base,0,0,0,0,.000,1,1,0,1.0,0,0.00,0.00,0,0
+2026/04/23,True,Milwaukee Brewers,Brandon Lockridge,LF,Outfielder,2,30,0,0,1.000,17,17,11,111.0,28,2.43,1.76,0,0
+2026/04/23,True,Milwaukee Brewers,Brandon Lockridge,CF,Outfielder,0,10,0,0,1.000,5,5,4,30.0,10,3.00,2.00,0,0
+2026/04/23,True,San Diego Padres,Wandy Peralta,P,Pitcher,3,4,0,0,1.000,11,11,0,11.2,1,3.27,0.36,0,0
+2026/04/23,True,Reno Aces,Luken Baker,1B,First Base,1,9,0,0,1.000,2,2,1,11.0,8,7.36,4.50,0,0
+2026/04/23,True,Minnesota Twins,Trevor Larnach,LF,Outfielder,1,17,0,0,1.000,12,12,12,90.0,16,1.70,1.42,0,0
+2026/04/23,True,Minnesota Twins,Trevor Larnach,DH,Designated Hitter,0,0,0,0,.000,1,1,1,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Washington Nationals,Jake Irvin,P,Pitcher,2,5,0,0,1.000,5,5,5,24.0,3,1.88,1.00,0,0
+2026/04/23,True,Baltimore Orioles,Ryan Mountcastle,1B,First Base,0,13,3,0,1.000,2,2,2,16.0,13,7.31,6.50,0,0
+2026/04/23,True,Baltimore Orioles,Ryan Mountcastle,DH,Designated Hitter,0,0,0,0,.000,2,2,2,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Athletics,Luis Severino,P,Pitcher,4,6,1,0,1.000,5,5,5,24.2,2,2.25,1.20,0,0
+2026/04/23,True,Cincinnati Reds,Ke'Bryan Hayes,3B,Third Base,43,60,5,1,.983,22,22,19,169.0,16,3.14,2.68,1,0
+2026/04/23,True,Atlanta Braves,Joel Payamps,P,Pitcher,0,0,0,0,.000,9,9,0,5.1,0,0.00,0.00,0,0
+2026/04/23,True,Los Angeles Dodgers,Kyle Tucker,RF,Outfielder,2,38,0,0,1.000,22,22,22,193.0,36,1.77,1.73,0,0
+2026/04/23,True,Los Angeles Angels,José Soriano,P,Pitcher,3,5,0,0,1.000,6,6,6,37.2,2,1.22,0.83,0,0
+2026/04/23,True,Athletics,Hogan Harris,P,Pitcher,0,1,0,0,1.000,14,14,0,14.2,1,0.64,0.07,0,0
+2026/04/23,True,Seattle Mariners,Josh Naylor,1B,First Base,19,195,25,1,.995,24,24,24,214.1,175,8.16,8.08,1,0
+2026/04/23,True,Kansas City Royals,Jonathan India,2B,Second Base,34,54,9,0,1.000,17,17,14,124.0,20,3.92,3.18,0,0
+2026/04/23,True,Pittsburgh Pirates,Joey Bart,C,Catcher,4,84,2,0,1.000,12,12,9,82.1,80,9.22,7.00,0,0
+2026/04/23,True,Pittsburgh Pirates,Joey Bart,DH,Designated Hitter,0,0,0,0,.000,1,1,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Philadelphia Phillies,Zach Pop,P,Pitcher,0,1,0,0,1.000,7,7,1,7.1,1,1.29,0.14,0,0
+2026/04/23,True,Chicago White Sox,Andrew Benintendi,LF,Outfielder,1,9,0,0,1.000,8,8,6,47.0,8,1.72,1.13,0,0
+2026/04/23,True,Chicago White Sox,Andrew Benintendi,RF,Outfielder,0,1,0,0,1.000,1,1,0,3.0,1,3.00,1.00,0,0
+2026/04/23,True,Chicago White Sox,Andrew Benintendi,DH,Designated Hitter,0,0,0,0,.000,12,12,10,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Houston Astros,Cody Bolton,P,Pitcher,0,0,0,0,.000,3,3,2,8.1,0,0.00,0.00,0,0
+2026/04/23,True,Arizona Diamondbacks,Michael Soroka,P,Pitcher,1,2,0,1,.500,4,4,4,22.2,0,0.41,0.25,0,0
+2026/04/23,True,Memphis Redbirds,Chris Roycroft,P,Pitcher,1,1,0,0,1.000,5,5,0,3.2,0,3.00,0.20,0,0
+2026/04/23,True,Atlanta Braves,Jorge Mateo,SS,Shortstop,20,31,5,1,.968,8,8,7,59.0,10,4.58,3.75,1,0
+2026/04/23,True,Atlanta Braves,Jorge Mateo,DH,Designated Hitter,0,0,0,0,.000,2,2,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Seattle Mariners,Cal Raleigh,C,Catcher,10,176,3,1,.994,21,21,20,177.1,165,8.90,8.33,1,0
+2026/04/23,True,Seattle Mariners,Cal Raleigh,DH,Designated Hitter,0,0,0,0,.000,6,6,5,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Cleveland Guardians,Cade Smith,P,Pitcher,0,2,1,0,1.000,12,12,0,12.0,2,1.50,0.17,0,0
+2026/04/23,True,Kansas City Royals,Daniel Lynch,P,Pitcher,1,2,0,0,1.000,8,8,0,9.0,1,2.00,0.25,0,0
+2026/04/23,True,Tampa Bay Rays,Nick Fortes,C,Catcher,2,135,0,3,.978,19,19,14,139.1,130,8.55,6.95,1,0
+2026/04/23,True,Detroit Tigers,Justin Verlander,P,Pitcher,0,0,0,0,.000,1,1,1,3.2,0,0.00,0.00,0,0
+2026/04/23,True,New York Yankees,Trent Grisham,CF,Outfielder,1,46,0,1,.978,22,22,17,163.2,44,2.48,2.05,0,0
+2026/04/23,True,Milwaukee Brewers,Jake Woodford,P,Pitcher,2,2,0,0,1.000,7,7,0,10.2,0,1.80,0.29,0,0
+2026/04/23,True,Philadelphia Phillies,Chase Shugart,P,Pitcher,1,1,0,0,1.000,4,4,0,5.2,0,1.80,0.25,0,0
+2026/04/23,True,Atlanta Braves,Mauricio Dubón,3B,Third Base,1,1,0,0,1.000,1,1,1,6.0,0,1.50,1.00,0,0
+2026/04/23,True,Atlanta Braves,Mauricio Dubón,SS,Shortstop,45,79,15,2,.975,21,21,18,163.0,32,4.25,3.67,0,0
+2026/04/23,True,Atlanta Braves,Mauricio Dubón,LF,Outfielder,0,6,0,0,1.000,4,4,2,19.0,6,2.84,1.50,0,0
+2026/04/23,True,Atlanta Braves,Mauricio Dubón,CF,Outfielder,1,6,0,0,1.000,2,2,2,16.0,5,3.38,3.00,0,0
+2026/04/23,True,Chicago White Sox,Tristan Peters,LF,Outfielder,0,1,0,0,1.000,2,2,0,5.0,1,1.80,0.50,0,0
+2026/04/23,True,Chicago White Sox,Tristan Peters,CF,Outfielder,0,27,0,0,1.000,12,12,8,69.0,27,3.52,2.25,0,0
+2026/04/23,True,Chicago White Sox,Tristan Peters,RF,Outfielder,1,21,1,0,1.000,6,6,6,54.0,20,3.50,3.50,0,0
+2026/04/23,True,Miami Marlins,Graham Pauley,1B,First Base,0,11,0,0,1.000,2,2,1,11.0,11,9.00,5.50,0,0
+2026/04/23,True,Miami Marlins,Graham Pauley,3B,Third Base,22,30,5,2,.933,18,18,15,127.0,6,1.98,1.56,0,0
+2026/04/23,True,Miami Marlins,Janson Junk,P,Pitcher,4,8,0,0,1.000,5,5,5,27.0,4,2.67,1.60,0,0
+2026/04/23,True,Arizona Diamondbacks,Ketel Marte,2B,Second Base,48,71,6,0,1.000,18,18,17,151.1,23,4.23,3.94,0,0
+2026/04/23,True,Arizona Diamondbacks,Ketel Marte,DH,Designated Hitter,0,0,0,0,.000,5,5,5,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Seattle Mariners,Emerson Hancock,P,Pitcher,4,6,1,0,1.000,5,5,5,28.2,2,1.93,1.20,0,0
+2026/04/23,True,Athletics,Denzel Clarke,CF,Outfielder,0,48,0,0,1.000,22,22,17,160.1,48,2.70,2.18,0,0
+2026/04/23,True,Detroit Tigers,Matt Vierling,LF,Outfielder,0,7,0,1,.857,3,3,3,22.0,6,2.45,2.00,0,0
+2026/04/23,True,Detroit Tigers,Matt Vierling,CF,Outfielder,0,17,0,0,1.000,12,12,7,63.0,17,2.43,1.42,0,0
+2026/04/23,True,Detroit Tigers,Matt Vierling,RF,Outfielder,1,5,0,0,1.000,4,4,1,16.1,4,2.81,1.25,0,0
+2026/04/23,True,San Francisco Giants,José Buttó,P,Pitcher,1,1,0,0,1.000,3,3,0,2.0,0,4.50,0.33,0,0
+2026/04/23,True,Los Angeles Angels,Walbert Urena,P,Pitcher,1,2,0,1,.500,3,3,1,7.2,0,1.29,0.33,1,0
+2026/04/23,True,Chicago White Sox,Jordan Hicks,P,Pitcher,3,3,0,0,1.000,12,12,0,11.1,0,2.45,0.25,0,0
+2026/04/23,True,Texas Rangers,Danny Jansen,C,Catcher,6,151,0,2,.987,15,15,15,129.2,143,10.40,9.93,2,0
+2026/04/23,True,Tampa Bay Rays,Griffin Jax,P,Pitcher,1,2,0,0,1.000,11,11,0,9.0,1,2.00,0.18,0,0
+2026/04/23,True,Boston Red Sox,Isiah Kiner-Falefa,2B,Second Base,26,32,3,0,1.000,9,9,7,61.0,6,4.72,3.56,0,0
+2026/04/23,True,Boston Red Sox,Isiah Kiner-Falefa,3B,Third Base,1,2,0,0,1.000,3,3,2,17.0,1,1.06,0.67,0,0
+2026/04/23,True,Boston Red Sox,Isiah Kiner-Falefa,SS,Shortstop,1,1,0,0,1.000,1,1,0,2.0,0,4.50,1.00,0,0
+2026/04/23,True,Cincinnati Reds,Tyler Stephenson,C,Catcher,8,150,0,0,1.000,19,19,18,162.0,142,8.33,7.89,0,0
+2026/04/23,True,Athletics,Mark Leiter,P,Pitcher,1,1,0,0,1.000,12,12,0,10.2,0,0.90,0.08,0,0
+2026/04/23,True,Buffalo Bisons,Brendon Little,P,Pitcher,1,1,0,0,1.000,5,5,0,3.2,0,3.00,0.20,0,0
+2026/04/23,True,Gwinnett Stripers,Luke Williams,2B,Second Base,0,0,0,0,.000,1,1,0,1.0,0,0.00,0.00,0,0
+2026/04/23,True,Gwinnett Stripers,Luke Williams,LF,Outfielder,0,1,0,0,1.000,1,1,0,2.0,1,4.50,1.00,0,0
+2026/04/23,True,Cincinnati Reds,Brady Singer,P,Pitcher,3,6,0,2,.667,5,5,5,23.2,1,1.57,0.80,2,0
+2026/04/23,True,Arizona Diamondbacks,Ildemaro Vargas,1B,First Base,6,76,6,0,1.000,8,8,7,69.1,70,9.91,9.50,0,0
+2026/04/23,True,Arizona Diamondbacks,Ildemaro Vargas,2B,Second Base,19,31,4,1,.968,7,7,7,62.0,11,4.35,4.29,0,0
+2026/04/23,True,Arizona Diamondbacks,Ildemaro Vargas,3B,Third Base,1,1,0,0,1.000,2,2,0,4.0,0,2.25,0.50,0,0
+2026/04/23,True,Arizona Diamondbacks,Ildemaro Vargas,LF,Outfielder,0,0,0,0,.000,1,1,0,2.0,0,0.00,0.00,0,0
+2026/04/23,True,Arizona Diamondbacks,Ildemaro Vargas,DH,Designated Hitter,0,0,0,0,.000,1,1,1,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Athletics,Jeff McNeil,1B,First Base,0,2,0,0,1.000,1,1,0,2.0,2,9.00,2.00,0,0
+2026/04/23,True,Athletics,Jeff McNeil,2B,Second Base,57,96,13,1,.990,21,21,20,169.1,38,5.06,4.52,1,0
+2026/04/23,True,Athletics,Jeff McNeil,RF,Outfielder,0,2,0,0,1.000,2,2,0,6.1,2,3.00,1.00,0,0
+2026/04/23,True,Detroit Tigers,Tyler Holton,P,Pitcher,0,0,0,0,.000,10,10,0,10.0,0,0.00,0.00,0,0
+2026/04/23,True,San Francisco Giants,Ryan Walker,P,Pitcher,2,3,0,0,1.000,11,11,0,11.0,1,2.45,0.27,0,0
+2026/04/23,True,Pittsburgh Pirates,Jake Mangum,LF,Outfielder,1,12,0,0,1.000,12,12,5,62.0,11,1.74,1.00,0,0
+2026/04/23,True,Pittsburgh Pirates,Jake Mangum,CF,Outfielder,0,4,0,0,1.000,1,1,1,10.0,4,3.60,4.00,0,0
+2026/04/23,True,Pittsburgh Pirates,Jake Mangum,RF,Outfielder,0,6,0,0,1.000,4,4,4,32.0,6,1.69,1.50,0,0
+2026/04/23,True,Miami Marlins,Tyler Phillips,P,Pitcher,1,1,0,0,1.000,7,7,0,15.0,0,0.60,0.14,0,0
+2026/04/23,True,Los Angeles Dodgers,Jack Dreyer,P,Pitcher,0,1,0,0,1.000,10,10,0,10.1,1,0.90,0.10,0,0
+2026/04/23,True,Miami Marlins,Chris Paddack,P,Pitcher,1,6,0,0,1.000,5,5,4,24.0,5,2.25,1.20,0,0
+2026/04/23,True,Toronto Blue Jays,Tyler Rogers,P,Pitcher,3,5,0,0,1.000,12,12,0,12.1,2,3.75,0.42,0,0
+2026/04/23,True,Washington Nationals,Richard Lovelady,P,Pitcher,1,2,0,0,1.000,8,8,0,10.1,1,1.80,0.25,0,0
+2026/04/23,True,Washington Nationals,Richard Lovelady,P,Pitcher,0,1,0,0,1.000,2,2,0,3.0,1,3.00,0.50,0,0
+2026/04/23,True,Washington Nationals,Richard Lovelady,P,Pitcher,1,1,0,0,1.000,6,6,0,7.1,0,1.29,0.17,0,0
+2026/04/23,True,Cincinnati Reds,Nathaniel Lowe,1B,First Base,0,10,2,0,1.000,5,5,2,18.0,10,5.00,2.00,0,0
+2026/04/23,True,Cincinnati Reds,Nathaniel Lowe,DH,Designated Hitter,0,0,0,0,.000,6,6,6,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Cleveland Guardians,Joey Cantillo,P,Pitcher,1,1,0,0,1.000,5,5,5,25.1,0,0.36,0.20,0,0
+2026/04/23,True,Texas Rangers,Chris Martin,P,Pitcher,0,0,0,0,.000,8,8,0,6.1,0,0.00,0.00,0,0
+2026/04/23,True,Chicago Cubs,Ian Happ,LF,Outfielder,1,38,0,1,.974,21,21,21,188.0,36,1.77,1.76,0,0
+2026/04/23,True,Chicago Cubs,Ian Happ,DH,Designated Hitter,0,0,0,0,.000,1,1,1,0.0,0,-.--,0.00,0,0
+2026/04/23,True,San Diego Padres,Ty France,1B,First Base,10,61,6,0,1.000,12,12,8,75.0,51,7.32,5.08,0,0
+2026/04/23,True,Pittsburgh Pirates,Brandon Lowe,2B,Second Base,49,78,12,0,1.000,19,19,19,175.1,29,4.01,4.11,0,0
+2026/04/23,True,Pittsburgh Pirates,Brandon Lowe,DH,Designated Hitter,0,0,0,0,.000,1,1,1,0.0,0,-.--,0.00,0,0
+2026/04/23,True,San Francisco Giants,Harrison Bader,CF,Outfielder,0,32,0,0,1.000,15,15,14,125.0,32,2.30,2.13,0,0
+2026/04/23,True,Texas Rangers,Sam Haggerty,LF,Outfielder,0,7,0,0,1.000,7,7,4,26.2,7,2.42,1.00,0,0
+2026/04/23,True,Texas Rangers,Sam Haggerty,CF,Outfielder,0,0,0,0,.000,1,1,1,7.0,0,0.00,0.00,0,0
+2026/04/23,True,Texas Rangers,Sam Haggerty,DH,Designated Hitter,0,0,0,0,.000,1,1,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Colorado Rockies,Zach Agnos,P,Pitcher,2,2,0,0,1.000,7,7,0,13.1,0,1.38,0.29,0,0
+2026/04/23,True,Chicago Cubs,Scott Kingery,2B,Second Base,1,1,0,0,1.000,1,1,0,2.0,0,4.50,1.00,0,0
+2026/04/23,True,Chicago Cubs,Scott Kingery,3B,Third Base,0,2,0,2,.000,1,1,0,4.0,0,0.00,0.00,2,0
+2026/04/23,True,Chicago Cubs,Scott Kingery,DH,Designated Hitter,0,0,0,0,.000,1,1,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Cleveland Guardians,Kyle Manzardo,1B,First Base,10,110,12,0,1.000,15,15,14,116.1,100,8.53,7.33,0,0
+2026/04/23,True,Cleveland Guardians,Kyle Manzardo,DH,Designated Hitter,0,0,0,0,.000,7,7,6,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Tampa Bay Rays,Jonny DeLuca,CF,Outfielder,0,15,0,0,1.000,5,5,4,36.0,15,3.75,3.00,0,0
+2026/04/23,True,Tampa Bay Rays,Jonny DeLuca,RF,Outfielder,1,18,0,0,1.000,13,13,7,77.0,17,2.10,1.38,0,0
+2026/04/23,True,Tampa Bay Rays,Jonny DeLuca,DH,Designated Hitter,0,0,0,0,.000,1,1,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Toronto Blue Jays,Cody Ponce,P,Pitcher,0,1,0,1,.000,1,1,1,2.1,0,0.00,0.00,0,0
+2026/04/23,True,Durham Bulls,Garrett Cleavinger,P,Pitcher,0,0,0,0,.000,3,3,0,2.1,0,0.00,0.00,0,0
+2026/04/23,True,San Francisco Giants,Patrick Bailey,C,Catcher,7,182,1,1,.995,19,19,19,164.0,174,9.93,9.53,0,0
+2026/04/23,True,Los Angeles Angels,Reid Detmers,P,Pitcher,5,6,0,0,1.000,5,5,5,28.2,1,1.93,1.20,0,0
+2026/04/23,True,Toronto Blue Jays,Ernie Clement,2B,Second Base,46,76,10,1,.987,21,21,20,179.0,29,3.77,3.57,0,0
+2026/04/23,True,Toronto Blue Jays,Ernie Clement,3B,Third Base,6,10,0,0,1.000,5,5,3,27.2,4,3.33,2.00,0,0
+2026/04/23,True,Toronto Blue Jays,Ernie Clement,SS,Shortstop,1,2,1,0,1.000,1,1,1,7.0,1,2.57,2.00,0,0
+2026/04/23,True,Texas Rangers,Robert Garcia,P,Pitcher,1,1,0,0,1.000,9,9,0,8.0,0,1.13,0.11,0,0
+2026/04/23,True,Arizona Diamondbacks,Paul Sewald,P,Pitcher,1,1,0,0,1.000,11,11,0,9.1,0,1.00,0.09,0,0
+2026/04/23,True,New York Yankees,Randal Grichuk,LF,Outfielder,0,7,0,0,1.000,9,9,8,59.0,7,1.07,0.78,0,0
+2026/04/23,True,New York Yankees,Randal Grichuk,RF,Outfielder,0,2,0,0,1.000,1,1,1,6.0,2,3.00,2.00,0,0
+2026/04/23,True,New York Yankees,Randal Grichuk,DH,Designated Hitter,0,0,0,0,.000,4,4,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Miami Marlins,Pete Fairbanks,P,Pitcher,0,0,0,0,.000,9,9,1,8.2,0,0.00,0.00,0,0
+2026/04/23,True,Toronto Blue Jays,Tyler Heineman,P,Pitcher,0,1,0,0,1.000,2,2,0,3.0,1,3.00,0.50,0,0
+2026/04/23,True,Toronto Blue Jays,Tyler Heineman,C,Catcher,6,103,1,3,.971,13,13,10,87.1,94,10.34,7.69,2,0
+2026/04/23,True,Seattle Mariners,Randy Arozarena,LF,Outfielder,1,51,1,0,1.000,26,26,26,231.1,50,1.99,1.96,0,0
+2026/04/23,True,Detroit Tigers,Brant Hurter,P,Pitcher,1,2,0,0,1.000,8,8,0,9.0,1,2.00,0.25,0,0
+2026/04/23,True,San Francisco Giants,JT Brubaker,P,Pitcher,1,1,1,0,1.000,9,9,0,11.1,0,0.82,0.11,0,0
+2026/04/23,True,Washington Nationals,Cionel Pérez,P,Pitcher,3,4,0,0,1.000,12,12,0,11.2,1,3.27,0.33,0,0
+2026/04/23,True,Los Angeles Angels,Mike Trout,CF,Outfielder,0,45,0,1,.978,22,22,22,188.1,44,2.11,2.00,0,0
+2026/04/23,True,Los Angeles Angels,Mike Trout,DH,Designated Hitter,0,0,0,0,.000,3,3,3,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Tampa Bay Rays,Hunter Feduccia,C,Catcher,4,74,0,1,.986,13,13,10,77.0,69,8.53,5.62,1,0
+2026/04/23,True,Cleveland Guardians,Tanner Bibee,P,Pitcher,2,5,0,0,1.000,6,6,6,30.1,3,1.50,0.83,0,0
+2026/04/23,True,Cleveland Guardians,Gabriel Arias,SS,Shortstop,18,33,4,0,1.000,10,10,10,83.0,15,3.58,3.30,0,0
+2026/04/23,True,New York Mets,Huascar Brazobán,P,Pitcher,2,4,0,0,1.000,10,10,0,10.2,2,3.60,0.40,0,0
+2026/04/23,True,St. Louis Cardinals,Alec Burleson,1B,First Base,18,223,13,2,.991,23,23,22,202.0,203,9.85,9.61,1,0
+2026/04/23,True,Minnesota Twins,Simeon Woods Richardson,P,Pitcher,2,2,0,0,1.000,5,5,5,25.2,0,0.72,0.40,0,0
+2026/04/23,True,Cincinnati Reds,Matt McLain,2B,Second Base,63,104,16,0,1.000,25,25,23,212.0,41,4.42,4.16,0,0
+2026/04/23,True,Boston Red Sox,Garrett Whitlock,P,Pitcher,0,1,0,0,1.000,9,9,0,9.0,1,1.00,0.11,0,0
+2026/04/23,True,Salt Lake Bees,Joey Lucchesi,P,Pitcher,1,1,0,0,1.000,3,3,0,2.1,0,4.50,0.33,0,0
+2026/04/23,True,Toronto Blue Jays,Alejandro Kirk,C,Catcher,2,70,1,0,1.000,5,5,5,46.1,68,13.70,14.00,0,0
+2026/04/23,True,Arizona Diamondbacks,Taylor Clarke,P,Pitcher,2,5,0,0,1.000,12,12,0,12.2,3,3.75,0.42,0,0
+2026/04/23,True,Chicago Cubs,Phil Maton,P,Pitcher,1,1,0,0,1.000,5,5,0,4.0,0,2.25,0.20,0,0
+2026/04/23,True,Cincinnati Reds,Sam Moll,P,Pitcher,2,2,0,0,1.000,11,11,0,11.0,0,1.64,0.18,0,0
+2026/04/23,True,Los Angeles Dodgers,Ben Casparius,P,Pitcher,0,0,0,0,.000,5,5,0,4.2,0,0.00,0.00,0,0
+2026/04/23,True,Kansas City Royals,Starling Marte,LF,Outfielder,0,0,0,0,.000,2,2,0,4.0,0,0.00,0.00,0,0
+2026/04/23,True,Kansas City Royals,Starling Marte,RF,Outfielder,1,7,0,0,1.000,5,5,5,41.0,6,1.54,1.40,0,0
+2026/04/23,True,Kansas City Royals,Starling Marte,DH,Designated Hitter,0,0,0,0,.000,1,1,1,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Philadelphia Phillies,Dylan Moore,P,Pitcher,1,1,0,0,1.000,2,2,0,1.2,0,9.00,0.50,0,0
+2026/04/23,True,Philadelphia Phillies,Dylan Moore,1B,First Base,0,1,0,0,1.000,2,2,0,4.0,1,2.25,0.50,0,0
+2026/04/23,True,Philadelphia Phillies,Dylan Moore,2B,Second Base,1,3,1,0,1.000,1,1,1,8.0,2,3.38,3.00,0,0
+2026/04/23,True,Philadelphia Phillies,Dylan Moore,CF,Outfielder,0,0,0,0,.000,1,1,0,1.0,0,0.00,0.00,0,0
+2026/04/23,True,Philadelphia Phillies,Dylan Moore,DH,Designated Hitter,0,0,0,0,.000,1,1,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Miami Marlins,Calvin Faucher,P,Pitcher,0,1,0,0,1.000,10,10,0,8.0,1,1.13,0.10,0,0
+2026/04/23,True,Los Angeles Angels,Yoán Moncada,3B,Third Base,31,43,2,3,.930,17,17,17,140.0,9,2.57,2.35,1,0
+2026/04/23,True,Los Angeles Angels,Yoán Moncada,DH,Designated Hitter,0,0,0,0,.000,3,3,3,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Detroit Tigers,Keider Montero,P,Pitcher,1,1,0,0,1.000,4,4,4,22.0,0,0.41,0.25,0,0
+2026/04/23,True,Washington Nationals,PJ Poulin,P,Pitcher,2,2,0,0,1.000,14,14,3,12.2,0,1.50,0.14,0,0
+2026/04/23,True,Detroit Tigers,Framber Valdez,P,Pitcher,2,5,0,1,.800,5,5,5,30.0,2,1.20,0.80,0,0
+2026/04/23,True,Texas Rangers,Cole Winn,P,Pitcher,1,1,0,0,1.000,12,12,0,11.0,0,0.82,0.08,0,0
+2026/04/23,True,Houston Astros,Cristian Javier,P,Pitcher,0,0,0,0,.000,3,3,3,9.1,0,0.00,0.00,0,0
+2026/04/23,True,Cleveland Guardians,Peyton Pallette,P,Pitcher,0,0,0,0,.000,7,7,0,10.2,0,0.00,0.00,0,0
+2026/04/23,True,Buffalo Bisons,Josh Fleming,P,Pitcher,0,2,0,1,.500,1,1,0,3.0,1,3.00,1.00,1,0
+2026/04/23,True,Baltimore Orioles,Kyle Bradish,P,Pitcher,4,8,0,2,.750,5,5,5,25.0,2,2.16,1.20,1,0
+2026/04/23,True,Tampa Bay Rays,Richie Palacios,2B,Second Base,24,46,3,1,.978,16,16,13,108.0,21,3.75,2.81,1,0
+2026/04/23,True,Tampa Bay Rays,Richie Palacios,RF,Outfielder,0,0,0,0,.000,1,1,0,2.0,0,0.00,0.00,0,0
+2026/04/23,True,Los Angeles Angels,Nick Sandlin,P,Pitcher,1,1,0,0,1.000,4,4,0,4.1,0,2.25,0.25,0,0
+2026/04/23,True,New York Yankees,José Caballero,SS,Shortstop,66,89,11,3,.966,23,23,23,203.2,20,3.81,3.74,1,0
+2026/04/23,True,Arizona Diamondbacks,Gabriel Moreno,C,Catcher,6,68,0,1,.985,11,11,9,76.1,61,7.93,6.09,1,0
+2026/04/23,True,Arizona Diamondbacks,Gabriel Moreno,DH,Designated Hitter,0,0,0,0,.000,2,2,2,0.0,0,-.--,0.00,0,0
+2026/04/23,True,St. Louis Cardinals,Riley O'Brien,P,Pitcher,2,6,0,0,1.000,13,13,0,13.1,4,4.15,0.46,0,0
+2026/04/23,True,Toronto Blue Jays,Addison Barger,RF,Outfielder,0,10,0,0,1.000,7,7,5,45.0,10,2.00,1.43,0,0
+2026/04/23,True,San Diego Padres,Kyle Hart,P,Pitcher,4,5,0,0,1.000,9,9,0,14.2,1,3.21,0.56,0,0
+2026/04/23,True,Arizona Diamondbacks,Adrian Del Castillo,C,Catcher,1,45,0,1,.978,5,5,5,44.0,43,9.00,8.80,0,0
+2026/04/23,True,Arizona Diamondbacks,Adrian Del Castillo,DH,Designated Hitter,0,0,0,0,.000,4,4,4,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Washington Nationals,Mitchell Parker,P,Pitcher,0,0,0,0,.000,3,3,0,7.0,0,0.00,0.00,0,0
+2026/04/23,True,Chicago White Sox,Sean Burke,P,Pitcher,5,7,2,1,.857,5,5,4,26.1,1,2.08,1.20,1,0
+2026/04/23,True,Los Angeles Dodgers,Justin Wrobleski,P,Pitcher,1,3,0,0,1.000,4,4,3,24.0,2,1.13,0.75,0,0
+2026/04/23,True,Indianapolis Indians,José Urquidy,P,Pitcher,0,0,0,0,.000,5,5,0,6.1,0,0.00,0.00,0,0
+2026/04/23,True,Minnesota Twins,Luke Keaschall,2B,Second Base,50,98,16,2,.980,24,24,23,203.0,46,4.26,4.00,1,0
+2026/04/23,True,Chicago Cubs,Matt Shaw,1B,First Base,0,7,1,0,1.000,2,2,1,10.0,7,6.30,3.50,0,0
+2026/04/23,True,Chicago Cubs,Matt Shaw,3B,Third Base,2,3,0,0,1.000,2,2,2,14.0,1,1.93,1.50,0,0
+2026/04/23,True,Chicago Cubs,Matt Shaw,RF,Outfielder,1,27,0,0,1.000,13,13,11,102.0,26,2.38,2.08,0,0
+2026/04/23,True,Chicago Cubs,Matt Shaw,DH,Designated Hitter,0,0,0,0,.000,4,4,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Philadelphia Phillies,Jonathan Bowlan,P,Pitcher,0,0,0,0,.000,7,7,0,7.0,0,0.00,0.00,0,0
+2026/04/23,True,Los Angeles Dodgers,Shohei Ohtani,P,Pitcher,2,9,0,0,1.000,4,4,4,24.0,7,3.38,2.25,0,0
+2026/04/23,True,Los Angeles Dodgers,Shohei Ohtani,DH,Designated Hitter,0,0,0,0,.000,23,23,20,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Toronto Blue Jays,Braydon Fisher,P,Pitcher,3,5,0,2,.600,12,12,1,13.0,0,2.08,0.25,2,0
+2026/04/23,True,Cleveland Guardians,Steven Kwan,LF,Outfielder,0,14,0,0,1.000,8,8,5,48.1,14,2.63,1.75,0,0
+2026/04/23,True,Cleveland Guardians,Steven Kwan,CF,Outfielder,2,46,1,1,.978,21,21,20,171.0,43,2.37,2.14,0,0
+2026/04/23,True,Colorado Rockies,Victor Vodnik,P,Pitcher,1,2,0,0,1.000,9,9,0,10.0,1,1.80,0.22,0,0
+2026/04/23,True,Texas Rangers,Brandon Nimmo,RF,Outfielder,2,37,0,1,.973,23,23,23,200.2,34,1.62,1.57,1,0
+2026/04/23,True,Texas Rangers,Brandon Nimmo,DH,Designated Hitter,0,0,0,0,.000,1,1,1,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Kansas City Royals,Maikel Garcia,3B,Third Base,41,54,5,0,1.000,25,25,25,211.1,13,2.30,2.16,0,0
+2026/04/23,True,Milwaukee Brewers,Angel Zerpa,P,Pitcher,2,3,0,0,1.000,10,10,0,11.0,1,2.45,0.30,0,0
+2026/04/23,True,Boston Red Sox,Jarren Duran,LF,Outfielder,0,21,0,0,1.000,12,12,11,98.0,21,1.93,1.75,0,0
+2026/04/23,True,Boston Red Sox,Jarren Duran,CF,Outfielder,0,7,0,0,1.000,4,4,4,30.0,7,2.10,1.75,0,0
+2026/04/23,True,Boston Red Sox,Jarren Duran,DH,Designated Hitter,0,0,0,0,.000,3,3,3,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Minnesota Twins,Ryan Jeffers,C,Catcher,2,119,1,1,.992,15,15,14,124.0,116,8.56,7.87,1,0
+2026/04/23,True,Minnesota Twins,Ryan Jeffers,DH,Designated Hitter,0,0,0,0,.000,2,2,2,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Pittsburgh Pirates,Henry Davis,C,Catcher,6,166,0,1,.994,18,18,15,139.0,159,10.68,9.17,0,0
+2026/04/23,True,Minnesota Twins,Justin Topa,P,Pitcher,2,2,1,0,1.000,15,15,0,11.2,0,1.64,0.13,0,0
+2026/04/23,True,Detroit Tigers,Will Vest,P,Pitcher,0,0,0,0,.000,11,11,0,10.0,0,0.00,0.00,0,0
+2026/04/23,True,Arizona Diamondbacks,Carlos Santana,1B,First Base,4,64,4,1,.984,8,8,8,62.0,59,9.15,7.88,0,0
+2026/04/23,True,Houston Astros,Jake Meyers,CF,Outfielder,0,20,0,0,1.000,12,12,11,89.0,20,2.02,1.67,0,0
+2026/04/23,True,Chicago Cubs,Colin Rea,P,Pitcher,0,7,0,0,1.000,5,5,2,24.0,7,2.63,1.40,0,0
+2026/04/23,True,Detroit Tigers,Drew Anderson,P,Pitcher,0,1,0,0,1.000,7,7,0,11.1,1,0.82,0.14,0,0
+2026/04/23,True,Texas Rangers,Jalen Beeks,P,Pitcher,0,0,0,0,.000,11,11,0,10.0,0,0.00,0.00,0,0
+2026/04/23,True,Houston Astros,Ryan Weiss,P,Pitcher,1,2,0,0,1.000,7,7,2,18.0,1,1.00,0.29,0,0
+2026/04/23,True,New York Yankees,Jake Bird,P,Pitcher,0,0,0,0,.000,8,8,0,7.0,0,0.00,0.00,0,0
+2026/04/23,True,Texas Rangers,Jacob deGrom,P,Pitcher,1,3,0,0,1.000,4,4,4,19.2,2,1.42,0.75,0,0
+2026/04/23,True,Colorado Rockies,Jimmy Herget,P,Pitcher,1,1,0,0,1.000,11,11,3,12.0,0,0.75,0.09,0,0
+2026/04/23,True,New York Mets,Jared Young,1B,First Base,2,33,3,0,1.000,5,5,4,31.0,31,9.58,6.60,0,0
+2026/04/23,True,New York Mets,Jared Young,LF,Outfielder,1,6,0,0,1.000,3,3,2,13.0,5,4.15,2.00,0,0
+2026/04/23,True,New York Mets,Jared Young,RF,Outfielder,0,0,0,0,.000,1,1,0,1.0,0,0.00,0.00,0,0
+2026/04/23,True,New York Mets,Jared Young,DH,Designated Hitter,0,0,0,0,.000,1,1,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Boston Red Sox,Masataka Yoshida,LF,Outfielder,0,2,0,0,1.000,2,2,2,15.0,2,1.20,1.00,0,0
+2026/04/23,True,Boston Red Sox,Masataka Yoshida,DH,Designated Hitter,0,0,0,0,.000,8,8,8,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Miami Marlins,Otto Lopez,SS,Shortstop,43,74,7,4,.946,24,24,24,211.0,27,2.99,2.92,2,0
+2026/04/23,True,Kansas City Royals,Elias Díaz,C,Catcher,0,12,0,0,1.000,2,2,1,10.0,12,10.80,6.00,0,0
+2026/04/23,True,Cincinnati Reds,Brock Burke,P,Pitcher,3,3,0,0,1.000,12,12,0,11.1,0,2.45,0.25,0,0
+2026/04/23,True,Pittsburgh Pirates,Isaac Mattson,P,Pitcher,1,2,0,0,1.000,13,13,0,13.2,1,1.38,0.15,0,0
+2026/04/23,True,San Diego Padres,Ron Marinaccio,P,Pitcher,1,1,0,0,1.000,8,8,0,12.1,0,0.75,0.13,0,0
+2026/04/23,True,Athletics,Zack Gelof,2B,Second Base,5,6,0,0,1.000,4,4,0,8.0,1,6.75,1.50,0,0
+2026/04/23,True,Athletics,Zack Gelof,CF,Outfielder,0,6,0,0,1.000,4,4,2,17.2,6,3.18,1.50,0,0
+2026/04/23,True,Athletics,Zack Gelof,RF,Outfielder,0,0,0,0,.000,2,2,2,12.0,0,0.00,0.00,0,0
+2026/04/23,True,Boston Red Sox,Roman Anthony,LF,Outfielder,1,23,0,2,.913,12,12,11,98.1,20,1.93,1.75,2,0
+2026/04/23,True,Boston Red Sox,Roman Anthony,RF,Outfielder,0,3,0,0,1.000,1,1,1,9.0,3,3.00,3.00,0,0
+2026/04/23,True,Boston Red Sox,Roman Anthony,DH,Designated Hitter,0,0,0,0,.000,9,9,9,0.0,0,-.--,0.00,0,0
+2026/04/23,True,San Francisco Giants,Keaton Winn,P,Pitcher,1,1,0,0,1.000,11,11,0,9.2,0,1.00,0.09,0,0
+2026/04/23,True,Toronto Blue Jays,Dylan Cease,P,Pitcher,0,3,0,1,.667,5,5,5,25.2,2,0.72,0.40,0,0
+2026/04/23,True,Houston Astros,Cam Smith,RF,Outfielder,2,58,0,2,.966,26,26,24,217.1,54,2.32,2.15,0,0
+2026/04/23,True,San Francisco Giants,Matt Chapman,3B,Third Base,55,71,5,4,.944,24,24,24,213.0,12,2.83,2.79,3,0
+2026/04/23,True,Arizona Diamondbacks,Geraldo Perdomo,SS,Shortstop,52,81,7,1,.988,23,23,23,201.1,28,3.58,3.48,0,0
+2026/04/23,True,Houston Astros,Christian Roa,P,Pitcher,1,1,0,0,1.000,7,7,0,8.2,0,1.13,0.14,0,0
+2026/04/23,True,Los Angeles Angels,Oswald Peraza,2B,Second Base,29,45,6,0,1.000,14,14,12,102.0,16,3.97,3.21,0,0
+2026/04/23,True,Los Angeles Angels,Oswald Peraza,3B,Third Base,15,25,2,1,.960,13,13,7,70.1,9,3.09,1.85,0,0
+2026/04/23,True,Cincinnati Reds,Sal Stewart,1B,First Base,7,175,18,0,1.000,24,24,22,188.0,168,8.38,7.29,0,0
+2026/04/23,True,Cincinnati Reds,Sal Stewart,2B,Second Base,2,7,2,0,1.000,2,2,2,14.0,5,4.50,3.50,0,0
+2026/04/23,True,Cincinnati Reds,Sal Stewart,3B,Third Base,1,3,0,0,1.000,4,4,0,10.0,2,2.70,0.75,0,0
+2026/04/23,True,Cincinnati Reds,Sal Stewart,DH,Designated Hitter,0,0,0,0,.000,1,1,1,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Los Angeles Dodgers,Tyler Glasnow,P,Pitcher,3,5,0,0,1.000,4,4,4,25.0,2,1.80,1.25,0,0
+2026/04/23,True,Chicago White Sox,Erick Fedde,P,Pitcher,2,2,0,0,1.000,4,4,3,20.2,0,0.90,0.50,0,0
+2026/04/23,True,Philadelphia Phillies,Trea Turner,SS,Shortstop,54,97,10,3,.969,24,24,24,206.0,40,4.11,3.92,0,0
+2026/04/23,True,Detroit Tigers,Wenceel Pérez,CF,Outfielder,0,4,0,0,1.000,4,4,2,19.0,4,1.89,1.00,0,0
+2026/04/23,True,Detroit Tigers,Wenceel Pérez,RF,Outfielder,0,17,0,0,1.000,9,9,6,59.1,17,2.59,1.89,0,0
+2026/04/23,True,Philadelphia Phillies,Orion Kerkering,P,Pitcher,0,0,0,0,.000,7,7,0,6.2,0,0.00,0.00,0,0
+2026/04/23,True,Detroit Tigers,Jake Rogers,P,Pitcher,0,0,0,0,.000,1,1,0,1.0,0,0.00,0.00,0,0
+2026/04/23,True,Detroit Tigers,Jake Rogers,C,Catcher,4,78,1,0,1.000,8,8,8,67.0,74,10.48,9.75,0,0
+2026/04/23,True,Kansas City Royals,Lucas Erceg,P,Pitcher,4,4,0,0,1.000,10,10,0,9.1,0,4.00,0.40,0,0
+2026/04/23,True,Arizona Diamondbacks,Zac Gallen,P,Pitcher,2,6,0,0,1.000,5,5,5,25.2,4,2.16,1.20,0,0
+2026/04/23,True,Los Angeles Dodgers,Miguel Rojas,P,Pitcher,0,0,0,0,.000,1,1,0,1.0,0,0.00,0.00,0,0
+2026/04/23,True,Los Angeles Dodgers,Miguel Rojas,2B,Second Base,7,13,0,0,1.000,5,5,4,35.0,6,3.34,2.60,0,0
+2026/04/23,True,Los Angeles Dodgers,Miguel Rojas,SS,Shortstop,18,24,1,0,1.000,10,10,6,59.0,6,3.66,2.40,0,0
+2026/04/23,True,Cincinnati Reds,Eugenio Suárez,3B,Third Base,8,13,3,1,.923,6,6,6,46.0,4,2.35,2.00,0,0
+2026/04/23,True,Cincinnati Reds,Eugenio Suárez,DH,Designated Hitter,0,0,0,0,.000,19,19,18,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Tampa Bay Rays,Yoendrys Gómez,P,Pitcher,0,0,0,0,.000,8,8,0,15.1,0,0.00,0.00,0,0
+2026/04/23,True,Milwaukee Brewers,Aaron Ashby,P,Pitcher,2,3,0,0,1.000,12,12,1,15.0,1,1.80,0.25,0,0
+2026/04/23,True,Seattle Mariners,Brendan Donovan,3B,Third Base,24,43,4,4,.907,17,17,17,139.2,15,2.53,2.29,3,0
+2026/04/23,True,Tampa Bay Rays,Nick Martinez,P,Pitcher,1,3,0,0,1.000,5,5,5,30.0,2,0.90,0.60,0,0
+2026/04/23,True,Colorado Rockies,Jose Quintana,P,Pitcher,2,3,0,1,.667,3,3,3,13.0,0,1.38,0.67,0,0
+2026/04/23,True,Detroit Tigers,Jack Flaherty,P,Pitcher,2,3,0,1,.667,5,5,5,23.1,0,0.78,0.40,1,0
+2026/04/23,True,Cincinnati Reds,Spencer Steer,1B,First Base,0,14,2,1,.929,7,7,1,20.0,13,5.85,1.86,0,0
+2026/04/23,True,Cincinnati Reds,Spencer Steer,3B,Third Base,0,0,0,0,.000,1,1,0,1.0,0,0.00,0.00,0,0
+2026/04/23,True,Cincinnati Reds,Spencer Steer,LF,Outfielder,0,34,0,1,.971,20,20,20,151.0,33,1.97,1.65,1,0
+2026/04/23,True,Cincinnati Reds,Spencer Steer,RF,Outfielder,0,4,0,0,1.000,4,4,1,17.0,4,2.12,1.00,0,0
+2026/04/23,True,Toronto Blue Jays,Davis Schneider,2B,Second Base,3,7,1,0,1.000,3,3,1,11.2,4,5.73,2.33,0,0
+2026/04/23,True,Toronto Blue Jays,Davis Schneider,LF,Outfielder,0,6,0,0,1.000,14,14,8,70.0,6,0.77,0.43,0,0
+2026/04/23,True,Toronto Blue Jays,Davis Schneider,DH,Designated Hitter,0,0,0,0,.000,1,1,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Tampa Bay Rays,Ryan Vilade,1B,First Base,1,9,2,0,1.000,3,3,1,10.0,8,8.10,3.00,0,0
+2026/04/23,True,Tampa Bay Rays,Ryan Vilade,2B,Second Base,0,1,0,0,1.000,1,1,0,1.0,1,9.00,1.00,0,0
+2026/04/23,True,Tampa Bay Rays,Ryan Vilade,LF,Outfielder,0,6,0,0,1.000,2,2,2,13.0,6,4.15,3.00,0,0
+2026/04/23,True,Tampa Bay Rays,Ryan Vilade,RF,Outfielder,0,14,0,0,1.000,5,5,3,28.0,14,4.50,2.80,0,0
+2026/04/23,True,Toronto Blue Jays,Lenyn Sosa,1B,First Base,0,13,1,0,1.000,3,3,2,20.0,13,5.85,4.33,0,0
+2026/04/23,True,Toronto Blue Jays,Lenyn Sosa,1B,First Base,0,3,0,0,1.000,1,1,1,8.0,3,3.38,3.00,0,0
+2026/04/23,True,Toronto Blue Jays,Lenyn Sosa,1B,First Base,0,10,1,0,1.000,2,2,1,12.0,10,7.50,5.00,0,0
+2026/04/23,True,Toronto Blue Jays,Lenyn Sosa,2B,Second Base,11,22,3,0,1.000,4,4,4,32.0,11,6.19,5.50,0,0
+2026/04/23,True,Toronto Blue Jays,Lenyn Sosa,2B,Second Base,8,14,2,0,1.000,3,3,3,23.0,6,5.48,4.67,0,0
+2026/04/23,True,Toronto Blue Jays,Lenyn Sosa,2B,Second Base,3,8,1,0,1.000,1,1,1,9.0,5,8.00,8.00,0,0
+2026/04/23,True,Toronto Blue Jays,Lenyn Sosa,DH,Designated Hitter,0,0,0,0,.000,8,8,7,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Toronto Blue Jays,Lenyn Sosa,DH,Designated Hitter,0,0,0,0,.000,1,1,1,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Toronto Blue Jays,Lenyn Sosa,DH,Designated Hitter,0,0,0,0,.000,7,7,6,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Washington Nationals,Cade Cavalli,P,Pitcher,2,5,0,1,.800,5,5,5,19.2,2,1.89,0.80,1,0
+2026/04/23,True,Pittsburgh Pirates,Nick Gonzales,2B,Second Base,14,23,2,0,1.000,6,6,5,46.0,9,4.50,3.83,0,0
+2026/04/23,True,Pittsburgh Pirates,Nick Gonzales,3B,Third Base,13,24,1,1,.958,13,13,10,95.0,10,2.18,1.77,0,0
+2026/04/23,True,Pittsburgh Pirates,Nick Gonzales,SS,Shortstop,7,14,1,1,.929,3,3,3,24.0,6,4.88,4.33,1,0
+2026/04/23,True,Detroit Tigers,Dillon Dingler,C,Catcher,5,133,0,1,.992,17,17,17,148.2,127,8.03,7.76,1,0
+2026/04/23,True,Detroit Tigers,Dillon Dingler,DH,Designated Hitter,0,0,0,0,.000,3,3,1,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Cincinnati Reds,Kyle Nicolas,P,Pitcher,1,1,0,0,1.000,6,6,0,6.1,0,1.50,0.17,0,0
+2026/04/23,True,Los Angeles Dodgers,Blake Treinen,P,Pitcher,0,1,0,0,1.000,9,9,0,6.2,1,1.50,0.11,0,0
+2026/04/23,True,Charlotte Knights,Brandon Eisert,P,Pitcher,0,0,0,0,.000,2,2,0,2.1,0,0.00,0.00,0,0
+2026/04/23,True,Charlotte Knights,Tyler Gilbert,P,Pitcher,1,1,0,0,1.000,2,2,0,2.2,0,4.50,0.50,0,0
+2026/04/23,True,Arizona Diamondbacks,Kevin Ginkel,P,Pitcher,1,1,0,0,1.000,10,10,0,9.2,0,1.00,0.10,0,0
+2026/04/23,True,Chicago Cubs,Ben Brown,P,Pitcher,0,2,0,0,1.000,8,8,0,19.0,2,0.95,0.25,0,0
+2026/04/23,True,San Diego Padres,Jackson Merrill,CF,Outfielder,1,55,0,0,1.000,24,24,23,207.0,54,2.39,2.29,0,0
+2026/04/23,True,Minnesota Twins,Tristan Gray,1B,First Base,0,1,1,0,1.000,1,1,0,2.0,1,4.50,1.00,0,0
+2026/04/23,True,Minnesota Twins,Tristan Gray,3B,Third Base,10,20,0,2,.900,8,8,6,58.0,8,2.79,2.25,1,0
+2026/04/23,True,Minnesota Twins,Tristan Gray,SS,Shortstop,6,13,2,0,1.000,4,4,4,33.0,7,3.55,3.25,0,0
+2026/04/23,True,Toronto Blue Jays,Mason Fluharty,P,Pitcher,0,1,0,0,1.000,12,12,1,8.2,1,1.13,0.08,0,0
+2026/04/23,True,New York Yankees,Will Warren,P,Pitcher,3,6,1,0,1.000,5,5,5,25.1,3,2.16,1.20,0,0
+2026/04/23,True,Washington Nationals,Foster Griffin,P,Pitcher,4,7,0,0,1.000,5,5,5,26.2,3,2.42,1.40,0,0
+2026/04/23,True,Miami Marlins,Max Meyer,P,Pitcher,4,7,0,0,1.000,5,5,5,25.0,3,2.52,1.40,0,0
+2026/04/23,True,Rochester Red Wings,Andre Granillo,P,Pitcher,1,1,0,0,1.000,5,5,0,4.1,0,2.25,0.20,0,0
+2026/04/23,True,Atlanta Braves,Dylan Dodd,P,Pitcher,0,1,0,0,1.000,2,2,0,4.0,1,2.25,0.50,0,0
+2026/04/23,True,Boston Red Sox,Garrett Crochet,P,Pitcher,2,3,0,0,1.000,5,5,5,24.0,1,1.13,0.60,0,0
+2026/04/23,True,Philadelphia Phillies,Bryson Stott,2B,Second Base,47,76,8,1,.987,18,18,16,146.0,28,4.62,4.17,0,0
+2026/04/23,True,Toronto Blue Jays,Myles Straw,LF,Outfielder,1,2,0,0,1.000,6,6,0,10.2,1,1.80,0.33,0,0
+2026/04/23,True,Toronto Blue Jays,Myles Straw,CF,Outfielder,0,6,0,0,1.000,4,4,3,29.0,6,1.86,1.50,0,0
+2026/04/23,True,Toronto Blue Jays,Myles Straw,RF,Outfielder,0,5,0,0,1.000,7,7,4,33.0,5,1.36,0.71,0,0
+2026/04/23,True,Toronto Blue Jays,Myles Straw,DH,Designated Hitter,0,0,0,0,.000,2,2,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Pittsburgh Pirates,Bryan Reynolds,LF,Outfielder,0,24,0,1,.958,18,18,18,149.1,23,1.39,1.28,1,0
+2026/04/23,True,Pittsburgh Pirates,Bryan Reynolds,RF,Outfielder,0,7,0,0,1.000,8,8,2,30.0,7,2.10,0.88,0,0
+2026/04/23,True,Pittsburgh Pirates,Bryan Reynolds,DH,Designated Hitter,0,0,0,0,.000,3,3,3,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Baltimore Orioles,Anthony Nunez,P,Pitcher,1,3,0,1,.667,11,11,0,12.1,1,1.50,0.18,0,0
+2026/04/23,True,Kansas City Royals,Kyle Isbel,CF,Outfielder,0,63,0,1,.984,21,21,20,173.1,62,3.23,2.95,0,0
+2026/04/23,True,Chicago White Sox,Derek Hill,LF,Outfielder,0,0,0,0,.000,4,4,0,10.1,0,0.00,0.00,0,0
+2026/04/23,True,Chicago White Sox,Derek Hill,CF,Outfielder,0,4,0,0,1.000,4,4,2,18.0,4,2.00,1.00,0,0
+2026/04/23,True,Chicago White Sox,Derek Hill,RF,Outfielder,0,8,0,0,1.000,7,7,6,50.0,8,1.44,1.14,0,0
+2026/04/23,True,Chicago White Sox,Derek Hill,DH,Designated Hitter,0,0,0,0,.000,1,1,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Toronto Blue Jays,Jeff Hoffman,P,Pitcher,1,1,0,0,1.000,12,12,0,10.2,0,0.90,0.08,0,0
+2026/04/23,True,Atlanta Braves,Grant Holmes,P,Pitcher,1,6,0,0,1.000,5,5,5,26.1,5,2.08,1.20,0,0
+2026/04/23,True,Cleveland Guardians,Rhys Hoskins,1B,First Base,4,78,8,0,1.000,15,15,12,112.0,74,6.27,5.20,0,0
+2026/04/23,True,Cleveland Guardians,Rhys Hoskins,DH,Designated Hitter,0,0,0,0,.000,4,4,4,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Philadelphia Phillies,Alec Bohm,3B,Third Base,33,49,3,1,.980,22,22,22,195.0,15,2.22,2.18,0,0
+2026/04/23,True,Seattle Mariners,Bryan Woo,P,Pitcher,1,3,0,0,1.000,5,5,5,32.0,2,0.84,0.60,0,0
+2026/04/23,True,Miami Marlins,Andrew Nardi,P,Pitcher,2,2,0,0,1.000,10,10,0,8.1,0,2.25,0.20,0,0
+2026/04/23,True,Atlanta Braves,Ronald Acuña,RF,Outfielder,1,56,0,0,1.000,24,24,24,206.0,55,2.45,2.33,0,0
+2026/04/23,True,Atlanta Braves,Ronald Acuña,DH,Designated Hitter,0,0,0,0,.000,1,1,1,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Toronto Blue Jays,Kazuma Okamoto,1B,First Base,1,10,0,0,1.000,2,2,1,10.0,9,9.00,5.00,0,0
+2026/04/23,True,Toronto Blue Jays,Kazuma Okamoto,3B,Third Base,26,41,0,2,.951,21,21,21,186.0,13,1.89,1.86,1,0
+2026/04/23,True,Toronto Blue Jays,Kazuma Okamoto,DH,Designated Hitter,0,0,0,0,.000,1,1,1,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Toronto Blue Jays,Nathan Lukes,LF,Outfielder,0,3,0,0,1.000,4,4,4,30.0,3,0.90,0.75,0,0
+2026/04/23,True,Toronto Blue Jays,Nathan Lukes,CF,Outfielder,0,4,0,0,1.000,2,2,0,4.0,4,9.00,2.00,0,0
+2026/04/23,True,Toronto Blue Jays,Nathan Lukes,RF,Outfielder,1,20,0,0,1.000,15,15,9,81.0,19,2.22,1.33,0,0
+2026/04/23,True,Seattle Mariners,Connor Joe,1B,First Base,1,14,3,1,.929,2,2,2,17.0,12,6.88,6.50,1,0
+2026/04/23,True,Seattle Mariners,Connor Joe,RF,Outfielder,0,0,0,0,.000,1,1,0,3.0,0,0.00,0.00,0,0
+2026/04/23,True,San Francisco Giants,Caleb Kilian,P,Pitcher,0,1,0,0,1.000,11,11,0,11.0,1,0.82,0.09,0,0
+2026/04/23,True,Washington Nationals,Keibert Ruiz,C,Catcher,4,103,0,2,.981,16,16,13,116.0,97,7.84,6.31,1,0
+2026/04/23,True,Minnesota Twins,Austin Martin,LF,Outfielder,0,22,0,1,.955,18,18,11,99.0,21,1.91,1.17,0,0
+2026/04/23,True,Minnesota Twins,Austin Martin,CF,Outfielder,0,5,0,0,1.000,1,1,1,10.0,5,4.50,5.00,0,0
+2026/04/23,True,Minnesota Twins,Austin Martin,RF,Outfielder,0,5,0,0,1.000,2,2,2,18.0,5,2.50,2.50,0,0
+2026/04/23,True,Pittsburgh Pirates,Mitch Keller,P,Pitcher,5,8,1,0,1.000,5,5,5,29.0,3,2.48,1.60,0,0
+2026/04/23,True,Minnesota Twins,Anthony Banda,P,Pitcher,1,1,0,0,1.000,10,10,0,9.2,0,1.00,0.10,0,0
+2026/04/23,True,New York Mets,Mark Vientos,1B,First Base,10,118,7,0,1.000,16,16,14,123.2,108,8.63,7.38,0,0
+2026/04/23,True,New York Mets,Mark Vientos,DH,Designated Hitter,0,0,0,0,.000,2,2,2,0.0,0,-.--,0.00,0,0
+2026/04/23,True,San Diego Padres,Randy Vásquez,P,Pitcher,3,7,0,0,1.000,5,5,5,28.2,4,2.25,1.40,0,0
+2026/04/23,True,Minnesota Twins,Royce Lewis,3B,Third Base,19,30,0,3,.900,14,14,14,120.0,8,2.03,1.93,2,0
+2026/04/23,True,St. Louis Cardinals,Nathan Church,LF,Outfielder,1,26,0,0,1.000,16,16,11,103.0,25,2.27,1.63,0,0
+2026/04/23,True,St. Louis Cardinals,Nathan Church,CF,Outfielder,0,5,0,0,1.000,6,6,2,24.0,5,1.88,0.83,0,0
+2026/04/23,True,St. Louis Cardinals,Nathan Church,RF,Outfielder,1,6,0,0,1.000,2,2,2,15.0,5,3.60,3.00,0,0
+2026/04/23,True,Cleveland Guardians,Gavin Williams,P,Pitcher,1,1,0,0,1.000,5,5,5,29.2,0,0.31,0.20,0,0
+2026/04/23,True,Colorado Rockies,TJ Rumfield,1B,First Base,7,142,13,0,1.000,17,17,16,137.1,135,9.33,8.35,0,0
+2026/04/23,True,Colorado Rockies,TJ Rumfield,DH,Designated Hitter,0,0,0,0,.000,6,6,6,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Colorado Rockies,Tanner Gordon,P,Pitcher,1,2,0,1,.500,2,2,0,8.0,0,1.13,0.50,0,0
+2026/04/23,True,Atlanta Braves,Aaron Bummer,P,Pitcher,2,2,0,0,1.000,10,10,0,6.2,0,3.00,0.20,0,0
+2026/04/23,True,Kansas City Royals,Alex Lange,P,Pitcher,0,0,0,0,.000,9,9,0,10.2,0,0.00,0.00,0,0
+2026/04/23,True,Los Angeles Angels,Chase Silseth,P,Pitcher,2,3,0,0,1.000,13,13,0,9.1,1,3.00,0.23,0,0
+2026/04/23,True,Texas Rangers,Jacob Latz,P,Pitcher,1,3,0,0,1.000,11,11,1,13.2,2,2.08,0.27,0,0
+2026/04/23,True,Milwaukee Brewers,Brice Turang,2B,Second Base,50,71,14,1,.986,21,21,21,188.0,20,3.35,3.33,1,0
+2026/04/23,True,Cincinnati Reds,Graham Ashcraft,P,Pitcher,0,0,0,0,.000,12,12,0,12.0,0,0.00,0.00,0,0
+2026/04/23,True,Miami Marlins,Liam Hicks,C,Catcher,6,120,0,2,.983,13,13,12,106.0,112,10.02,9.08,1,0
+2026/04/23,True,Miami Marlins,Liam Hicks,1B,First Base,1,33,1,0,1.000,7,7,4,38.0,32,7.82,4.71,0,0
+2026/04/23,True,Miami Marlins,Liam Hicks,DH,Designated Hitter,0,0,0,0,.000,5,5,3,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Baltimore Orioles,Adley Rutschman,C,Catcher,4,98,2,2,.980,11,11,10,89.2,92,9.71,8.73,2,0
+2026/04/23,True,St. Louis Cardinals,JoJo Romero,P,Pitcher,0,1,0,0,1.000,11,11,0,12.0,1,0.75,0.09,0,0
+2026/04/23,True,Texas Rangers,Cal Quantrill,P,Pitcher,0,0,0,0,.000,2,2,0,4.0,0,0.00,0.00,0,0
+2026/04/23,True,Baltimore Orioles,Ryan Helsley,P,Pitcher,0,2,0,0,1.000,11,11,0,9.2,2,2.00,0.18,0,0
+2026/04/23,True,St. Paul Saints,Ryan Kreidler,3B,Third Base,8,14,2,1,.929,4,4,4,34.0,5,3.44,3.25,1,0
+2026/04/23,True,St. Paul Saints,Ryan Kreidler,CF,Outfielder,1,5,1,0,1.000,1,1,1,9.0,4,5.00,5.00,0,0
+2026/04/23,True,Atlanta Braves,José Suarez,P,Pitcher,0,0,0,0,.000,6,6,1,14.1,0,0.00,0.00,0,0
+2026/04/23,True,New York Mets,Tobias Myers,P,Pitcher,1,3,0,0,1.000,7,7,1,15.0,2,1.80,0.43,0,0
+2026/04/23,True,Pittsburgh Pirates,Justin Lawrence,P,Pitcher,0,0,0,0,.000,11,11,0,11.0,0,0.00,0.00,0,0
+2026/04/23,True,Boston Red Sox,Zack Kelly,P,Pitcher,1,5,0,0,1.000,8,8,0,9.0,4,5.00,0.63,0,0
+2026/04/23,True,Colorado Rockies,Kyle Freeland,P,Pitcher,2,2,0,0,1.000,3,3,3,15.2,0,1.20,0.67,0,0
+2026/04/23,True,Cleveland Guardians,Parker Messick,P,Pitcher,2,3,0,0,1.000,5,5,5,30.2,1,0.90,0.60,0,0
+2026/04/23,True,Cleveland Guardians,Chase DeLauter,RF,Outfielder,1,18,0,0,1.000,13,13,13,109.0,17,1.49,1.38,0,0
+2026/04/23,True,Cleveland Guardians,Chase DeLauter,DH,Designated Hitter,0,0,0,0,.000,9,9,8,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Seattle Mariners,Casey Legumina,P,Pitcher,2,3,0,0,1.000,8,8,0,11.2,1,2.45,0.38,0,0
+2026/04/23,True,Athletics,Nick Kurtz,1B,First Base,8,192,18,0,1.000,24,24,24,216.2,184,8.00,8.00,0,0
+2026/04/23,True,Milwaukee Brewers,Garrett Mitchell,CF,Outfielder,0,40,0,1,.975,19,19,16,146.0,39,2.40,2.05,0,0
+2026/04/23,True,Milwaukee Brewers,Garrett Mitchell,DH,Designated Hitter,0,0,0,0,.000,2,2,1,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Detroit Tigers,Zach McKinstry,2B,Second Base,14,23,3,0,1.000,6,6,6,48.0,9,4.31,3.83,0,0
+2026/04/23,True,Detroit Tigers,Zach McKinstry,3B,Third Base,3,8,1,0,1.000,5,5,2,22.1,5,3.27,1.60,0,0
+2026/04/23,True,Detroit Tigers,Zach McKinstry,RF,Outfielder,0,5,0,0,1.000,5,5,5,33.0,5,1.36,1.00,0,0
+2026/04/23,True,Houston Astros,Spencer Arrighetti,P,Pitcher,1,2,0,0,1.000,2,2,2,11.0,1,1.64,1.00,0,0
+2026/04/23,True,New York Mets,MJ Melendez,DH,Designated Hitter,0,0,0,0,.000,5,5,5,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Baltimore Orioles,Colton Cowser,LF,Outfielder,0,1,0,0,1.000,2,2,1,14.0,1,0.64,0.50,0,0
+2026/04/23,True,Baltimore Orioles,Colton Cowser,CF,Outfielder,0,15,0,0,1.000,7,7,7,54.0,15,2.50,2.14,0,0
+2026/04/23,True,Baltimore Orioles,Colton Cowser,RF,Outfielder,0,17,0,0,1.000,10,10,8,66.1,17,2.32,1.70,0,0
+2026/04/23,True,Baltimore Orioles,Colton Cowser,DH,Designated Hitter,0,0,0,0,.000,1,1,1,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Toronto Blue Jays,Jesús Sánchez,LF,Outfielder,0,19,0,0,1.000,15,15,12,103.0,19,1.66,1.27,0,0
+2026/04/23,True,Toronto Blue Jays,Jesús Sánchez,RF,Outfielder,0,16,0,0,1.000,11,11,6,54.2,16,2.67,1.45,0,0
+2026/04/23,True,Toronto Blue Jays,Jesús Sánchez,DH,Designated Hitter,0,0,0,0,.000,2,2,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Philadelphia Phillies,Brandon Marsh,LF,Outfielder,0,30,0,1,.967,18,18,16,139.0,29,1.88,1.61,1,0
+2026/04/23,True,Philadelphia Phillies,Brandon Marsh,CF,Outfielder,0,7,0,0,1.000,5,5,4,35.0,7,1.80,1.40,0,0
+2026/04/23,True,Philadelphia Phillies,Brandon Marsh,RF,Outfielder,0,1,0,1,.000,2,2,0,4.0,0,0.00,0.00,1,0
+2026/04/23,True,Seattle Mariners,Eduard Bazardo,P,Pitcher,0,0,0,0,.000,11,11,0,10.1,0,0.00,0.00,0,0
+2026/04/23,True,Milwaukee Brewers,Trevor Megill,P,Pitcher,0,2,0,1,.500,9,9,0,8.0,1,1.13,0.11,1,0
+2026/04/23,True,Texas Rangers,MacKenzie Gore,P,Pitcher,2,4,0,0,1.000,5,5,5,26.0,2,1.38,0.80,0,0
+2026/04/23,True,Seattle Mariners,Leo Rivas,3B,Third Base,17,29,3,1,.966,11,11,9,91.2,11,2.77,2.55,0,0
+2026/04/23,True,Seattle Mariners,Leo Rivas,SS,Shortstop,17,36,7,0,1.000,9,9,9,80.2,19,4.05,4.00,0,0
+2026/04/23,True,New York Mets,Carson Benge,LF,Outfielder,0,20,0,2,.900,9,9,8,70.0,18,2.31,2.00,0,0
+2026/04/23,True,New York Mets,Carson Benge,CF,Outfielder,0,8,0,0,1.000,3,3,3,24.0,8,3.00,2.67,0,0
+2026/04/23,True,New York Mets,Carson Benge,RF,Outfielder,0,19,0,0,1.000,10,10,8,78.2,19,2.19,1.90,0,0
+2026/04/23,True,Minnesota Twins,Cody Laweryson,P,Pitcher,0,1,0,0,1.000,5,5,0,6.1,1,1.50,0.20,0,0
+2026/04/23,True,Houston Astros,Enyel De Los Santos,P,Pitcher,1,1,0,0,1.000,9,9,0,9.1,0,1.00,0.11,0,0
+2026/04/23,True,Colorado Rockies,Brett Sullivan,C,Catcher,3,74,2,0,1.000,11,11,9,84.2,71,7.93,6.73,0,0
+2026/04/23,True,Charlotte Knights,Shane Smith,P,Pitcher,3,4,0,1,.750,3,3,3,8.1,0,3.38,1.00,1,0
+2026/04/23,True,Houston Astros,Mike Burrows,P,Pitcher,1,2,0,0,1.000,5,5,5,26.2,1,0.69,0.40,0,0
+2026/04/23,True,San Francisco Giants,Erik Miller,P,Pitcher,0,0,0,0,.000,9,9,0,8.0,0,0.00,0.00,0,0
+2026/04/23,True,Los Angeles Angels,Logan O'Hoppe,C,Catcher,7,195,0,3,.985,23,23,21,190.1,185,9.09,8.35,3,0
+2026/04/23,True,Tampa Bay Rays,Cedric Mullins,CF,Outfielder,0,57,0,2,.965,21,21,20,180.1,55,2.75,2.62,0,0
+2026/04/23,True,Kansas City Royals,Seth Lugo,P,Pitcher,3,3,0,0,1.000,5,5,5,31.1,0,0.87,0.60,0,0
+2026/04/23,True,Miami Marlins,Kyle Stowers,LF,Outfielder,0,6,0,0,1.000,3,3,3,25.0,6,2.16,2.00,0,0
+2026/04/23,True,Miami Marlins,Kyle Stowers,RF,Outfielder,0,0,0,0,.000,1,1,0,2.0,0,0.00,0.00,0,0
+2026/04/23,True,New York Yankees,Cam Schlittler,P,Pitcher,2,4,0,0,1.000,5,5,5,27.2,2,1.33,0.80,0,0
+2026/04/23,True,Houston Astros,Steven Okert,P,Pitcher,0,0,0,0,.000,13,13,0,12.0,0,0.00,0.00,0,0
+2026/04/23,True,Colorado Rockies,Jake McCarthy,LF,Outfielder,0,15,0,0,1.000,12,12,9,78.0,15,1.73,1.25,0,0
+2026/04/23,True,Colorado Rockies,Jake McCarthy,CF,Outfielder,0,13,0,0,1.000,8,8,6,41.0,13,2.85,1.63,0,0
+2026/04/23,True,Colorado Rockies,Jake McCarthy,RF,Outfielder,0,1,0,0,1.000,3,3,0,6.0,1,1.50,0.33,0,0
+2026/04/23,True,Chicago White Sox,Sean Newcomb,P,Pitcher,5,5,1,0,1.000,11,11,0,15.2,0,3.00,0.45,0,0
+2026/04/23,True,Milwaukee Brewers,DL Hall,P,Pitcher,1,2,0,0,1.000,11,11,1,11.2,1,1.64,0.18,0,0
+2026/04/23,True,Baltimore Orioles,Grant Wolfram,P,Pitcher,2,2,0,0,1.000,11,11,0,10.0,0,1.80,0.18,0,0
+2026/04/23,True,Baltimore Orioles,Sam Huff,C,Catcher,0,22,0,0,1.000,3,3,2,20.0,22,9.90,7.33,0,0
+2026/04/23,True,San Diego Padres,Jeremiah Estrada,P,Pitcher,0,0,0,0,.000,7,7,0,7.0,0,0.00,0.00,0,0
+2026/04/23,True,Pittsburgh Pirates,Ryan O'Hearn,1B,First Base,3,36,4,0,1.000,12,12,4,50.1,33,6.48,3.00,0,0
+2026/04/23,True,Pittsburgh Pirates,Ryan O'Hearn,RF,Outfielder,0,21,0,0,1.000,16,16,16,125.0,21,1.51,1.31,0,0
+2026/04/23,True,Pittsburgh Pirates,Ryan O'Hearn,DH,Designated Hitter,0,0,0,0,.000,1,1,1,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Miami Marlins,Connor Norby,1B,First Base,14,136,12,2,.985,18,18,18,155.0,120,7.78,7.44,1,0
+2026/04/23,True,Miami Marlins,Connor Norby,3B,Third Base,0,0,0,0,.000,1,1,0,1.0,0,0.00,0.00,0,0
+2026/04/23,True,Miami Marlins,Connor Norby,DH,Designated Hitter,0,0,0,0,.000,4,4,4,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Toronto Blue Jays,Spencer Miles,P,Pitcher,2,3,0,0,1.000,7,7,0,11.2,1,2.45,0.43,0,0
+2026/04/23,True,Washington Nationals,Gus Varland,P,Pitcher,0,1,0,0,1.000,9,9,0,8.2,1,1.13,0.11,0,0
+2026/04/23,True,Minnesota Twins,Kody Clemens,1B,First Base,11,73,9,0,1.000,12,12,10,95.0,62,6.92,6.08,0,0
+2026/04/23,True,Minnesota Twins,Kody Clemens,2B,Second Base,3,3,1,0,1.000,2,2,1,9.0,0,3.00,1.50,0,0
+2026/04/23,True,Minnesota Twins,Kody Clemens,LF,Outfielder,0,1,0,0,1.000,2,2,0,3.0,1,3.00,0.50,0,0
+2026/04/23,True,Detroit Tigers,Kyle Finnegan,P,Pitcher,1,2,0,1,.500,11,11,0,11.0,0,0.82,0.09,1,0
+2026/04/23,True,Chicago Cubs,Hunter Harvey,P,Pitcher,1,1,0,0,1.000,4,4,0,4.0,0,2.25,0.25,0,0
+2026/04/23,True,New York Mets,Sean Manaea,P,Pitcher,1,2,0,1,.500,5,5,0,16.0,0,0.56,0.20,1,0
+2026/04/23,True,Athletics,Shea Langeliers,C,Catcher,10,164,2,1,.994,20,20,18,160.0,153,9.17,8.15,0,0
+2026/04/23,True,Athletics,Shea Langeliers,DH,Designated Hitter,0,0,0,0,.000,6,6,6,0.0,0,-.--,0.00,0,0
+2026/04/23,True,San Diego Padres,Luis Campusano,C,Catcher,5,97,1,1,.990,13,13,11,99.0,91,8.73,7.38,0,0
+2026/04/23,True,Miami Marlins,Michael Petersen,P,Pitcher,0,0,0,0,.000,9,9,0,10.2,0,0.00,0.00,0,0
+2026/04/23,True,New York Mets,David Peterson,P,Pitcher,0,5,0,1,.800,5,5,4,23.1,4,1.57,0.80,0,0
+2026/04/23,True,Houston Astros,Yainer Diaz,C,Catcher,0,154,0,0,1.000,17,17,17,147.1,154,9.43,9.06,0,0
+2026/04/23,True,Houston Astros,Yainer Diaz,DH,Designated Hitter,0,0,0,0,.000,1,1,1,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Iowa Cubs,Luke Little,P,Pitcher,0,0,0,0,.000,1,1,0,1.0,0,0.00,0.00,0,0
+2026/04/23,True,Miami Marlins,Griffin Conine,1B,First Base,0,0,0,0,.000,1,1,0,1.0,0,0.00,0.00,0,0
+2026/04/23,True,Miami Marlins,Griffin Conine,LF,Outfielder,0,14,0,0,1.000,6,6,5,39.1,14,3.23,2.33,0,0
+2026/04/23,True,Miami Marlins,Griffin Conine,RF,Outfielder,0,4,0,0,1.000,4,4,1,18.0,4,2.00,1.00,0,0
+2026/04/23,True,Kansas City Royals,Salvador Perez,C,Catcher,6,128,0,1,.992,15,15,15,129.1,121,8.86,8.47,1,0
+2026/04/23,True,Kansas City Royals,Salvador Perez,DH,Designated Hitter,0,0,0,0,.000,9,9,9,0.0,0,-.--,0.00,0,0
+2026/04/23,True,St. Louis Cardinals,Dustin May,P,Pitcher,4,4,0,0,1.000,5,5,5,24.2,0,1.50,0.80,0,0
+2026/04/23,True,Tampa Bay Rays,Drew Rasmussen,P,Pitcher,0,0,0,0,.000,4,4,4,19.2,0,0.00,0.00,0,0
+2026/04/23,True,Los Angeles Dodgers,Kyle Hurt,P,Pitcher,0,0,0,0,.000,3,3,0,3.0,0,0.00,0.00,0,0
+2026/04/23,True,Boston Red Sox,Ranger Suarez,P,Pitcher,6,9,1,0,1.000,5,5,5,27.0,3,3.00,1.80,0,0
+2026/04/23,True,Detroit Tigers,Kerry Carpenter,LF,Outfielder,0,1,0,0,1.000,1,1,1,9.0,1,1.00,1.00,0,0
+2026/04/23,True,Detroit Tigers,Kerry Carpenter,RF,Outfielder,0,22,0,0,1.000,13,13,13,103.0,22,1.92,1.69,0,0
+2026/04/23,True,Detroit Tigers,Kerry Carpenter,DH,Designated Hitter,0,0,0,0,.000,7,7,4,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Arizona Diamondbacks,Ryne Nelson,P,Pitcher,1,2,0,1,.500,5,5,5,20.2,0,0.45,0.20,0,0
+2026/04/23,True,Miami Marlins,Lake Bachar,P,Pitcher,0,1,0,0,1.000,7,7,0,11.2,1,0.82,0.14,0,0
+2026/04/23,True,Tacoma Rainiers,Ryan Bliss,DH,Designated Hitter,0,0,0,0,.000,1,1,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,El Paso Chihuahuas,Alek Jacob,P,Pitcher,0,1,0,0,1.000,1,1,0,2.0,1,4.50,1.00,0,0
+2026/04/23,True,Kansas City Royals,Eli Morgan,P,Pitcher,0,0,0,0,.000,6,6,0,9.2,0,0.00,0.00,0,0
+2026/04/23,True,St. Paul Saints,Luis García,P,Pitcher,2,2,0,0,1.000,6,6,0,6.1,0,3.00,0.33,0,0
+2026/04/23,True,New York Yankees,Austin Wells,C,Catcher,5,173,0,1,.994,20,20,19,168.2,167,9.21,8.60,1,0
+2026/04/23,True,St. Louis Cardinals,Kyle Leahy,P,Pitcher,4,7,0,0,1.000,5,5,5,24.0,3,2.63,1.40,0,0
+2026/04/23,True,Philadelphia Phillies,Kyle Schwarber,LF,Outfielder,0,2,0,0,1.000,1,1,1,8.0,2,2.25,2.00,0,0
+2026/04/23,True,Philadelphia Phillies,Kyle Schwarber,DH,Designated Hitter,0,0,0,0,.000,23,23,23,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Los Angeles Dodgers,Tanner Scott,P,Pitcher,0,0,0,0,.000,11,11,0,9.2,0,0.00,0.00,0,0
+2026/04/23,True,Baltimore Orioles,Jeremiah Jackson,2B,Second Base,53,79,8,1,.987,22,22,21,185.1,25,3.79,3.55,0,0
+2026/04/23,True,Atlanta Braves,Didier Fuentes,P,Pitcher,1,1,0,0,1.000,2,2,1,7.0,0,1.29,0.50,0,0
+2026/04/23,True,Atlanta Braves,Bryce Elder,P,Pitcher,2,5,0,1,.800,5,5,5,30.0,2,1.20,0.80,1,0
+2026/04/23,True,Baltimore Orioles,Dean Kremer,P,Pitcher,0,2,0,0,1.000,2,2,2,11.0,2,1.64,1.00,0,0
+2026/04/23,True,Houston Astros,Jeremy Peña,SS,Shortstop,13,27,6,1,.963,10,10,10,75.0,13,3.12,2.60,0,0
+2026/04/23,True,Minnesota Twins,James Outman,LF,Outfielder,0,6,0,0,1.000,8,8,1,20.0,6,2.70,0.75,0,0
+2026/04/23,True,Minnesota Twins,James Outman,CF,Outfielder,0,6,0,0,1.000,7,7,3,34.0,6,1.59,0.86,0,0
+2026/04/23,True,Minnesota Twins,James Outman,RF,Outfielder,0,5,0,1,.800,1,1,1,10.0,4,3.60,4.00,0,0
+2026/04/23,True,Minnesota Twins,James Outman,DH,Designated Hitter,0,0,0,0,.000,2,2,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Los Angeles Dodgers,Will Smith,C,Catcher,5,161,0,2,.988,21,21,18,163.0,154,8.78,7.57,2,0
+2026/04/23,True,New York Mets,Luis Robert,CF,Outfielder,0,45,0,0,1.000,22,22,21,191.1,45,2.12,2.05,0,0
+2026/04/23,True,Arizona Diamondbacks,Pavin Smith,DH,Designated Hitter,0,0,0,0,.000,2,2,2,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Athletics,Joel Kuhnel,P,Pitcher,0,0,0,0,.000,8,8,0,7.2,0,0.00,0.00,0,0
+2026/04/23,True,Atlanta Braves,Dylan Lee,P,Pitcher,0,1,0,0,1.000,12,12,0,11.0,1,0.82,0.08,0,0
+2026/04/23,True,Pittsburgh Pirates,Marcell Ozuna,DH,Designated Hitter,0,0,0,0,.000,19,19,19,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Tampa Bay Rays,Ian Seymour,P,Pitcher,0,0,0,0,.000,10,10,0,11.2,0,0.00,0.00,0,0
+2026/04/23,True,Los Angeles Dodgers,Santiago Espinal,1B,First Base,0,4,0,0,1.000,2,2,0,5.0,4,7.20,2.00,0,0
+2026/04/23,True,Los Angeles Dodgers,Santiago Espinal,2B,Second Base,7,12,2,0,1.000,4,4,2,22.0,5,4.91,3.00,0,0
+2026/04/23,True,Los Angeles Dodgers,Santiago Espinal,3B,Third Base,2,3,0,0,1.000,3,3,2,17.0,1,1.59,1.00,0,0
+2026/04/23,True,Houston Astros,Tatsuya Imai,P,Pitcher,0,1,0,0,1.000,3,3,3,8.2,1,1.13,0.33,0,0
+2026/04/23,True,Kansas City Royals,Noah Cameron,P,Pitcher,1,2,0,1,.500,4,4,4,20.0,0,0.45,0.25,1,0
+2026/04/23,True,Seattle Mariners,Logan Gilbert,P,Pitcher,1,5,0,0,1.000,6,6,6,33.0,4,1.36,0.83,0,0
+2026/04/23,True,Los Angeles Angels,Bryce Teodosio,LF,Outfielder,0,7,0,0,1.000,14,14,5,47.1,7,1.34,0.50,0,0
+2026/04/23,True,Los Angeles Angels,Bryce Teodosio,CF,Outfielder,1,8,0,0,1.000,6,6,3,30.0,7,2.40,1.33,0,0
+2026/04/23,True,Los Angeles Angels,Bryce Teodosio,RF,Outfielder,0,1,0,0,1.000,2,2,0,4.0,1,2.25,0.50,0,0
+2026/04/23,True,Kansas City Royals,Lane Thomas,LF,Outfielder,1,8,0,0,1.000,8,8,5,42.2,7,1.71,1.00,0,0
+2026/04/23,True,Kansas City Royals,Lane Thomas,CF,Outfielder,0,14,0,0,1.000,8,8,5,46.0,14,2.74,1.75,0,0
+2026/04/23,True,Kansas City Royals,Lane Thomas,RF,Outfielder,1,6,0,0,1.000,7,7,2,23.2,5,2.35,0.86,0,0
+2026/04/23,True,Kansas City Royals,Lane Thomas,DH,Designated Hitter,0,0,0,0,.000,2,2,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Baltimore Orioles,Tyler Wells,P,Pitcher,0,1,0,0,1.000,11,11,0,14.2,1,0.64,0.09,0,0
+2026/04/23,True,Arizona Diamondbacks,Ryan Thompson,P,Pitcher,2,3,1,0,1.000,14,14,0,9.2,1,3.00,0.21,0,0
+2026/04/23,True,Los Angeles Dodgers,Andy Pages,CF,Outfielder,0,62,0,0,1.000,23,23,23,199.0,62,2.80,2.70,0,0
+2026/04/23,True,St. Louis Cardinals,Nolan Gorman,3B,Third Base,26,33,2,1,.970,16,16,13,117.0,6,2.46,2.00,0,0
+2026/04/23,True,St. Louis Cardinals,Nolan Gorman,DH,Designated Hitter,0,0,0,0,.000,7,7,7,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Baltimore Orioles,Shane Baz,P,Pitcher,2,3,0,0,1.000,5,5,5,28.1,1,0.96,0.60,0,0
+2026/04/23,True,Miami Marlins,Xavier Edwards,2B,Second Base,51,81,7,1,.988,23,23,23,199.0,29,3.62,3.48,0,0
+2026/04/23,True,Miami Marlins,Xavier Edwards,DH,Designated Hitter,0,0,0,0,.000,2,2,2,0.0,0,-.--,0.00,0,0
+2026/04/23,True,San Diego Padres,Bryce Johnson,LF,Outfielder,0,3,0,0,1.000,3,3,1,12.0,3,2.25,1.00,0,0
+2026/04/23,True,San Diego Padres,Bryce Johnson,CF,Outfielder,0,2,0,0,1.000,1,1,1,8.0,2,2.25,2.00,0,0
+2026/04/23,True,San Diego Padres,Bryce Johnson,RF,Outfielder,0,0,0,0,.000,3,3,2,16.0,0,0.00,0.00,0,0
+2026/04/23,True,San Diego Padres,Bryce Johnson,DH,Designated Hitter,0,0,0,0,.000,2,2,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Washington Nationals,Cole Henry,P,Pitcher,0,0,0,0,.000,7,7,0,7.0,0,0.00,0.00,0,0
+2026/04/23,True,Athletics,J.T. Ginn,P,Pitcher,2,5,0,0,1.000,6,6,3,21.2,3,2.14,0.83,0,0
+2026/04/23,True,Detroit Tigers,Tarik Skubal,P,Pitcher,5,5,0,0,1.000,5,5,5,30.1,0,1.50,1.00,0,0
+2026/04/23,True,Chicago Cubs,Jacob Webb,P,Pitcher,2,2,0,0,1.000,11,11,0,9.1,0,2.00,0.18,0,0
+2026/04/23,True,Pittsburgh Pirates,Carmen Mlodzinski,P,Pitcher,0,2,0,0,1.000,5,5,4,24.2,2,0.75,0.40,0,0
+2026/04/23,True,St. Louis Cardinals,Ryan Fernandez,P,Pitcher,0,1,0,1,.000,3,3,0,3.2,0,0.00,0.00,1,0
+2026/04/23,True,Texas Rangers,Jake Burger,1B,First Base,23,163,15,3,.982,24,24,23,204.2,137,7.06,6.67,0,0
+2026/04/23,True,Cleveland Guardians,Brayan Rocchio,2B,Second Base,22,42,4,1,.976,10,10,10,83.0,19,4.45,4.10,0,0
+2026/04/23,True,Cleveland Guardians,Brayan Rocchio,SS,Shortstop,41,67,9,1,.985,16,16,15,137.1,25,4.34,4.13,0,0
+2026/04/23,True,Washington Nationals,José Tena,2B,Second Base,2,2,1,0,1.000,1,1,0,2.0,0,9.00,2.00,0,0
+2026/04/23,True,Washington Nationals,José Tena,LF,Outfielder,0,1,0,0,1.000,1,1,0,1.0,1,9.00,1.00,0,0
+2026/04/23,True,Washington Nationals,José Tena,DH,Designated Hitter,0,0,0,0,.000,12,12,12,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Houston Astros,Nick Allen,2B,Second Base,0,0,0,0,.000,2,2,0,2.0,0,0.00,0.00,0,0
+2026/04/23,True,Houston Astros,Nick Allen,3B,Third Base,4,5,1,0,1.000,3,3,0,6.0,1,7.50,1.67,0,0
+2026/04/23,True,Houston Astros,Nick Allen,SS,Shortstop,9,14,3,0,1.000,9,9,5,48.0,5,2.63,1.56,0,0
+2026/04/23,True,Chicago White Sox,Everson Pereira,CF,Outfielder,0,0,0,0,.000,1,1,0,1.0,0,0.00,0.00,0,0
+2026/04/23,True,Chicago White Sox,Everson Pereira,RF,Outfielder,1,19,0,0,1.000,10,10,10,80.2,18,2.14,1.90,0,0
+2026/04/23,True,Chicago White Sox,Everson Pereira,DH,Designated Hitter,0,0,0,0,.000,2,2,2,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Seattle Mariners,Julio Rodríguez,CF,Outfielder,0,67,0,1,.985,26,26,26,231.1,66,2.57,2.54,0,0
+2026/04/23,True,Athletics,Andy Ibáñez,1B,First Base,0,5,0,0,1.000,1,1,1,6.0,5,7.50,5.00,0,0
+2026/04/23,True,Athletics,Andy Ibáñez,2B,Second Base,7,13,0,0,1.000,6,6,2,23.1,6,5.09,2.17,0,0
+2026/04/23,True,Athletics,Andy Ibáñez,3B,Third Base,2,4,0,1,.750,2,2,1,9.0,1,3.00,1.50,0,0
+2026/04/23,True,Athletics,Andy Ibáñez,DH,Designated Hitter,0,0,0,0,.000,1,1,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Atlanta Braves,Raisel Iglesias,P,Pitcher,1,2,1,0,1.000,8,8,0,8.2,1,2.25,0.25,0,0
+2026/04/23,True,Tampa Bay Rays,Hunter Bigge,P,Pitcher,0,1,0,0,1.000,7,7,0,7.0,1,1.29,0.14,0,0
+2026/04/23,True,Boston Red Sox,Connor Wong,C,Catcher,6,77,0,2,.974,10,10,9,82.1,69,8.23,7.50,2,0
+2026/04/23,True,Miami Marlins,Heriberto Hernandez,LF,Outfielder,1,35,0,0,1.000,19,19,14,129.2,34,2.44,1.84,0,0
+2026/04/23,True,Baltimore Orioles,Trevor Rogers,P,Pitcher,3,5,1,1,.800,5,5,5,28.2,1,1.29,0.80,0,0
+2026/04/23,True,Tampa Bay Rays,Mason Englert,P,Pitcher,0,0,0,0,.000,9,9,1,12.2,0,0.00,0.00,0,0
+2026/04/23,True,Los Angeles Angels,Yusei Kikuchi,P,Pitcher,0,1,0,0,1.000,5,5,5,24.0,1,0.38,0.20,0,0
+2026/04/23,True,New York Mets,Kodai Senga,P,Pitcher,1,3,0,0,1.000,4,4,4,17.1,2,1.59,0.75,0,0
+2026/04/23,True,Chicago Cubs,Seiya Suzuki,RF,Outfielder,0,19,0,0,1.000,8,8,8,73.0,19,2.34,2.38,0,0
+2026/04/23,True,Chicago Cubs,Seiya Suzuki,DH,Designated Hitter,0,0,0,0,.000,4,4,2,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Philadelphia Phillies,Justin Crawford,CF,Outfielder,0,35,0,1,.971,21,21,20,176.0,34,1.74,1.62,0,0
+2026/04/23,True,Texas Rangers,Ezequiel Duran,2B,Second Base,11,19,4,1,.947,6,6,4,33.0,7,4.91,3.00,1,0
+2026/04/23,True,Texas Rangers,Ezequiel Duran,3B,Third Base,3,5,0,0,1.000,6,6,4,35.2,2,1.29,0.83,0,0
+2026/04/23,True,Texas Rangers,Ezequiel Duran,SS,Shortstop,1,1,0,0,1.000,1,1,1,9.0,0,1.00,1.00,0,0
+2026/04/23,True,Texas Rangers,Ezequiel Duran,LF,Outfielder,0,15,0,0,1.000,7,7,5,48.0,15,2.81,2.14,0,0
+2026/04/23,True,Texas Rangers,Ezequiel Duran,RF,Outfielder,0,0,0,0,.000,1,1,0,1.0,0,0.00,0.00,0,0
+2026/04/23,True,Chicago Cubs,Daniel Palencia,P,Pitcher,1,1,0,0,1.000,5,5,0,5.0,0,1.80,0.20,0,0
+2026/04/23,True,St. Louis Cardinals,Matthew Liberatore,P,Pitcher,2,4,0,0,1.000,5,5,5,27.0,2,1.33,0.80,0,0
+2026/04/23,True,St. Louis Cardinals,Andre Pallante,P,Pitcher,0,0,0,0,.000,4,4,4,20.0,0,0.00,0.00,0,0
+2026/04/23,True,Baltimore Orioles,Pete Alonso,1B,First Base,20,191,16,1,.995,22,22,22,195.1,170,8.77,8.64,0,0
+2026/04/23,True,Baltimore Orioles,Pete Alonso,DH,Designated Hitter,0,0,0,0,.000,3,3,3,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Kansas City Royals,Carlos Estévez,P,Pitcher,0,0,0,0,.000,1,1,0,0.1,0,0.00,0.00,0,0
+2026/04/23,True,San Francisco Giants,Casey Schmitt,1B,First Base,2,67,7,1,.985,8,8,8,70.0,64,8.49,8.25,0,0
+2026/04/23,True,San Francisco Giants,Casey Schmitt,DH,Designated Hitter,0,0,0,0,.000,11,11,11,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Chicago Cubs,Michael Conforto,LF,Outfielder,0,6,0,0,1.000,3,3,2,19.0,6,2.84,2.00,0,0
+2026/04/23,True,Chicago Cubs,Michael Conforto,RF,Outfielder,0,9,0,0,1.000,6,6,5,38.0,9,2.13,1.50,0,0
+2026/04/23,True,Chicago Cubs,Michael Conforto,DH,Designated Hitter,0,0,0,0,.000,2,2,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Los Angeles Angels,Adam Frazier,2B,Second Base,21,38,4,0,1.000,16,16,9,86.1,17,3.98,2.38,0,0
+2026/04/23,True,Los Angeles Angels,Adam Frazier,LF,Outfielder,0,8,0,0,1.000,5,5,1,19.0,8,3.79,1.60,0,0
+2026/04/23,True,Cincinnati Reds,Jose Trevino,C,Catcher,1,29,0,0,1.000,3,3,3,28.0,28,9.32,9.67,0,0
+2026/04/23,True,Cleveland Guardians,José Ramírez,3B,Third Base,30,49,2,3,.939,21,21,21,185.1,16,2.24,2.19,1,0
+2026/04/23,True,Cleveland Guardians,José Ramírez,DH,Designated Hitter,0,0,0,0,.000,5,5,5,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Chicago Cubs,Ethan Roberts,P,Pitcher,0,0,0,0,.000,3,3,0,2.2,0,0.00,0.00,0,0
+2026/04/23,True,Seattle Mariners,Cole Young,2B,Second Base,82,124,20,0,1.000,26,26,26,231.1,42,4.83,4.77,0,0
+2026/04/23,True,Cleveland Guardians,David Fry,C,Catcher,0,22,0,0,1.000,4,4,2,20.1,22,9.90,5.50,0,0
+2026/04/23,True,Cleveland Guardians,David Fry,1B,First Base,0,1,0,0,1.000,1,1,0,1.0,1,9.00,1.00,0,0
+2026/04/23,True,Cleveland Guardians,David Fry,RF,Outfielder,0,6,0,0,1.000,6,6,3,24.0,6,2.25,1.00,0,0
+2026/04/23,True,Cleveland Guardians,David Fry,DH,Designated Hitter,0,0,0,0,.000,3,3,3,0.0,0,-.--,0.00,0,0
+2026/04/23,True,New York Mets,Austin Warren,P,Pitcher,0,0,0,0,.000,2,2,0,1.2,0,0.00,0.00,0,0
+2026/04/23,True,Albuquerque Isotopes,Ryan Ritter,2B,Second Base,9,10,0,0,1.000,6,6,1,17.0,1,5.29,1.67,0,0
+2026/04/23,True,Boston Red Sox,Caleb Durbin,3B,Third Base,45,57,3,2,.965,22,22,21,186.1,10,2.66,2.50,0,0
+2026/04/23,True,San Francisco Giants,Logan Webb,P,Pitcher,2,3,0,0,1.000,5,5,5,30.0,1,0.90,0.60,0,0
+2026/04/23,True,Chicago White Sox,Reese McGuire,P,Pitcher,0,0,0,0,.000,1,1,0,1.0,0,0.00,0.00,0,0
+2026/04/23,True,Chicago White Sox,Reese McGuire,C,Catcher,3,54,1,0,1.000,9,9,8,70.2,51,6.94,6.00,0,0
+2026/04/23,True,Seattle Mariners,Cooper Criswell,P,Pitcher,2,2,1,0,1.000,8,8,0,11.0,0,1.64,0.25,0,0
+2026/04/23,True,Milwaukee Brewers,William Contreras,C,Catcher,10,174,0,0,1.000,20,20,18,164.0,164,9.55,8.70,0,0
+2026/04/23,True,Milwaukee Brewers,William Contreras,DH,Designated Hitter,0,0,0,0,.000,2,2,2,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Cleveland Guardians,Erik Sabrowski,P,Pitcher,0,0,0,0,.000,13,13,0,11.2,0,0.00,0.00,0,0
+2026/04/23,True,San Diego Padres,Fernando Tatis,2B,Second Base,5,12,1,0,1.000,3,3,3,24.0,7,4.50,4.00,0,0
+2026/04/23,True,San Diego Padres,Fernando Tatis,RF,Outfielder,1,36,0,0,1.000,21,21,20,182.0,35,1.78,1.71,0,0
+2026/04/23,True,Toronto Blue Jays,Vladimir Guerrero,1B,First Base,15,173,14,2,.988,22,22,22,195.2,156,7.89,7.77,1,0
+2026/04/23,True,Toronto Blue Jays,Vladimir Guerrero,DH,Designated Hitter,0,0,0,0,.000,2,2,2,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Philadelphia Phillies,Jhoan Duran,P,Pitcher,1,1,0,0,1.000,7,7,0,6.2,0,1.50,0.14,0,0
+2026/04/23,True,New York Mets,Luis Torrens,C,Catcher,4,59,0,0,1.000,8,8,6,56.2,55,9.48,7.38,0,0
+2026/04/23,True,New York Mets,Luis Torrens,DH,Designated Hitter,0,0,0,0,.000,1,1,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Minnesota Twins,Kody Funderburk,P,Pitcher,2,2,0,0,1.000,12,12,0,9.0,0,2.00,0.17,0,0
+2026/04/23,True,Detroit Tigers,Javier Báez,2B,Second Base,0,1,0,0,1.000,1,1,0,4.0,1,2.25,1.00,0,0
+2026/04/23,True,Detroit Tigers,Javier Báez,SS,Shortstop,35,58,5,3,.948,15,15,14,115.1,20,4.30,3.67,3,0
+2026/04/23,True,Detroit Tigers,Javier Báez,CF,Outfielder,0,19,0,0,1.000,8,8,5,46.0,19,3.72,2.38,0,0
+2026/04/23,True,Boston Red Sox,Wilyer Abreu,RF,Outfielder,2,48,0,0,1.000,23,23,23,202.1,46,2.14,2.09,0,0
+2026/04/23,True,Athletics,Brady Basso,P,Pitcher,0,0,0,0,.000,1,1,0,0.2,0,0.00,0.00,0,0
+2026/04/23,True,Miami Marlins,Anthony Bender,P,Pitcher,0,0,0,0,.000,11,11,0,9.1,0,0.00,0.00,0,0
+2026/04/23,True,Los Angeles Dodgers,Alex Vesia,P,Pitcher,1,2,0,0,1.000,10,10,0,8.2,1,2.25,0.20,0,0
+2026/04/23,True,Chicago Cubs,Moisés Ballesteros,C,Catcher,0,1,0,0,1.000,1,1,0,2.0,1,4.50,1.00,0,0
+2026/04/23,True,Chicago Cubs,Moisés Ballesteros,DH,Designated Hitter,0,0,0,0,.000,18,18,16,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Baltimore Orioles,Samuel Basallo,C,Catcher,7,116,0,0,1.000,13,13,13,113.0,109,9.24,8.92,0,0
+2026/04/23,True,Baltimore Orioles,Samuel Basallo,1B,First Base,0,0,0,0,.000,2,2,0,2.1,0,0.00,0.00,0,0
+2026/04/23,True,Baltimore Orioles,Samuel Basallo,DH,Designated Hitter,0,0,0,0,.000,5,5,5,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Los Angeles Angels,Jorge Soler,RF,Outfielder,0,4,0,0,1.000,4,4,4,32.0,4,1.13,1.00,0,0
+2026/04/23,True,Los Angeles Angels,Jorge Soler,DH,Designated Hitter,0,0,0,0,.000,18,18,18,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Philadelphia Phillies,Rafael Marchán,C,Catcher,3,76,0,0,1.000,10,10,7,71.0,73,9.63,7.60,0,0
+2026/04/23,True,St. Louis Cardinals,Justin Bruihl,P,Pitcher,2,5,0,0,1.000,13,13,0,12.1,3,3.75,0.38,0,0
+2026/04/23,True,Memphis Redbirds,Matt Pushard,P,Pitcher,0,0,0,0,.000,1,1,0,1.0,0,0.00,0.00,0,0
+2026/04/23,True,Miami Marlins,Leo Jimenez,2B,Second Base,2,7,1,0,1.000,3,3,2,16.0,5,3.94,2.33,0,0
+2026/04/23,True,Miami Marlins,Leo Jimenez,3B,Third Base,0,1,0,0,1.000,1,1,0,1.0,1,9.00,1.00,0,0
+2026/04/23,True,Miami Marlins,Leo Jimenez,SS,Shortstop,2,3,0,0,1.000,1,1,1,7.0,1,3.86,3.00,0,0
+2026/04/23,True,Miami Marlins,Leo Jimenez,DH,Designated Hitter,0,0,0,0,.000,2,2,2,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Chicago White Sox,Chris Murphy,P,Pitcher,0,1,0,0,1.000,6,6,0,6.0,1,1.50,0.17,0,0
+2026/04/23,True,Milwaukee Brewers,Grant Anderson,P,Pitcher,1,2,0,0,1.000,12,12,0,13.1,1,1.38,0.17,0,0
+2026/04/23,True,Chicago White Sox,Munetaka Murakami,1B,First Base,7,174,14,1,.994,21,21,21,178.0,166,8.75,8.24,0,0
+2026/04/23,True,Chicago White Sox,Munetaka Murakami,DH,Designated Hitter,0,0,0,0,.000,2,2,2,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Philadelphia Phillies,Edmundo Sosa,2B,Second Base,27,41,4,2,.951,9,9,7,57.0,12,6.16,4.33,0,0
+2026/04/23,True,Philadelphia Phillies,Edmundo Sosa,3B,Third Base,4,5,2,0,1.000,2,2,2,17.0,1,2.65,2.50,0,0
+2026/04/23,True,Philadelphia Phillies,Edmundo Sosa,SS,Shortstop,2,2,0,0,1.000,3,3,0,6.0,0,3.00,0.67,0,0
+2026/04/23,True,Los Angeles Dodgers,Roki Sasaki,P,Pitcher,1,3,0,0,1.000,4,4,4,17.2,2,1.59,0.75,0,0
+2026/04/23,True,Texas Rangers,Josh Smith,2B,Second Base,46,70,7,1,.986,21,21,20,176.2,23,3.53,3.29,0,0
+2026/04/23,True,Texas Rangers,Josh Smith,DH,Designated Hitter,0,0,0,0,.000,2,2,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Los Angeles Dodgers,Yoshinobu Yamamoto,P,Pitcher,4,8,0,0,1.000,5,5,5,32.2,4,2.25,1.60,0,0
+2026/04/23,True,Cleveland Guardians,Austin Hedges,P,Pitcher,0,0,0,0,.000,1,1,0,0.1,0,0.00,0.00,0,0
+2026/04/23,True,Cleveland Guardians,Austin Hedges,C,Catcher,0,90,0,0,1.000,9,9,9,77.0,90,10.52,10.00,0,0
+2026/04/23,True,Pittsburgh Pirates,Jared Triolo,3B,Third Base,1,2,0,0,1.000,1,1,1,9.0,1,2.00,2.00,0,0
+2026/04/23,True,Pittsburgh Pirates,Jared Triolo,SS,Shortstop,6,13,1,1,.923,5,5,5,45.0,6,2.40,2.40,0,0
+2026/04/23,True,Boston Red Sox,Greg Weissert,P,Pitcher,1,1,0,0,1.000,10,10,0,9.1,0,1.00,0.10,0,0
+2026/04/23,True,San Francisco Giants,Matt Gage,P,Pitcher,0,0,0,0,.000,11,11,0,10.0,0,0.00,0.00,0,0
+2026/04/23,True,Athletics,Luis Medina,P,Pitcher,0,0,0,0,.000,7,7,0,9.0,0,0.00,0.00,0,0
+2026/04/23,True,San Francisco Giants,Jung Hoo Lee,CF,Outfielder,0,2,0,0,1.000,2,2,1,10.0,2,1.80,1.00,0,0
+2026/04/23,True,San Francisco Giants,Jung Hoo Lee,RF,Outfielder,0,45,0,1,.978,23,23,22,194.0,44,2.04,1.91,1,0
+2026/04/23,True,Chicago White Sox,Austin Hays,LF,Outfielder,0,12,0,0,1.000,9,9,8,66.2,12,1.64,1.33,0,0
+2026/04/23,True,Arizona Diamondbacks,Brandon Pfaadt,P,Pitcher,0,2,0,0,1.000,4,4,3,23.0,2,0.78,0.50,0,0
+2026/04/23,True,Texas Rangers,Jakob Junis,P,Pitcher,3,4,0,0,1.000,10,10,0,11.1,1,3.27,0.40,0,0
+2026/04/23,True,Los Angeles Dodgers,Alex Call,LF,Outfielder,0,8,0,0,1.000,4,4,3,30.0,8,2.40,2.00,0,0
+2026/04/23,True,Los Angeles Dodgers,Alex Call,CF,Outfielder,1,7,0,0,1.000,2,2,1,12.0,6,5.25,3.50,0,0
+2026/04/23,True,Los Angeles Dodgers,Alex Call,RF,Outfielder,0,7,0,0,1.000,2,2,2,18.0,7,3.50,3.50,0,0
+2026/04/23,True,New York Mets,Francisco Lindor,SS,Shortstop,51,79,12,1,.987,24,24,24,210.1,27,3.34,3.25,0,0
+2026/04/23,True,Baltimore Orioles,Blaze Alexander,2B,Second Base,15,24,5,0,1.000,6,6,4,37.1,9,5.84,4.00,0,0
+2026/04/23,True,Baltimore Orioles,Blaze Alexander,3B,Third Base,10,16,1,0,1.000,10,10,7,66.0,6,2.18,1.60,0,0
+2026/04/23,True,Baltimore Orioles,Blaze Alexander,SS,Shortstop,6,9,1,0,1.000,2,2,2,17.0,3,4.76,4.50,0,0
+2026/04/23,True,Baltimore Orioles,Blaze Alexander,CF,Outfielder,0,3,0,0,1.000,3,3,2,16.0,3,1.69,1.00,0,0
+2026/04/23,True,Baltimore Orioles,Blaze Alexander,RF,Outfielder,0,3,0,0,1.000,2,2,1,12.0,3,2.25,1.50,0,0
+2026/04/23,True,Arizona Diamondbacks,Nolan Arenado,3B,Third Base,34,51,4,2,.961,22,22,22,188.1,15,2.35,2.23,0,0
+2026/04/23,True,Cleveland Guardians,Slade Cecconi,P,Pitcher,2,3,0,0,1.000,5,5,5,24.2,1,1.13,0.60,0,0
+2026/04/23,True,New York Yankees,Luis Gil,P,Pitcher,1,2,0,0,1.000,3,3,3,15.1,1,1.20,0.67,0,0
+2026/04/23,True,Las Vegas Aviators,Elvis Alvarado,P,Pitcher,0,0,0,0,.000,10,10,0,9.2,0,0.00,0.00,0,0
+2026/04/23,True,Arizona Diamondbacks,Alek Thomas,CF,Outfielder,1,63,0,0,1.000,18,18,18,156.0,62,3.63,3.50,0,0
+2026/04/23,True,Kansas City Royals,Bobby Witt,SS,Shortstop,62,101,18,0,1.000,25,25,25,215.1,39,4.23,4.04,0,0
+2026/04/23,True,Pittsburgh Pirates,Braxton Ashcraft,P,Pitcher,1,4,0,1,.750,5,5,5,29.2,2,0.93,0.60,1,0
+2026/04/23,True,St. Louis Cardinals,Matt Svanson,P,Pitcher,0,0,0,0,.000,11,11,0,13.0,0,0.00,0.00,0,0
+2026/04/23,True,Colorado Rockies,Jaden Hill,P,Pitcher,0,0,0,0,.000,11,11,0,10.0,0,0.00,0.00,0,0
+2026/04/23,True,Chicago Cubs,Alex Bregman,3B,Third Base,40,60,6,2,.967,22,22,22,197.0,18,2.65,2.64,0,0
+2026/04/23,True,Chicago Cubs,Alex Bregman,DH,Designated Hitter,0,0,0,0,.000,2,2,2,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Athletics,Jacob Lopez,P,Pitcher,4,4,0,0,1.000,5,5,5,23.2,0,1.57,0.80,0,0
+2026/04/23,True,Cincinnati Reds,Rece Hinds,RF,Outfielder,0,22,0,0,1.000,7,7,7,62.0,22,3.19,3.14,0,0
+2026/04/23,True,Texas Rangers,Kumar Rocker,P,Pitcher,3,3,0,0,1.000,4,4,4,20.2,0,1.35,0.75,0,0
+2026/04/23,True,New York Yankees,Ryan Weathers,P,Pitcher,4,4,0,0,1.000,5,5,5,28.1,0,1.29,0.80,0,0
+2026/04/23,True,New York Yankees,Max Fried,P,Pitcher,6,9,0,0,1.000,6,6,6,41.1,3,1.98,1.50,0,0
+2026/04/23,True,Los Angeles Dodgers,Will Klein,P,Pitcher,3,3,0,0,1.000,7,7,0,9.2,0,3.00,0.43,0,0
+2026/04/23,True,Chicago Cubs,Carson Kelly,C,Catcher,4,126,1,0,1.000,14,14,14,123.0,122,9.22,9.00,0,0
+2026/04/23,True,Chicago Cubs,Carson Kelly,1B,First Base,0,9,0,0,1.000,3,3,1,9.0,9,9.00,3.00,0,0
+2026/04/23,True,Chicago Cubs,Carson Kelly,DH,Designated Hitter,0,0,0,0,.000,2,2,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Memphis Redbirds,Jared Shuster,P,Pitcher,0,0,0,0,.000,2,2,0,3.2,0,0.00,0.00,0,0
+2026/04/23,True,Arizona Diamondbacks,Tim Tawa,3B,Third Base,1,1,0,0,1.000,1,1,0,1.0,0,9.00,1.00,0,0
+2026/04/23,True,Arizona Diamondbacks,Tim Tawa,LF,Outfielder,0,18,0,0,1.000,13,13,10,93.1,18,1.74,1.38,0,0
+2026/04/23,True,Arizona Diamondbacks,Tim Tawa,DH,Designated Hitter,0,0,0,0,.000,1,1,1,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Houston Astros,Shay Whitcomb,1B,First Base,0,2,1,0,1.000,1,1,0,3.0,2,6.00,2.00,0,0
+2026/04/23,True,Houston Astros,Shay Whitcomb,3B,Third Base,2,2,0,0,1.000,4,4,1,13.0,0,1.38,0.50,0,0
+2026/04/23,True,Houston Astros,Shay Whitcomb,LF,Outfielder,0,1,0,0,1.000,1,1,1,7.0,1,1.29,1.00,0,0
+2026/04/23,True,Pittsburgh Pirates,Nick Yorke,1B,First Base,1,8,2,1,.875,2,2,1,9.0,6,7.00,3.50,1,0
+2026/04/23,True,Pittsburgh Pirates,Nick Yorke,3B,Third Base,18,30,1,1,.967,15,15,13,117.1,11,2.23,1.93,0,0
+2026/04/23,True,Pittsburgh Pirates,Nick Yorke,RF,Outfielder,0,5,0,0,1.000,5,5,1,18.0,5,2.50,1.00,0,0
+2026/04/23,True,Pittsburgh Pirates,Nick Yorke,DH,Designated Hitter,0,0,0,0,.000,1,1,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Colorado Rockies,Brennan Bernardino,P,Pitcher,2,3,0,0,1.000,12,12,1,10.1,1,2.70,0.25,0,0
+2026/04/23,True,Los Angeles Angels,Nolan Schanuel,1B,First Base,12,195,13,2,.990,23,23,23,203.1,181,8.56,8.39,1,0
+2026/04/23,True,Texas Rangers,Corey Seager,SS,Shortstop,45,83,11,1,.988,23,23,23,200.2,37,3.69,3.57,0,0
+2026/04/23,True,Chicago White Sox,Lucas Sims,P,Pitcher,0,1,0,0,1.000,9,9,0,10.0,1,0.90,0.11,0,0
+2026/04/23,True,Colorado Rockies,Tomoyuki Sugano,P,Pitcher,2,4,0,0,1.000,5,5,5,26.1,2,1.38,0.80,0,0
+2026/04/23,True,Houston Astros,Joey Loperfido,LF,Outfielder,1,26,1,1,.962,16,16,9,82.1,24,2.74,1.56,1,0
+2026/04/23,True,Houston Astros,Joey Loperfido,CF,Outfielder,0,4,0,0,1.000,5,5,4,37.0,4,0.97,0.80,0,0
+2026/04/23,True,Houston Astros,Joey Loperfido,RF,Outfielder,0,1,0,0,1.000,1,1,1,6.0,1,1.50,1.00,0,0
+2026/04/23,True,Chicago Cubs,Matthew Boyd,P,Pitcher,1,2,0,0,1.000,3,3,3,14.0,1,1.29,0.67,0,0
+2026/04/23,True,Detroit Tigers,Parker Meadows,CF,Outfielder,0,17,0,0,1.000,12,12,11,87.2,17,1.76,1.42,0,0
+2026/04/23,True,Kansas City Royals,Michael Wacha,P,Pitcher,3,7,0,0,1.000,5,5,5,32.1,4,1.97,1.40,0,0
+2026/04/23,True,Cleveland Guardians,Tim Herrin,P,Pitcher,0,0,0,0,.000,9,9,0,5.2,0,0.00,0.00,0,0
+2026/04/23,True,Chicago White Sox,Jordan Leasure,P,Pitcher,2,2,0,0,1.000,11,11,1,11.2,0,1.64,0.18,0,0
+2026/04/23,True,Miami Marlins,Austin Slater,RF,Outfielder,1,10,0,0,1.000,9,9,7,53.0,9,1.70,1.11,0,0
+2026/04/23,True,Milwaukee Brewers,Sal Frelick,RF,Outfielder,1,44,0,0,1.000,21,21,20,173.0,43,2.29,2.10,0,0
+2026/04/23,True,Milwaukee Brewers,Sal Frelick,DH,Designated Hitter,0,0,0,0,.000,1,1,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Los Angeles Dodgers,Emmet Sheehan,P,Pitcher,1,2,0,0,1.000,4,4,4,20.0,1,0.90,0.50,0,0
+2026/04/23,True,Miami Marlins,Sandy Alcantara,P,Pitcher,2,2,0,0,1.000,5,5,5,35.1,0,0.51,0.40,0,0
+2026/04/23,True,New York Mets,Juan Soto,LF,Outfielder,0,13,0,0,1.000,7,7,7,65.2,13,1.80,1.86,0,0
+2026/04/23,True,New York Mets,Juan Soto,DH,Designated Hitter,0,0,0,0,.000,1,1,1,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Boston Red Sox,Trevor Story,SS,Shortstop,60,88,14,4,.955,22,22,22,191.1,24,3.96,3.82,3,0
+2026/04/23,True,Boston Red Sox,Trevor Story,DH,Designated Hitter,0,0,0,0,.000,2,2,2,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Baltimore Orioles,Leody Taveras,CF,Outfielder,0,32,0,0,1.000,19,19,14,136.2,32,2.12,1.68,0,0
+2026/04/23,True,Baltimore Orioles,Leody Taveras,RF,Outfielder,0,0,0,0,.000,2,2,0,5.0,0,0.00,0.00,0,0
+2026/04/23,True,Atlanta Braves,Ozzie Albies,2B,Second Base,59,94,15,1,.989,25,25,25,221.0,34,3.79,3.72,0,0
+2026/04/23,True,New York Mets,Luke Weaver,P,Pitcher,1,2,0,0,1.000,10,10,0,10.0,1,1.80,0.20,0,0
+2026/04/23,True,Cleveland Guardians,Shawn Armstrong,P,Pitcher,1,1,0,0,1.000,12,12,0,10.2,0,0.90,0.08,0,0
+2026/04/23,True,Texas Rangers,Josh Jung,3B,Third Base,20,38,5,1,.974,21,21,20,174.0,17,1.91,1.76,1,0
+2026/04/23,True,Milwaukee Brewers,Gary Sánchez,C,Catcher,1,35,0,0,1.000,5,5,4,34.0,34,9.26,7.00,0,0
+2026/04/23,True,Milwaukee Brewers,Gary Sánchez,1B,First Base,2,28,2,1,.964,5,5,4,27.0,25,9.00,5.40,0,0
+2026/04/23,True,Milwaukee Brewers,Gary Sánchez,DH,Designated Hitter,0,0,0,0,.000,8,8,7,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Seattle Mariners,Victor Robles,RF,Outfielder,0,5,0,0,1.000,4,4,4,34.0,5,1.32,1.25,0,0
+2026/04/23,True,Toronto Blue Jays,Patrick Corbin,P,Pitcher,2,2,0,0,1.000,3,3,3,14.2,0,1.29,0.67,0,0
+2026/04/23,True,Cleveland Guardians,Daniel Schneemann,2B,Second Base,11,22,6,0,1.000,5,5,4,39.0,11,5.08,4.40,0,0
+2026/04/23,True,Cleveland Guardians,Daniel Schneemann,3B,Third Base,9,14,0,0,1.000,6,6,5,44.0,5,2.86,2.33,0,0
+2026/04/23,True,Cleveland Guardians,Daniel Schneemann,SS,Shortstop,2,3,0,0,1.000,1,1,1,9.0,1,3.00,3.00,0,0
+2026/04/23,True,Cleveland Guardians,Daniel Schneemann,CF,Outfielder,1,15,0,0,1.000,9,9,6,55.1,14,2.45,1.67,0,0
+2026/04/23,True,Chicago Cubs,Edward Cabrera,P,Pitcher,1,6,0,0,1.000,4,4,4,22.2,5,2.45,1.50,0,0
+2026/04/23,True,Chicago Cubs,Miguel Amaya,C,Catcher,7,87,0,1,.989,11,11,10,90.0,79,8.60,7.82,1,0
+2026/04/23,True,Chicago Cubs,Miguel Amaya,1B,First Base,0,1,0,0,1.000,1,1,0,2.0,1,4.50,1.00,0,0
+2026/04/23,True,Chicago Cubs,Miguel Amaya,DH,Designated Hitter,0,0,0,0,.000,5,5,3,0.0,0,-.--,0.00,0,0
+2026/04/23,True,New York Yankees,Tim Hill,P,Pitcher,7,7,0,0,1.000,10,10,0,10.0,0,6.30,0.70,0,0
+2026/04/23,True,Milwaukee Brewers,Chad Patrick,P,Pitcher,0,1,0,0,1.000,5,5,3,23.0,1,0.39,0.20,0,0
+2026/04/23,True,San Diego Padres,Jason Adam,P,Pitcher,0,0,0,0,.000,6,6,0,4.2,0,0.00,0.00,0,0
+2026/04/23,True,Texas Rangers,Evan Carter,CF,Outfielder,0,50,0,0,1.000,24,24,19,178.2,50,2.53,2.08,0,0
+2026/04/23,True,Seattle Mariners,George Kirby,P,Pitcher,3,5,0,0,1.000,5,5,5,33.1,2,1.36,1.00,0,0
+2026/04/23,True,Pittsburgh Pirates,Oneil Cruz,CF,Outfielder,1,58,0,1,.983,23,23,23,208.1,56,2.47,2.48,0,0
+2026/04/23,True,Milwaukee Brewers,Jared Koenig,P,Pitcher,0,0,0,0,.000,3,3,0,2.1,0,0.00,0.00,0,0
+2026/04/23,True,Cincinnati Reds,Brandon Williamson,P,Pitcher,3,3,0,0,1.000,5,5,5,25.0,0,1.08,0.60,0,0
+2026/04/23,True,San Diego Padres,Ramón Laureano,LF,Outfielder,0,39,0,0,1.000,21,21,20,177.0,39,1.98,1.86,0,0
+2026/04/23,True,San Diego Padres,Ramón Laureano,DH,Designated Hitter,0,0,0,0,.000,1,1,1,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Houston Astros,AJ Blubaugh,P,Pitcher,0,2,0,0,1.000,11,11,0,16.0,2,1.13,0.18,0,0
+2026/04/23,True,New York Yankees,Jazz Chisholm,2B,Second Base,54,82,7,1,.988,23,23,21,188.2,27,3.88,3.52,0,0
+2026/04/23,True,New York Yankees,Jazz Chisholm,DH,Designated Hitter,0,0,0,0,.000,1,1,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Atlanta Braves,Kyle Farmer,3B,Third Base,1,1,0,0,1.000,2,2,0,3.0,0,3.00,0.50,0,0
+2026/04/23,True,Atlanta Braves,Kyle Farmer,DH,Designated Hitter,0,0,0,0,.000,2,2,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Pittsburgh Pirates,Mason Montgomery,P,Pitcher,0,0,0,0,.000,10,10,1,9.1,0,0.00,0.00,0,0
+2026/04/23,True,Chicago Cubs,Javier Assad,P,Pitcher,1,3,0,0,1.000,3,3,3,15.2,2,1.80,1.00,0,0
+2026/04/23,True,St. Louis Cardinals,José Fermín,LF,Outfielder,0,12,0,0,1.000,6,6,6,46.0,12,2.35,2.00,0,0
+2026/04/23,True,St. Louis Cardinals,José Fermín,CF,Outfielder,0,3,0,0,1.000,3,3,0,7.0,3,3.86,1.00,0,0
+2026/04/23,True,Texas Rangers,Tyler Alexander,P,Pitcher,2,5,0,0,1.000,12,12,0,13.1,3,3.46,0.42,0,0
+2026/04/23,True,Los Angeles Angels,Shaun Anderson,P,Pitcher,2,2,0,0,1.000,7,7,0,14.2,0,1.29,0.29,0,0
+2026/04/23,True,Baltimore Orioles,Yaramil Hiraldo,P,Pitcher,0,0,0,0,.000,3,3,0,1.2,0,0.00,0.00,0,0
+2026/04/23,True,Boston Red Sox,Connelly Early,P,Pitcher,0,2,0,0,1.000,5,5,5,25.0,2,0.72,0.40,0,0
+2026/04/23,True,New York Mets,Tommy Pham,LF,Outfielder,0,2,0,0,1.000,4,4,3,26.2,2,0.69,0.50,0,0
+2026/04/23,True,Tampa Bay Rays,Bryan Baker,P,Pitcher,0,0,0,0,.000,9,9,0,8.1,0,0.00,0.00,0,0
+2026/04/23,True,San Diego Padres,Germán Márquez,P,Pitcher,1,2,0,0,1.000,4,4,4,18.2,1,1.00,0.50,0,0
+2026/04/23,True,Milwaukee Brewers,Jake Bauers,1B,First Base,10,146,14,3,.979,22,22,17,163.0,133,7.90,6.50,1,0
+2026/04/23,True,Milwaukee Brewers,Jake Bauers,LF,Outfielder,0,0,0,0,.000,1,1,1,6.0,0,0.00,0.00,0,0
+2026/04/23,True,Toronto Blue Jays,Andrés Giménez,SS,Shortstop,50,87,13,1,.989,24,24,23,206.2,36,3.76,3.58,0,0
+2026/04/23,True,New York Yankees,Cody Bellinger,LF,Outfielder,1,36,0,1,.972,21,21,16,154.2,34,2.05,1.67,1,0
+2026/04/23,True,New York Yankees,Cody Bellinger,CF,Outfielder,0,8,0,0,1.000,8,8,7,50.0,8,1.44,1.00,0,0
+2026/04/23,True,San Diego Padres,Nick Castellanos,1B,First Base,1,16,0,0,1.000,3,3,2,14.0,15,10.29,5.33,0,0
+2026/04/23,True,San Diego Padres,Nick Castellanos,LF,Outfielder,0,1,0,0,1.000,1,1,1,9.0,1,1.00,1.00,0,0
+2026/04/23,True,San Diego Padres,Nick Castellanos,RF,Outfielder,0,2,0,0,1.000,2,2,2,17.0,2,1.06,1.00,0,0
+2026/04/23,True,San Diego Padres,Nick Castellanos,DH,Designated Hitter,0,0,0,0,.000,7,7,7,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Boston Red Sox,Danny Coulombe,P,Pitcher,0,0,0,0,.000,9,9,0,5.2,0,0.00,0.00,0,0
+2026/04/23,True,Minnesota Twins,Joe Ryan,P,Pitcher,1,1,0,0,1.000,5,5,5,27.1,0,0.33,0.20,0,0
+2026/04/23,True,St. Louis Cardinals,Ramón Urías,1B,First Base,1,16,3,1,.938,2,2,2,15.0,14,9.00,7.50,0,0
+2026/04/23,True,St. Louis Cardinals,Ramón Urías,3B,Third Base,25,36,1,2,.944,15,15,11,100.0,9,3.06,2.27,0,0
+2026/04/23,True,St. Louis Cardinals,Ramón Urías,SS,Shortstop,0,1,0,0,1.000,2,2,0,3.0,1,3.00,0.50,0,0
+2026/04/23,True,Cleveland Guardians,Matt Festa,P,Pitcher,0,1,0,0,1.000,10,10,0,12.1,1,0.75,0.10,0,0
+2026/04/23,True,Detroit Tigers,Connor Seabold,P,Pitcher,1,2,0,0,1.000,7,7,0,10.2,1,1.80,0.29,0,0
+2026/04/23,True,San Diego Padres,Gavin Sheets,1B,First Base,13,103,14,0,1.000,16,16,14,124.0,90,7.48,6.44,0,0
+2026/04/23,True,San Diego Padres,Gavin Sheets,LF,Outfielder,0,3,0,0,1.000,2,2,2,17.0,3,1.59,1.50,0,0
+2026/04/23,True,San Diego Padres,Gavin Sheets,DH,Designated Hitter,0,0,0,0,.000,3,3,3,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Seattle Mariners,Luke Raley,RF,Outfielder,0,31,0,0,1.000,21,21,17,148.1,31,1.89,1.48,0,0
+2026/04/23,True,Seattle Mariners,Luke Raley,DH,Designated Hitter,0,0,0,0,.000,2,2,2,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Rochester Red Wings,Andrés Chaparro,1B,First Base,0,7,0,0,1.000,2,2,2,12.0,7,5.25,3.50,0,0
+2026/04/23,True,Rochester Red Wings,Andrés Chaparro,DH,Designated Hitter,0,0,0,0,.000,1,1,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Chicago White Sox,Miguel Vargas,1B,First Base,0,17,2,0,1.000,3,3,2,20.2,17,7.65,5.67,0,0
+2026/04/23,True,Chicago White Sox,Miguel Vargas,3B,Third Base,32,50,2,2,.960,18,18,17,151.0,16,2.86,2.67,2,0
+2026/04/23,True,Chicago White Sox,Miguel Vargas,DH,Designated Hitter,0,0,0,0,.000,3,3,3,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Columbus Clippers,Colin Holderman,P,Pitcher,0,1,0,0,1.000,2,2,0,3.0,1,3.00,0.50,0,0
+2026/04/23,True,Colorado Rockies,Michael Lorenzen,P,Pitcher,2,5,1,0,1.000,6,6,5,21.2,3,2.14,0.83,0,0
+2026/04/23,True,Philadelphia Phillies,Bryce Harper,1B,First Base,11,178,13,1,.994,23,23,23,200.0,166,7.97,7.70,1,0
+2026/04/23,True,Philadelphia Phillies,Bryce Harper,DH,Designated Hitter,0,0,0,0,.000,1,1,1,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Boston Red Sox,Carlos Narváez,C,Catcher,5,125,0,2,.984,15,15,15,129.0,118,8.58,8.20,1,0
+2026/04/23,True,Las Vegas Aviators,Michael Kelly,P,Pitcher,0,0,0,0,.000,4,4,0,4.1,0,0.00,0.00,0,0
+2026/04/23,True,Washington Nationals,Drew Millas,C,Catcher,1,93,0,0,1.000,17,17,12,110.0,92,7.61,5.47,0,0
+2026/04/23,True,Cleveland Guardians,Connor Brogdon,P,Pitcher,1,3,0,0,1.000,10,10,0,9.2,2,3.00,0.30,0,0
+2026/04/23,True,Lehigh Valley IronPigs,Otto Kemp,2B,Second Base,0,1,0,0,1.000,1,1,0,1.0,1,9.00,1.00,0,0
+2026/04/23,True,Lehigh Valley IronPigs,Otto Kemp,LF,Outfielder,0,12,0,0,1.000,9,9,5,48.0,12,2.25,1.33,0,0
+2026/04/23,True,Kansas City Royals,Vinnie Pasquantino,1B,First Base,16,186,20,1,.995,25,25,25,218.0,169,7.64,7.40,1,0
+2026/04/23,True,Norfolk Tides,Dietrich Enns,P,Pitcher,0,0,0,0,.000,3,3,0,4.1,0,0.00,0.00,0,0
+2026/04/23,True,Omaha Storm Chasers,Tyler Tolbert,P,Pitcher,0,0,0,0,.000,1,1,0,0.2,0,0.00,0.00,0,0
+2026/04/23,True,Omaha Storm Chasers,Tyler Tolbert,2B,Second Base,0,1,0,0,1.000,2,2,0,1.1,1,9.00,0.50,0,0
+2026/04/23,True,Omaha Storm Chasers,Tyler Tolbert,SS,Shortstop,1,3,0,0,1.000,2,2,0,4.0,2,6.75,1.50,0,0
+2026/04/23,True,Omaha Storm Chasers,Tyler Tolbert,LF,Outfielder,0,0,0,0,.000,1,1,0,6.2,0,0.00,0.00,0,0
+2026/04/23,True,Omaha Storm Chasers,Tyler Tolbert,RF,Outfielder,0,0,0,0,.000,1,1,0,2.0,0,0.00,0.00,0,0
+2026/04/23,True,Texas Rangers,Wyatt Langford,LF,Outfielder,1,34,0,0,1.000,18,18,14,126.0,33,2.43,1.89,0,0
+2026/04/23,True,Texas Rangers,Wyatt Langford,CF,Outfielder,0,14,0,0,1.000,4,4,4,24.0,14,5.25,3.50,0,0
+2026/04/23,True,Texas Rangers,Wyatt Langford,DH,Designated Hitter,0,0,0,0,.000,2,2,2,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Texas Rangers,Nathan Eovaldi,P,Pitcher,1,8,0,0,1.000,5,5,5,26.2,7,2.77,1.60,0,0
+2026/04/23,True,Tampa Bay Rays,Jonathan Aranda,1B,First Base,8,172,8,2,.988,24,24,23,205.1,162,7.46,7.08,2,0
+2026/04/23,True,San Diego Padres,Freddy Fermin,C,Catcher,7,146,0,3,.979,18,18,13,116.0,136,11.09,7.94,2,0
+2026/04/23,True,Miami Marlins,Jakob Marsee,CF,Outfielder,2,62,1,0,1.000,24,24,24,211.0,60,2.64,2.58,0,0
+2026/04/23,True,Miami Marlins,Jakob Marsee,DH,Designated Hitter,0,0,0,0,.000,1,1,1,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Boston Red Sox,Willson Contreras,1B,First Base,31,214,16,0,1.000,22,22,22,187.1,183,10.30,9.73,0,0
+2026/04/23,True,Boston Red Sox,Willson Contreras,DH,Designated Hitter,0,0,0,0,.000,1,1,1,0.0,0,-.--,0.00,0,0
+2026/04/23,True,New York Yankees,Fernando Cruz,P,Pitcher,0,0,0,0,.000,10,10,0,7.1,0,0.00,0.00,0,0
+2026/04/23,True,Seattle Mariners,Rob Refsnyder,RF,Outfielder,0,7,0,0,1.000,6,6,3,31.0,7,2.03,1.17,0,0
+2026/04/23,True,Seattle Mariners,Rob Refsnyder,DH,Designated Hitter,0,0,0,0,.000,7,7,4,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Seattle Mariners,Dominic Canzone,RF,Outfielder,0,3,0,0,1.000,2,2,2,15.0,3,1.80,1.50,0,0
+2026/04/23,True,Seattle Mariners,Dominic Canzone,DH,Designated Hitter,0,0,0,0,.000,17,17,15,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Los Angeles Angels,Travis d'Arnaud,C,Catcher,1,48,0,0,1.000,5,5,5,40.0,47,10.80,9.60,0,0
+2026/04/23,True,Houston Astros,Brice Matthews,2B,Second Base,1,2,1,0,1.000,3,3,0,7.0,1,2.57,0.67,0,0
+2026/04/23,True,Houston Astros,Brice Matthews,3B,Third Base,0,1,0,1,.000,1,1,0,2.0,0,0.00,0.00,0,0
+2026/04/23,True,Houston Astros,Brice Matthews,LF,Outfielder,0,16,0,0,1.000,13,13,9,76.0,16,1.89,1.23,0,0
+2026/04/23,True,Houston Astros,Brice Matthews,CF,Outfielder,0,2,0,0,1.000,3,3,2,19.0,2,0.95,0.67,0,0
+2026/04/23,True,Toronto Blue Jays,Kevin Gausman,P,Pitcher,1,5,0,1,.800,5,5,5,28.1,3,1.29,0.80,1,0
+2026/04/23,True,Los Angeles Angels,Brent Suter,P,Pitcher,7,10,0,0,1.000,9,9,1,17.0,3,5.29,1.11,0,0
+2026/04/23,True,Seattle Mariners,J.P. Crawford,SS,Shortstop,31,58,10,1,.983,17,17,17,150.2,26,3.42,3.35,1,0
+2026/04/23,True,Seattle Mariners,J.P. Crawford,DH,Designated Hitter,0,0,0,0,.000,1,1,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,San Francisco Giants,Landen Roupp,P,Pitcher,2,3,1,0,1.000,5,5,5,27.2,1,1.00,0.60,0,0
+2026/04/23,True,Buffalo Bisons,Austin Voth,P,Pitcher,0,0,0,0,.000,1,1,0,2.2,0,0.00,0.00,0,0
+2026/04/23,True,Kansas City Royals,John Schreiber,P,Pitcher,2,2,0,0,1.000,10,10,0,8.0,0,2.25,0.20,0,0
+2026/04/23,True,Kansas City Royals,Isaac Collins,LF,Outfielder,0,30,0,1,.967,19,19,16,139.0,29,1.88,1.53,0,0
+2026/04/23,True,Kansas City Royals,Isaac Collins,DH,Designated Hitter,0,0,0,0,.000,1,1,1,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Chicago Cubs,Dansby Swanson,SS,Shortstop,59,102,14,3,.971,24,24,24,215.0,40,4.14,4.13,3,0
+2026/04/23,True,Albuquerque Isotopes,Valente Bellozo,P,Pitcher,1,2,0,0,1.000,3,3,0,10.2,1,1.80,0.67,0,0
+2026/04/23,True,Chicago White Sox,Jonathan Cannon,P,Pitcher,0,0,0,0,.000,1,1,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Houston Astros,Carlos Correa,3B,Third Base,19,27,3,1,.963,14,14,12,92.0,7,2.54,1.86,1,0
+2026/04/23,True,Houston Astros,Carlos Correa,SS,Shortstop,26,48,8,0,1.000,14,14,11,103.1,22,4.19,3.43,0,0
+2026/04/23,True,Boston Red Sox,Justin Slaten,P,Pitcher,0,0,0,0,.000,4,4,0,3.1,0,0.00,0.00,0,0
+2026/04/23,True,Chicago White Sox,Chase Meidroth,2B,Second Base,41,77,10,1,.987,22,22,22,192.2,35,3.56,3.45,0,0
+2026/04/23,True,Washington Nationals,Jorbit Vivas,2B,Second Base,16,22,2,1,.955,6,6,6,50.0,5,3.78,3.50,0,0
+2026/04/23,True,Washington Nationals,Jorbit Vivas,3B,Third Base,10,18,1,2,.889,8,8,8,65.0,6,2.22,2.00,1,0
+2026/04/23,True,Washington Nationals,Jorbit Vivas,DH,Designated Hitter,0,0,0,0,.000,1,1,1,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Boston Red Sox,Brayan Bello,P,Pitcher,1,3,0,0,1.000,4,4,4,18.2,2,1.50,0.75,0,0
+2026/04/23,True,Boston Red Sox,Sonny Gray,P,Pitcher,4,10,0,0,1.000,5,5,5,23.0,6,3.91,2.00,0,0
+2026/04/23,True,Athletics,Carlos Cortes,LF,Outfielder,0,3,0,0,1.000,2,2,1,12.0,3,2.25,1.50,0,0
+2026/04/23,True,Athletics,Carlos Cortes,RF,Outfielder,0,8,0,0,1.000,9,9,7,50.2,8,1.44,0.89,0,0
+2026/04/23,True,Athletics,Carlos Cortes,DH,Designated Hitter,0,0,0,0,.000,7,7,7,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Washington Nationals,Ken Waldichuk,P,Pitcher,2,2,0,0,1.000,5,5,0,9.1,0,2.00,0.40,0,0
+2026/04/23,True,New York Yankees,J.C. Escarra,C,Catcher,1,48,0,0,1.000,6,6,5,45.0,47,9.60,8.00,0,0
+2026/04/23,True,Houston Astros,Hunter Brown,P,Pitcher,0,0,0,0,.000,2,2,2,10.2,0,0.00,0.00,0,0
+2026/04/23,True,Tampa Bay Rays,Steven Matz,P,Pitcher,0,0,0,0,.000,5,5,5,24.1,0,0.00,0.00,0,0
+2026/04/23,True,Los Angeles Angels,Josh Lowe,LF,Outfielder,0,32,0,0,1.000,22,22,18,145.0,32,1.99,1.45,0,0
+2026/04/23,True,Los Angeles Angels,Josh Lowe,CF,Outfielder,0,0,0,0,.000,1,1,0,4.0,0,0.00,0.00,0,0
+2026/04/23,True,Los Angeles Angels,Josh Lowe,RF,Outfielder,0,3,0,0,1.000,1,1,1,9.0,3,3.00,3.00,0,0
+2026/04/23,True,Kansas City Royals,Cole Ragans,P,Pitcher,0,1,0,0,1.000,5,5,5,21.0,1,0.43,0.20,0,0
+2026/04/23,True,Minnesota Twins,Matt Wallner,RF,Outfielder,0,52,0,1,.981,21,21,21,184.0,51,2.49,2.43,0,0
+2026/04/23,True,Milwaukee Brewers,Jacob Misiorowski,P,Pitcher,1,1,0,0,1.000,5,5,5,26.2,0,0.35,0.20,0,0
+2026/04/23,True,Los Angeles Dodgers,Freddie Freeman,1B,First Base,26,175,12,0,1.000,22,22,22,189.0,149,8.33,7.95,0,0
+2026/04/23,True,Boston Red Sox,Ryan Watson,P,Pitcher,0,1,0,0,1.000,10,10,0,13.1,1,0.69,0.10,0,0
+2026/04/23,True,Milwaukee Brewers,David Hamilton,2B,Second Base,8,10,1,0,1.000,2,2,2,16.0,2,5.63,5.00,0,0
+2026/04/23,True,Milwaukee Brewers,David Hamilton,3B,Third Base,14,19,2,0,1.000,12,12,9,75.0,5,2.28,1.58,0,0
+2026/04/23,True,Milwaukee Brewers,David Hamilton,SS,Shortstop,16,28,7,1,.964,9,9,7,63.0,11,3.86,3.00,0,0
+2026/04/23,True,Washington Nationals,Miles Mikolas,P,Pitcher,2,5,0,1,.800,5,5,3,19.2,2,1.89,0.80,1,0
+2026/04/23,True,Chicago Cubs,Hoby Milner,P,Pitcher,1,1,0,0,1.000,11,11,0,11.2,0,0.82,0.09,0,0
+2026/04/23,True,Colorado Rockies,Mickey Moniak,LF,Outfielder,0,17,0,0,1.000,8,8,7,57.0,17,2.68,2.13,0,0
+2026/04/23,True,Colorado Rockies,Mickey Moniak,CF,Outfielder,0,3,0,0,1.000,4,4,1,11.0,3,2.45,0.75,0,0
+2026/04/23,True,Colorado Rockies,Mickey Moniak,RF,Outfielder,0,9,0,0,1.000,8,8,6,51.0,9,1.59,1.13,0,0
+2026/04/23,True,Colorado Rockies,Mickey Moniak,DH,Designated Hitter,0,0,0,0,.000,2,2,2,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Tampa Bay Rays,Jake Fraley,RF,Outfielder,1,26,0,1,.962,17,17,14,109.1,24,2.06,1.47,1,0
+2026/04/23,True,Sugar Land Space Cowboys,J.P. France,P,Pitcher,1,1,0,0,1.000,3,3,0,6.2,0,1.50,0.33,0,0
+2026/04/23,True,Baltimore Orioles,Zach Eflin,P,Pitcher,0,0,0,0,.000,1,1,1,3.2,0,0.00,0.00,0,0
+2026/04/23,True,San Diego Padres,Walker Buehler,P,Pitcher,1,5,0,0,1.000,5,5,5,20.1,4,2.25,1.00,0,0
+2026/04/23,True,New York Yankees,Paul Blackburn,P,Pitcher,0,2,0,0,1.000,6,6,0,8.0,2,2.25,0.33,0,0
+2026/04/23,True,Los Angeles Angels,Ryan Zeferjahn,P,Pitcher,1,3,0,0,1.000,8,8,0,11.2,2,2.45,0.38,0,0
+2026/04/23,True,Seattle Mariners,Mitch Garver,C,Catcher,3,53,0,0,1.000,6,6,6,54.0,50,8.83,8.83,0,0
+2026/04/23,True,Seattle Mariners,Mitch Garver,DH,Designated Hitter,0,0,0,0,.000,3,3,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Los Angeles Angels,Jo Adell,LF,Outfielder,0,3,0,0,1.000,4,4,2,19.0,3,1.42,0.75,0,0
+2026/04/23,True,Los Angeles Angels,Jo Adell,CF,Outfielder,0,2,0,0,1.000,1,1,1,8.0,2,2.25,2.00,0,0
+2026/04/23,True,Los Angeles Angels,Jo Adell,RF,Outfielder,0,35,0,0,1.000,23,23,21,185.1,35,1.70,1.52,0,0
+2026/04/23,True,Los Angeles Angels,Jo Adell,DH,Designated Hitter,0,0,0,0,.000,2,2,2,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Chicago White Sox,Osvaldo Bido,P,Pitcher,1,2,1,0,1.000,7,7,0,12.0,1,1.50,0.29,0,0
+2026/04/23,True,Chicago White Sox,Osvaldo Bido,P,Pitcher,0,1,1,0,1.000,6,6,0,10.0,1,0.90,0.17,0,0
+2026/04/23,True,Chicago White Sox,Osvaldo Bido,P,Pitcher,1,1,0,0,1.000,1,1,0,2.0,0,4.50,1.00,0,0
+2026/04/23,True,New York Yankees,Aaron Judge,RF,Outfielder,1,51,1,0,1.000,23,23,23,202.2,50,2.27,2.22,0,0
+2026/04/23,True,New York Yankees,Aaron Judge,DH,Designated Hitter,0,0,0,0,.000,1,1,1,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Houston Astros,Lance McCullers,P,Pitcher,1,4,1,1,.750,4,4,4,20.1,2,1.35,0.75,1,0
+2026/04/23,True,Cincinnati Reds,Will Benson,LF,Outfielder,0,3,0,0,1.000,6,6,3,25.0,3,1.08,0.50,0,0
+2026/04/23,True,Cincinnati Reds,Will Benson,RF,Outfielder,0,26,0,1,.962,12,12,8,72.0,25,3.13,2.08,1,0
+2026/04/23,True,Cincinnati Reds,Will Benson,DH,Designated Hitter,0,0,0,0,.000,1,1,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,New York Mets,Bo Bichette,3B,Third Base,36,53,2,2,.962,23,23,23,201.1,15,2.28,2.22,2,0
+2026/04/23,True,New York Mets,Bo Bichette,SS,Shortstop,0,0,0,0,.000,1,1,0,5.0,0,0.00,0.00,0,0
+2026/04/23,True,New York Mets,Bo Bichette,DH,Designated Hitter,0,0,0,0,.000,1,1,1,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Los Angeles Dodgers,Max Muncy,3B,Third Base,31,52,2,1,.981,23,23,22,194.0,20,2.37,2.22,0,0
+2026/04/23,True,Iowa Cubs,Dylan Carlson,LF,Outfielder,0,1,0,0,1.000,1,1,1,8.0,1,1.13,1.00,0,0
+2026/04/23,True,Iowa Cubs,Dylan Carlson,RF,Outfielder,0,0,0,0,.000,1,1,0,2.0,0,0.00,0.00,0,0
+2026/04/23,True,Iowa Cubs,Dylan Carlson,DH,Designated Hitter,0,0,0,0,.000,1,1,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Arizona Diamondbacks,Andrew Hoffmann,P,Pitcher,1,2,0,0,1.000,6,6,0,10.1,1,1.80,0.33,0,0
+2026/04/23,True,Texas Rangers,Kyle Higashioka,C,Catcher,3,82,0,1,.988,10,10,9,80.0,78,9.11,8.10,1,0
+2026/04/23,True,New York Yankees,David Bednar,P,Pitcher,1,1,0,0,1.000,10,10,0,9.2,0,1.00,0.10,0,0
+2026/04/23,True,Colorado Rockies,Brenton Doyle,CF,Outfielder,0,48,0,0,1.000,24,24,18,168.1,48,2.57,2.00,0,0
+2026/04/23,True,Philadelphia Phillies,Jesús Luzardo,P,Pitcher,2,4,0,0,1.000,5,5,5,27.1,2,1.33,0.80,0,0
+2026/04/23,True,Arizona Diamondbacks,Jorge Barrosa,LF,Outfielder,0,6,0,0,1.000,6,6,5,43.0,6,1.26,1.00,0,0
+2026/04/23,True,Arizona Diamondbacks,Jorge Barrosa,CF,Outfielder,0,14,0,0,1.000,6,6,5,48.1,14,2.63,2.33,0,0
+2026/04/23,True,Arizona Diamondbacks,Jorge Barrosa,RF,Outfielder,0,8,0,0,1.000,6,6,5,49.0,8,1.47,1.33,0,0
+2026/04/23,True,Kansas City Royals,Michael Massey,2B,Second Base,9,23,2,0,1.000,10,10,9,71.0,14,2.92,2.30,0,0
+2026/04/23,True,Kansas City Royals,Michael Massey,3B,Third Base,0,0,0,0,.000,1,1,0,1.0,0,0.00,0.00,0,0
+2026/04/23,True,Kansas City Royals,Michael Massey,LF,Outfielder,0,2,0,0,1.000,3,3,3,20.0,2,0.90,0.67,0,0
+2026/04/23,True,Kansas City Royals,Michael Massey,RF,Outfielder,0,0,0,0,.000,1,1,0,1.0,0,0.00,0.00,0,0
+2026/04/23,True,Houston Astros,Taylor Trammell,CF,Outfielder,1,23,0,1,.957,9,9,8,68.1,21,2.91,2.44,0,0
+2026/04/23,True,Sugar Land Space Cowboys,Roddery Muñoz,P,Pitcher,0,0,0,0,.000,3,3,0,4.0,0,0.00,0.00,0,0
+2026/04/23,True,Atlanta Braves,Ian Hamilton,P,Pitcher,0,0,0,0,.000,1,1,0,1.0,0,0.00,0.00,0,0
+2026/04/23,True,Baltimore Orioles,Rico Garcia,P,Pitcher,3,5,0,0,1.000,12,12,0,12.0,2,3.75,0.42,0,0
+2026/04/23,True,Colorado Rockies,Chase Dollander,P,Pitcher,3,3,0,0,1.000,6,6,0,25.0,0,1.08,0.50,0,0
+2026/04/23,True,Louisville Bats,Noelvi Marte,RF,Outfielder,0,14,0,0,1.000,10,10,9,75.0,14,1.68,1.40,0,0
+2026/04/23,True,Toronto Blue Jays,Daulton Varsho,CF,Outfielder,0,38,0,0,1.000,22,22,21,180.2,38,1.90,1.73,0,0
+2026/04/23,True,New York Mets,Francisco Alvarez,C,Catcher,8,163,0,1,.994,20,20,18,158.2,154,9.23,8.10,1,0
+2026/04/23,True,New York Mets,Francisco Alvarez,DH,Designated Hitter,0,0,0,0,.000,1,1,1,0.0,0,-.--,0.00,0,0
+2026/04/23,True,San Diego Padres,Manny Machado,3B,Third Base,42,63,6,1,.984,23,23,23,206.0,20,2.71,2.70,0,0
+2026/04/23,True,Omaha Storm Chasers,Steven Cruz,P,Pitcher,0,0,0,0,.000,5,5,0,5.0,0,0.00,0.00,0,0
+2026/04/23,True,Atlanta Braves,Jonah Heim,C,Catcher,1,82,0,1,.988,9,9,9,78.0,80,9.35,9.00,1,0
+2026/04/23,True,Milwaukee Brewers,Luis Matos,LF,Outfielder,0,1,0,0,1.000,2,2,1,7.0,1,1.29,0.50,0,0
+2026/04/23,True,Milwaukee Brewers,Luis Matos,RF,Outfielder,1,8,0,0,1.000,4,4,3,21.0,7,3.43,2.00,0,0
+2026/04/23,True,Milwaukee Brewers,Luis Matos,DH,Designated Hitter,0,0,0,0,.000,2,2,1,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Washington Nationals,Curtis Mead,1B,First Base,5,92,9,2,.978,14,14,7,84.0,85,9.64,6.43,1,0
+2026/04/23,True,Washington Nationals,Curtis Mead,2B,Second Base,1,1,0,0,1.000,1,1,0,2.0,0,4.50,1.00,0,0
+2026/04/23,True,Washington Nationals,Curtis Mead,3B,Third Base,2,2,0,0,1.000,1,1,0,2.0,0,9.00,2.00,0,0
+2026/04/23,True,Washington Nationals,Curtis Mead,DH,Designated Hitter,0,0,0,0,.000,2,2,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Cleveland Guardians,Angel Martínez,LF,Outfielder,1,27,0,1,.963,17,17,13,117.0,25,2.00,1.53,1,0
+2026/04/23,True,Cleveland Guardians,Angel Martínez,CF,Outfielder,0,1,0,0,1.000,2,2,0,3.0,1,3.00,0.50,0,0
+2026/04/23,True,Cleveland Guardians,Angel Martínez,RF,Outfielder,0,9,0,0,1.000,6,6,4,42.1,9,1.93,1.50,0,0
+2026/04/23,True,St. Louis Cardinals,George Soriano,P,Pitcher,1,2,0,0,1.000,10,10,0,9.2,1,2.00,0.20,0,0
+2026/04/23,True,Toronto Blue Jays,Max Scherzer,P,Pitcher,2,2,0,0,1.000,4,4,4,16.1,0,1.13,0.50,0,0
+2026/04/23,True,Miami Marlins,Agustín Ramírez,C,Catcher,8,125,0,4,.968,13,13,13,114.0,113,9.55,9.31,2,0
+2026/04/23,True,Miami Marlins,Agustín Ramírez,DH,Designated Hitter,0,0,0,0,.000,10,10,10,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Chicago White Sox,Luisangel Acuña,SS,Shortstop,14,18,2,0,1.000,6,6,5,41.0,4,3.95,3.00,0,0
+2026/04/23,True,Chicago White Sox,Luisangel Acuña,CF,Outfielder,2,48,0,2,.958,16,16,14,122.2,44,3.39,2.88,2,0
+2026/04/23,True,Philadelphia Phillies,José Alvarado,P,Pitcher,0,1,0,1,.000,11,11,0,7.1,0,0.00,0.00,1,0
+2026/04/23,True,Los Angeles Dodgers,Edwin Díaz,P,Pitcher,0,1,0,0,1.000,7,7,0,6.0,1,1.50,0.14,0,0
+2026/04/23,True,St. Louis Cardinals,Pedro Pagés,C,Catcher,9,120,1,3,.975,16,16,15,133.0,108,7.92,7.31,1,0
+2026/04/23,True,Pittsburgh Pirates,Paul Skenes,P,Pitcher,1,2,0,0,1.000,5,5,5,22.0,1,0.82,0.40,0,0
+2026/04/23,True,Cleveland Guardians,Bo Naylor,C,Catcher,4,141,1,1,.993,17,17,15,132.0,136,9.55,8.24,1,0
+2026/04/23,True,Atlanta Braves,Martín Pérez,P,Pitcher,1,3,0,0,1.000,5,5,3,23.1,2,1.17,0.60,0,0
+2026/04/23,True,Minnesota Twins,Brooks Lee,SS,Shortstop,42,70,14,2,.971,21,21,20,179.0,26,3.42,3.24,1,0
+2026/04/23,True,Seattle Mariners,Jose A. Ferrer,P,Pitcher,3,3,0,0,1.000,13,13,0,11.0,0,2.45,0.23,0,0
+2026/04/23,True,Chicago White Sox,Anthony Kay,P,Pitcher,4,5,0,0,1.000,5,5,3,21.0,1,2.14,1.00,0,0
+2026/04/23,True,Los Angeles Angels,Jack Kochanowicz,P,Pitcher,3,5,0,0,1.000,5,5,5,29.0,2,1.55,1.00,0,0
+2026/04/23,True,Philadelphia Phillies,Brad Keller,P,Pitcher,2,3,0,0,1.000,10,10,0,9.1,1,3.00,0.30,0,0
+2026/04/23,True,Atlanta Braves,Tyler Kinley,P,Pitcher,1,1,0,0,1.000,12,12,0,11.0,0,0.82,0.08,0,0
+2026/04/23,True,Arizona Diamondbacks,Merrill Kelly,P,Pitcher,0,0,0,0,.000,2,2,2,9.2,0,0.00,0.00,0,0
+2026/04/23,True,New York Mets,Craig Kimbrel,P,Pitcher,1,1,0,0,1.000,4,4,0,3.2,0,3.00,0.25,0,0
+2026/04/23,True,San Francisco Giants,Will Brennan,LF,Outfielder,0,0,0,0,.000,2,2,2,12.0,0,0.00,0.00,0,0
+2026/04/23,True,Washington Nationals,Clayton Beeter,P,Pitcher,2,4,0,0,1.000,10,10,0,10.1,2,3.60,0.40,0,0
+2026/04/23,True,Seattle Mariners,Andrés Muñoz,P,Pitcher,0,0,0,0,.000,10,10,0,9.0,0,0.00,0.00,0,0
+2026/04/23,True,Texas Rangers,Joc Pederson,1B,First Base,0,5,0,0,1.000,1,1,1,5.0,5,9.00,5.00,0,0
+2026/04/23,True,Texas Rangers,Joc Pederson,DH,Designated Hitter,0,0,0,0,.000,20,20,17,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Toronto Blue Jays,Eric Lauer,P,Pitcher,2,3,0,0,1.000,5,5,4,22.2,1,1.23,0.60,0,0
+2026/04/23,True,San Diego Padres,Bradgley Rodriguez,P,Pitcher,1,3,0,0,1.000,10,10,0,12.1,2,2.25,0.30,0,0
+2026/04/23,True,Washington Nationals,Zack Littell,P,Pitcher,0,3,0,0,1.000,5,5,4,25.0,3,1.08,0.60,0,0
+2026/04/23,True,Seattle Mariners,Matt Brash,P,Pitcher,0,0,0,0,.000,10,10,0,8.1,0,0.00,0.00,0,0
+2026/04/23,True,Colorado Rockies,Ezequiel Tovar,SS,Shortstop,55,83,14,2,.976,25,25,22,196.1,26,3.72,3.24,0,0
+2026/04/23,True,Minnesota Twins,Mick Abel,P,Pitcher,1,3,0,0,1.000,4,4,3,20.1,2,1.35,0.75,0,0
+2026/04/23,True,Portland Sea Dogs,Jedixson Paez,P,Pitcher,1,1,0,0,1.000,3,3,0,3.0,0,3.00,0.33,0,0
+2026/04/23,True,Arizona Diamondbacks,James McCann,P,Pitcher,1,1,1,0,1.000,2,2,0,2.0,0,4.50,0.50,0,0
+2026/04/23,True,Arizona Diamondbacks,James McCann,C,Catcher,3,76,0,0,1.000,11,11,10,92.0,73,7.43,6.91,0,0
+2026/04/23,True,Arizona Diamondbacks,James McCann,1B,First Base,0,2,0,0,1.000,1,1,0,1.0,2,18.00,2.00,0,0
+2026/04/23,True,San Francisco Giants,Robbie Ray,P,Pitcher,1,1,0,0,1.000,5,5,5,28.1,0,0.32,0.20,0,0
+2026/04/23,True,San Francisco Giants,Tyler Mahle,P,Pitcher,5,9,1,0,1.000,5,5,5,25.2,4,3.24,1.80,0,0
+2026/04/23,True,Philadelphia Phillies,J.T. Realmuto,C,Catcher,4,171,0,2,.988,17,17,17,141.0,165,10.79,9.94,2,0
+2026/04/23,True,Colorado Rockies,Edouard Julien,1B,First Base,1,8,1,0,1.000,5,5,0,12.0,7,6.00,1.60,0,0
+2026/04/23,True,Colorado Rockies,Edouard Julien,2B,Second Base,26,40,5,2,.950,15,15,13,100.0,12,3.42,2.53,1,0
+2026/04/23,True,Colorado Rockies,Edouard Julien,DH,Designated Hitter,0,0,0,0,.000,5,5,5,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Los Angeles Dodgers,Alex Freeland,2B,Second Base,50,73,8,1,.986,19,19,18,150.0,22,4.32,3.79,0,0
+2026/04/23,True,Cincinnati Reds,Rhett Lowder,P,Pitcher,2,2,0,0,1.000,5,5,5,29.0,0,0.62,0.40,0,0
+2026/04/23,True,Salt Lake Bees,Jeimer Candelario,1B,First Base,1,16,1,0,1.000,2,2,2,17.0,15,8.47,8.00,0,0
+2026/04/23,True,Salt Lake Bees,Jeimer Candelario,3B,Third Base,2,5,0,1,.800,2,2,2,18.0,2,2.00,2.00,1,0
+2026/04/23,True,Salt Lake Bees,Jeimer Candelario,DH,Designated Hitter,0,0,0,0,.000,1,1,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Milwaukee Brewers,Kyle Harrison,P,Pitcher,1,1,0,0,1.000,4,4,4,17.2,0,0.53,0.25,0,0
+2026/04/23,True,Philadelphia Phillies,Tim Mayza,P,Pitcher,2,2,0,0,1.000,11,11,0,13.0,0,1.38,0.18,0,0
+2026/04/23,True,Chicago Cubs,Cade Horton,P,Pitcher,0,1,0,0,1.000,2,2,2,7.1,1,1.29,0.50,0,0
+2026/04/23,True,Washington Nationals,Joey Wiemer,P,Pitcher,0,0,0,0,.000,1,1,0,1.0,0,0.00,0.00,0,0
+2026/04/23,True,Washington Nationals,Joey Wiemer,CF,Outfielder,0,14,0,0,1.000,7,7,6,52.0,14,2.42,2.00,0,0
+2026/04/23,True,Washington Nationals,Joey Wiemer,RF,Outfielder,2,17,0,0,1.000,8,8,6,57.0,15,2.68,2.13,0,0
+2026/04/23,True,Washington Nationals,Joey Wiemer,DH,Designated Hitter,0,0,0,0,.000,2,2,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Detroit Tigers,Colt Keith,1B,First Base,2,28,3,0,1.000,3,3,3,22.0,26,11.45,9.33,0,0
+2026/04/23,True,Detroit Tigers,Colt Keith,3B,Third Base,5,12,0,0,1.000,11,11,7,60.0,7,1.80,1.09,0,0
+2026/04/23,True,Detroit Tigers,Colt Keith,DH,Designated Hitter,0,0,0,0,.000,8,8,7,0.0,0,-.--,0.00,0,0
+2026/04/23,True,New York Mets,Nolan McLean,P,Pitcher,2,6,1,1,.833,5,5,5,30.1,3,1.50,1.00,1,0
+2026/04/23,True,San Francisco Giants,Ryan Borucki,P,Pitcher,0,0,0,0,.000,9,9,0,7.2,0,0.00,0.00,0,0
+2026/04/23,True,New York Yankees,Ryan McMahon,3B,Third Base,20,29,2,1,.966,21,21,13,132.0,8,1.91,1.33,1,0
+2026/04/23,True,New York Yankees,Ryan McMahon,SS,Shortstop,6,6,0,0,1.000,2,2,1,10.0,0,5.40,3.00,0,0
+2026/04/23,True,Kansas City Royals,Matt Strahm,P,Pitcher,0,0,0,0,.000,9,9,0,8.2,0,0.00,0.00,0,0
+2026/04/23,True,Philadelphia Phillies,Tanner Banks,P,Pitcher,0,0,0,0,.000,9,9,0,9.2,0,0.00,0.00,0,0
+2026/04/23,True,Athletics,Tyler Soderstrom,LF,Outfielder,2,49,0,0,1.000,24,24,24,212.2,47,2.08,2.04,0,0
+2026/04/23,True,Athletics,Tyler Soderstrom,DH,Designated Hitter,0,0,0,0,.000,1,1,1,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Houston Astros,Jose Altuve,2B,Second Base,56,86,16,1,.988,23,23,23,192.1,29,3.98,3.70,0,0
+2026/04/23,True,Houston Astros,Jose Altuve,DH,Designated Hitter,0,0,0,0,.000,2,2,2,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Houston Astros,Christian Walker,1B,First Base,14,172,20,0,1.000,26,26,25,213.1,158,7.27,6.62,0,0
+2026/04/23,True,Cincinnati Reds,Elly De La Cruz,SS,Shortstop,58,96,17,3,.969,25,25,25,226.0,35,3.70,3.72,1,0
+2026/04/23,True,Houston Astros,Yordan Alvarez,LF,Outfielder,0,6,0,0,1.000,6,6,6,48.0,6,1.13,1.00,0,0
+2026/04/23,True,Houston Astros,Yordan Alvarez,DH,Designated Hitter,0,0,0,0,.000,20,20,20,0.0,0,-.--,0.00,0,0
+2026/04/23,True,St. Louis Cardinals,Jordan Walker,RF,Outfielder,4,51,0,0,1.000,23,23,22,202.0,47,2.27,2.22,0,0
+2026/04/23,True,St. Louis Cardinals,Masyn Winn,SS,Shortstop,54,86,8,1,.988,19,19,19,167.0,31,4.58,4.47,1,0
+2026/04/23,True,Milwaukee Brewers,Abner Uribe,P,Pitcher,2,3,0,0,1.000,10,10,0,9.0,1,3.00,0.30,0,0
+2026/04/23,True,Detroit Tigers,Kenley Jansen,P,Pitcher,0,0,0,0,.000,8,8,0,6.2,0,0.00,0.00,0,0
+2026/04/23,True,San Francisco Giants,Jerar Encarnacion,1B,First Base,3,16,3,1,.938,2,2,2,18.0,12,7.50,7.50,0,0
+2026/04/23,True,San Francisco Giants,Jerar Encarnacion,LF,Outfielder,0,2,0,0,1.000,1,1,1,7.0,2,2.57,2.00,0,0
+2026/04/23,True,San Francisco Giants,Jerar Encarnacion,RF,Outfielder,1,4,0,0,1.000,5,5,2,19.0,3,1.89,0.80,0,0
+2026/04/23,True,San Francisco Giants,Jerar Encarnacion,DH,Designated Hitter,0,0,0,0,.000,2,2,2,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Atlanta Braves,Drake Baldwin,C,Catcher,5,136,0,1,.993,17,17,16,144.0,130,8.44,7.94,1,0
+2026/04/23,True,Atlanta Braves,Drake Baldwin,DH,Designated Hitter,0,0,0,0,.000,9,9,9,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Toronto Blue Jays,Louis Varland,P,Pitcher,4,4,0,0,1.000,12,12,0,13.0,0,2.77,0.33,0,0
+2026/04/23,True,New York Mets,Tyrone Taylor,LF,Outfielder,0,11,0,1,.909,6,6,4,40.0,10,2.25,1.67,1,0
+2026/04/23,True,New York Mets,Tyrone Taylor,RF,Outfielder,0,6,0,0,1.000,7,7,5,42.2,6,1.29,0.86,0,0
+2026/04/23,True,New York Mets,Tyrone Taylor,DH,Designated Hitter,0,0,0,0,.000,1,1,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Minnesota Twins,Byron Buxton,CF,Outfielder,0,61,0,0,1.000,19,19,19,159.0,61,3.45,3.21,0,0
+2026/04/23,True,Minnesota Twins,Byron Buxton,DH,Designated Hitter,0,0,0,0,.000,3,3,3,0.0,0,-.--,0.00,0,0
+2026/04/23,True,St. Louis Cardinals,Ryne Stanek,P,Pitcher,0,0,0,0,.000,11,11,0,10.0,0,0.00,0.00,0,0
+2026/04/23,True,Minnesota Twins,Bailey Ober,P,Pitcher,2,5,1,0,1.000,5,5,5,26.0,3,1.73,1.00,0,0
+2026/04/23,True,Baltimore Orioles,Tyler O'Neill,RF,Outfielder,1,11,0,1,.909,9,9,6,64.1,9,1.41,1.11,0,0
+2026/04/23,True,Baltimore Orioles,Tyler O'Neill,DH,Designated Hitter,0,0,0,0,.000,1,1,1,0.0,0,-.--,0.00,0,0
+2026/04/23,True,New York Yankees,Paul Goldschmidt,1B,First Base,2,57,4,0,1.000,7,7,7,56.0,55,9.16,8.14,0,0
+2026/04/23,True,Athletics,Justin Sterner,P,Pitcher,1,2,0,1,.500,11,11,0,13.0,0,0.69,0.09,1,0
+2026/04/23,True,Athletics,Jacob Wilson,SS,Shortstop,49,78,12,0,1.000,24,24,24,213.1,29,3.30,3.25,0,0
+2026/04/23,True,Cincinnati Reds,Emilio Pagán,P,Pitcher,0,0,0,0,.000,11,11,0,11.1,0,0.00,0.00,0,0
+2026/04/23,True,Chicago Cubs,Jameson Taillon,P,Pitcher,2,2,0,0,1.000,4,4,4,22.2,0,0.82,0.50,0,0
+2026/04/23,True,Houston Astros,Isaac Paredes,1B,First Base,0,9,1,0,1.000,3,3,1,10.0,9,8.10,3.00,0,0
+2026/04/23,True,Houston Astros,Isaac Paredes,2B,Second Base,9,12,1,0,1.000,3,3,3,25.0,3,4.32,4.00,0,0
+2026/04/23,True,Houston Astros,Isaac Paredes,3B,Third Base,14,24,4,0,1.000,15,15,13,113.1,10,1.91,1.60,0,0
+2026/04/23,True,Houston Astros,Isaac Paredes,DH,Designated Hitter,0,0,0,0,.000,3,3,3,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Detroit Tigers,Kevin McGonigle,3B,Third Base,29,38,4,1,.974,13,13,12,99.0,8,3.36,2.85,1,0
+2026/04/23,True,Detroit Tigers,Kevin McGonigle,SS,Shortstop,22,38,5,1,.974,15,15,11,100.1,15,3.33,2.47,1,0
+2026/04/23,True,Washington Nationals,CJ Abrams,SS,Shortstop,60,99,13,3,.970,24,24,24,216.0,36,4.00,4.00,1,0
+2026/04/23,True,Baltimore Orioles,Taylor Ward,LF,Outfielder,0,39,0,0,1.000,21,21,21,186.1,39,1.89,1.86,0,0
+2026/04/23,True,Baltimore Orioles,Taylor Ward,DH,Designated Hitter,0,0,0,0,.000,4,4,4,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Philadelphia Phillies,Taijuan Walker,P,Pitcher,6,8,0,1,.875,5,5,4,22.2,1,2.86,1.40,1,0
+2026/04/23,True,Athletics,Scott Barlow,P,Pitcher,1,2,0,0,1.000,11,11,0,11.0,1,1.64,0.18,0,0
+2026/04/23,True,San Diego Padres,Mason Miller,P,Pitcher,0,0,0,0,.000,11,11,0,11.1,0,0.00,0.00,0,0
+2026/04/23,True,Baltimore Orioles,Chris Bassitt,P,Pitcher,1,5,0,1,.800,5,5,5,21.1,3,1.71,0.80,1,0
+2026/04/23,True,Minnesota Twins,Josh Bell,1B,First Base,1,43,3,0,1.000,7,7,7,54.0,42,7.17,6.14,0,0
+2026/04/23,True,Minnesota Twins,Josh Bell,DH,Designated Hitter,0,0,0,0,.000,16,16,16,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Los Angeles Dodgers,Mookie Betts,SS,Shortstop,13,27,4,0,1.000,7,7,7,63.0,14,3.86,3.86,0,0
+2026/04/23,True,Pittsburgh Pirates,Billy Cook,1B,First Base,0,6,0,0,1.000,1,1,1,6.0,6,9.00,6.00,0,0
+2026/04/23,True,Pittsburgh Pirates,Billy Cook,LF,Outfielder,0,3,0,0,1.000,4,4,1,10.0,3,2.70,0.75,0,0
+2026/04/23,True,Pittsburgh Pirates,Billy Cook,CF,Outfielder,0,2,0,0,1.000,1,1,0,3.0,2,6.00,2.00,0,0
+2026/04/23,True,Pittsburgh Pirates,Billy Cook,RF,Outfielder,0,9,0,0,1.000,7,7,1,16.1,9,5.06,1.29,0,0
+2026/04/23,True,Boston Red Sox,Ceddanne Rafaela,CF,Outfielder,1,51,0,0,1.000,22,22,20,181.1,50,2.54,2.32,0,0
+2026/04/23,True,Los Angeles Angels,Drew Pomeranz,P,Pitcher,2,2,0,0,1.000,9,9,0,9.0,0,2.00,0.22,0,0
+2026/04/23,True,Milwaukee Brewers,Brandon Sproat,P,Pitcher,4,4,0,0,1.000,4,4,2,17.0,0,2.12,1.00,0,0
+2026/04/23,True,Detroit Tigers,Riley Greene,LF,Outfielder,0,48,0,0,1.000,22,22,21,181.2,48,2.39,2.18,0,0
+2026/04/23,True,Detroit Tigers,Riley Greene,DH,Designated Hitter,0,0,0,0,.000,3,3,3,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Atlanta Braves,Reynaldo López,P,Pitcher,4,4,0,0,1.000,5,5,5,21.2,0,1.71,0.80,0,0
+2026/04/23,True,Texas Rangers,Andrew McCutchen,LF,Outfielder,0,1,0,0,1.000,2,2,1,9.0,1,1.00,0.50,0,0
+2026/04/23,True,Texas Rangers,Andrew McCutchen,RF,Outfielder,0,6,0,0,1.000,1,1,1,8.0,6,6.75,6.00,0,0
+2026/04/23,True,Texas Rangers,Andrew McCutchen,DH,Designated Hitter,0,0,0,0,.000,10,10,4,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Indianapolis Indians,Hunter Barco,P,Pitcher,1,1,0,0,1.000,4,4,0,7.0,0,1.29,0.25,0,0
+2026/04/23,True,Seattle Mariners,Patrick Wisdom,DH,Designated Hitter,0,0,0,0,.000,1,1,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Milwaukee Brewers,Christian Yelich,LF,Outfielder,0,3,0,0,1.000,2,2,1,11.0,3,2.45,1.50,0,0
+2026/04/23,True,Milwaukee Brewers,Christian Yelich,DH,Designated Hitter,0,0,0,0,.000,12,12,12,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Arizona Diamondbacks,Corbin Carroll,RF,Outfielder,0,42,0,1,.976,19,19,19,164.1,41,2.25,2.16,1,0
+2026/04/23,True,Arizona Diamondbacks,Corbin Carroll,DH,Designated Hitter,0,0,0,0,.000,3,3,3,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Minnesota Twins,Victor Caratini,C,Catcher,4,93,0,0,1.000,10,10,10,88.0,89,9.51,9.30,0,0
+2026/04/23,True,Minnesota Twins,Victor Caratini,1B,First Base,2,41,5,1,.976,8,8,7,61.0,38,5.90,5.00,1,0
+2026/04/23,True,Minnesota Twins,Victor Caratini,DH,Designated Hitter,0,0,0,0,.000,2,2,2,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Los Angeles Angels,Vaughn Grissom,1B,First Base,0,9,0,0,1.000,2,2,1,10.0,9,8.10,4.50,0,0
+2026/04/23,True,Los Angeles Angels,Vaughn Grissom,2B,Second Base,16,22,2,0,1.000,6,6,5,42.0,6,4.71,3.67,0,0
+2026/04/23,True,Los Angeles Angels,Vaughn Grissom,3B,Third Base,2,2,0,0,1.000,1,1,0,2.0,0,9.00,2.00,0,0
+2026/04/23,True,Baltimore Orioles,Gunnar Henderson,SS,Shortstop,55,87,10,2,.977,23,23,23,205.2,30,3.73,3.70,1,0
+2026/04/23,True,Baltimore Orioles,Gunnar Henderson,DH,Designated Hitter,0,0,0,0,.000,2,2,2,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Texas Rangers,Jack Leiter,P,Pitcher,1,2,0,0,1.000,5,5,5,25.1,1,0.72,0.40,0,0
+2026/04/23,True,Houston Astros,Kai-Wei Teng,P,Pitcher,1,3,0,0,1.000,10,10,0,16.1,2,1.69,0.30,0,0
+2026/04/23,True,San Diego Padres,Miguel Andujar,1B,First Base,0,3,0,0,1.000,1,1,0,2.0,3,13.50,3.00,0,0
+2026/04/23,True,San Diego Padres,Miguel Andujar,3B,Third Base,1,2,0,0,1.000,1,1,1,9.0,1,2.00,2.00,0,0
+2026/04/23,True,San Diego Padres,Miguel Andujar,DH,Designated Hitter,0,0,0,0,.000,13,13,13,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Atlanta Braves,Matt Olson,1B,First Base,22,196,23,1,.995,25,25,25,222.0,173,7.91,7.80,0,0
+2026/04/23,True,New York Mets,Marcus Semien,2B,Second Base,73,112,12,0,1.000,24,24,24,215.1,39,4.69,4.67,0,0
+2026/04/23,True,Arizona Diamondbacks,Juan Morillo,P,Pitcher,1,2,0,0,1.000,12,12,0,11.1,1,1.64,0.17,0,0
+2026/04/23,True,Atlanta Braves,Dominic Smith,DH,Designated Hitter,0,0,0,0,.000,15,15,15,0.0,0,-.--,0.00,0,0
+2026/04/23,True,St. Louis Cardinals,Thomas Saggese,2B,Second Base,3,3,0,0,1.000,1,1,1,6.0,0,4.50,3.00,0,0
+2026/04/23,True,St. Louis Cardinals,Thomas Saggese,SS,Shortstop,11,24,4,0,1.000,7,7,5,47.0,13,4.60,3.43,0,0
+2026/04/23,True,St. Louis Cardinals,Thomas Saggese,LF,Outfielder,1,12,1,0,1.000,10,10,7,68.0,11,1.59,1.20,0,0
+2026/04/23,True,Tampa Bay Rays,Taylor Walls,SS,Shortstop,27,55,5,1,.982,14,14,14,130.0,27,3.74,3.86,0,0
+2026/04/23,True,Cincinnati Reds,TJ Friedl,LF,Outfielder,0,11,0,0,1.000,17,17,2,50.0,11,1.98,0.65,0,0
+2026/04/23,True,Cincinnati Reds,TJ Friedl,CF,Outfielder,1,52,1,0,1.000,20,20,20,148.0,51,3.16,2.60,0,0
+2026/04/23,True,Seattle Mariners,Gabe Speier,P,Pitcher,1,3,0,0,1.000,11,11,0,9.2,2,3.00,0.27,0,0
+2026/04/23,True,Toronto Blue Jays,George Springer,DH,Designated Hitter,0,0,0,0,.000,14,14,14,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Tampa Bay Rays,Cole Sulser,P,Pitcher,3,4,0,0,1.000,9,9,1,13.1,1,2.77,0.44,0,0
+2026/04/23,True,Atlanta Braves,Chris Sale,P,Pitcher,1,5,0,0,1.000,5,5,5,29.0,4,1.55,1.00,0,0
+2026/04/23,True,Washington Nationals,Nasim Nuñez,2B,Second Base,59,95,15,1,.989,19,19,19,172.0,35,4.92,4.95,1,0
+2026/04/23,True,Washington Nationals,Nasim Nuñez,SS,Shortstop,2,4,0,1,.750,2,2,1,10.0,1,2.70,1.50,0,0
+2026/04/23,True,Washington Nationals,Nasim Nuñez,DH,Designated Hitter,0,0,0,0,.000,1,1,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,San Francisco Giants,Luis Arraez,2B,Second Base,73,100,16,0,1.000,22,22,22,191.0,27,4.71,4.55,0,0
+2026/04/23,True,San Francisco Giants,Luis Arraez,DH,Designated Hitter,0,0,0,0,.000,1,1,1,0.0,0,-.--,0.00,0,0
+2026/04/23,True,New York Mets,Clay Holmes,P,Pitcher,3,7,0,0,1.000,5,5,5,30.0,4,2.10,1.40,0,0
+2026/04/23,True,Toledo Mud Hens,Enmanuel De Jesus,P,Pitcher,1,3,0,2,.333,6,6,0,8.0,0,1.13,0.17,2,0
+2026/04/23,True,San Francisco Giants,Rafael Devers,1B,First Base,12,135,12,2,.985,14,14,14,125.0,121,9.58,9.50,0,0
+2026/04/23,True,San Francisco Giants,Rafael Devers,DH,Designated Hitter,0,0,0,0,.000,10,10,10,0.0,0,-.--,0.00,0,0
+2026/04/23,True,San Francisco Giants,Adrian Houser,P,Pitcher,2,8,0,0,1.000,4,4,4,21.2,6,3.43,2.00,0,0
+2026/04/23,True,Los Angeles Dodgers,Dalton Rushing,C,Catcher,2,47,0,0,1.000,6,6,6,48.0,45,8.81,7.83,0,0
+2026/04/23,True,Los Angeles Dodgers,Dalton Rushing,1B,First Base,1,8,0,0,1.000,1,1,1,9.0,7,8.00,8.00,0,0
+2026/04/23,True,Los Angeles Dodgers,Dalton Rushing,DH,Designated Hitter,0,0,0,0,.000,1,1,1,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Washington Nationals,Brad Lord,P,Pitcher,3,5,0,0,1.000,8,8,0,18.1,2,2.50,0.63,0,0
+2026/04/23,True,Athletics,Darell Hernaiz,2B,Second Base,7,11,1,0,1.000,3,3,3,24.0,4,4.13,3.67,0,0
+2026/04/23,True,Athletics,Darell Hernaiz,3B,Third Base,2,3,0,0,1.000,5,5,2,23.0,1,1.17,0.60,0,0
+2026/04/23,True,Athletics,Darell Hernaiz,SS,Shortstop,1,4,1,0,1.000,3,3,1,11.1,3,3.27,1.33,0,0
+2026/04/23,True,Athletics,Darell Hernaiz,RF,Outfielder,0,0,0,0,.000,1,1,0,2.0,0,0.00,0.00,0,0
+2026/04/23,True,Houston Astros,Christian Vázquez,C,Catcher,6,106,2,0,1.000,9,9,9,79.0,100,12.08,11.78,0,0
+2026/04/23,True,Houston Astros,Christian Vázquez,DH,Designated Hitter,0,0,0,0,.000,2,2,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Boston Red Sox,Aroldis Chapman,P,Pitcher,0,0,0,0,.000,8,8,0,7.2,0,0.00,0.00,0,0
+2026/04/23,True,New York Mets,Brett Baty,1B,First Base,3,35,3,1,.971,6,6,4,40.2,31,7.65,5.67,0,0
+2026/04/23,True,New York Mets,Brett Baty,3B,Third Base,2,2,0,0,1.000,1,1,0,5.0,0,3.60,2.00,0,0
+2026/04/23,True,New York Mets,Brett Baty,RF,Outfielder,0,19,0,0,1.000,12,12,11,93.0,19,1.84,1.58,0,0
+2026/04/23,True,New York Mets,Brett Baty,DH,Designated Hitter,0,0,0,0,.000,3,3,2,0.0,0,-.--,0.00,0,0
+2026/04/23,True,New York Yankees,Giancarlo Stanton,DH,Designated Hitter,0,0,0,0,.000,21,21,21,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Toronto Blue Jays,Eloy Jiménez,DH,Designated Hitter,0,0,0,0,.000,6,6,6,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Atlanta Braves,Eli White,LF,Outfielder,0,9,0,0,1.000,7,7,4,36.0,9,2.25,1.29,0,0
+2026/04/23,True,Atlanta Braves,Eli White,CF,Outfielder,0,2,0,0,1.000,2,2,2,13.0,2,1.38,1.00,0,0
+2026/04/23,True,Atlanta Braves,Eli White,RF,Outfielder,0,1,0,0,1.000,3,3,1,13.0,1,0.69,0.33,0,0
+2026/04/23,True,New York Mets,Devin Williams,P,Pitcher,0,0,0,0,.000,8,8,0,6.1,0,0.00,0.00,0,0
+2026/04/23,True,Los Angeles Angels,Zach Neto,SS,Shortstop,54,94,10,3,.968,26,26,26,230.1,37,3.56,3.50,2,0
+2026/04/23,True,Detroit Tigers,Gleyber Torres,2B,Second Base,54,77,12,1,.987,19,19,19,162.2,22,4.22,4.00,0,0
+2026/04/23,True,Detroit Tigers,Gleyber Torres,DH,Designated Hitter,0,0,0,0,.000,5,5,5,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Cincinnati Reds,Connor Phillips,P,Pitcher,1,2,0,0,1.000,14,14,0,16.0,1,1.13,0.14,0,0
+2026/04/23,True,Baltimore Orioles,Weston Wilson,3B,Third Base,7,8,0,0,1.000,3,3,2,17.1,1,4.24,2.67,0,0
+2026/04/23,True,Baltimore Orioles,Weston Wilson,LF,Outfielder,0,1,0,1,.000,1,1,1,5.0,0,0.00,0.00,0,0
+2026/04/23,True,New York Yankees,Camilo Doval,P,Pitcher,0,1,0,0,1.000,10,10,0,8.1,1,1.13,0.10,0,0
+2026/04/23,False,New York Yankees,Ryan Yarbrough,P,Pitcher,2,3,0,0,1.000,5,5,0,8.0,1,3.38,0.60,0,0
+2026/04/23,True,Boston Red Sox,Johan Oviedo,P,Pitcher,0,1,0,0,1.000,1,1,0,3.2,1,3.00,1.00,0,0
+2026/04/23,True,Tampa Bay Rays,Junior Caminero,1B,First Base,0,3,0,1,.667,1,1,0,1.0,2,18.00,2.00,0,0
+2026/04/23,True,Tampa Bay Rays,Junior Caminero,3B,Third Base,39,60,2,5,.917,24,24,24,215.1,16,2.30,2.29,3,0
+2026/04/23,True,Cincinnati Reds,Chase Burns,P,Pitcher,1,1,0,0,1.000,5,5,5,28.0,0,0.32,0.20,0,0
+2026/04/23,True,Kansas City Royals,Jac Caglianone,1B,First Base,1,2,0,0,1.000,1,1,0,1.1,1,18.00,2.00,0,0
+2026/04/23,True,Kansas City Royals,Jac Caglianone,RF,Outfielder,2,45,0,0,1.000,18,18,18,151.2,43,2.68,2.50,0,0
+2026/04/23,True,Kansas City Royals,Jac Caglianone,DH,Designated Hitter,0,0,0,0,.000,3,3,3,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Philadelphia Phillies,Aaron Nola,P,Pitcher,2,2,0,0,1.000,5,5,5,26.2,0,0.69,0.40,0,0
+2026/04/23,True,Kansas City Royals,Nick Mears,P,Pitcher,3,4,0,0,1.000,9,9,0,8.2,1,4.50,0.44,0,0
+2026/04/23,True,Tampa Bay Rays,Kevin Kelly,P,Pitcher,0,0,0,0,.000,10,10,0,10.1,0,0.00,0.00,0,0
+2026/04/23,True,Colorado Rockies,Willi Castro,1B,First Base,1,10,0,0,1.000,3,3,1,9.0,9,10.00,3.33,0,0
+2026/04/23,True,Colorado Rockies,Willi Castro,2B,Second Base,21,39,5,1,.974,19,19,11,97.1,17,3.53,2.00,0,0
+2026/04/23,True,Colorado Rockies,Willi Castro,3B,Third Base,5,8,0,0,1.000,5,5,3,20.0,3,3.60,1.60,0,0
+2026/04/23,True,Colorado Rockies,Willi Castro,SS,Shortstop,8,10,0,0,1.000,4,4,3,24.0,2,3.75,2.50,0,0
+2026/04/23,True,Colorado Rockies,Willi Castro,LF,Outfielder,1,2,1,0,1.000,2,2,0,3.0,1,6.00,1.00,0,0
+2026/04/23,True,Tampa Bay Rays,Yandy Díaz,DH,Designated Hitter,0,0,0,0,.000,24,24,24,0.0,0,-.--,0.00,0,0
+2026/04/23,True,San Diego Padres,Adrian Morejon,P,Pitcher,4,4,1,0,1.000,10,10,0,11.2,0,3.27,0.40,0,0
+2026/04/23,True,St. Louis Cardinals,Victor Scott,CF,Outfielder,1,56,0,1,.982,24,24,22,186.0,54,2.66,2.29,0,0
+2026/04/23,True,Los Angeles Angels,Jordan Romano,P,Pitcher,1,1,0,0,1.000,10,10,0,7.1,0,1.29,0.10,0,0
+2026/04/23,True,Reno Aces,Joe Ross,P,Pitcher,1,2,0,0,1.000,3,3,0,3.2,1,6.00,0.67,0,0
+2026/04/23,True,Pittsburgh Pirates,Yohan Ramírez,P,Pitcher,2,8,0,3,.625,10,10,0,15.2,3,3.00,0.50,3,0
+2026/04/23,True,Rochester Red Wings,Orlando Ribalta,P,Pitcher,0,0,0,0,.000,2,2,0,2.0,0,0.00,0.00,0,0
+2026/04/23,True,Washington Nationals,James Wood,LF,Outfielder,0,10,0,1,.900,4,4,4,37.0,9,2.19,2.25,1,0
+2026/04/23,True,Washington Nationals,James Wood,RF,Outfielder,1,40,0,0,1.000,19,19,19,168.0,39,2.14,2.11,0,0
+2026/04/23,True,Washington Nationals,James Wood,DH,Designated Hitter,0,0,0,0,.000,2,2,2,0.0,0,-.--,0.00,0,0
+2026/04/23,True,New York Yankees,Brent Headrick,P,Pitcher,2,4,0,2,.500,15,15,0,13.0,0,1.38,0.13,1,0
+2026/04/23,True,Milwaukee Brewers,Joey Ortiz,SS,Shortstop,43,65,7,1,.985,19,19,16,141.0,21,4.09,3.37,0,0
+2026/04/23,True,Kansas City Royals,Carter Jensen,C,Catcher,1,84,0,1,.988,10,10,9,80.0,82,9.34,8.30,1,0
+2026/04/23,True,Kansas City Royals,Carter Jensen,DH,Designated Hitter,0,0,0,0,.000,12,12,11,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Athletics,Jeffrey Springs,P,Pitcher,4,4,1,0,1.000,5,5,5,29.2,0,1.24,0.80,0,0
+2026/04/23,True,San Francisco Giants,Jared Oliva,LF,Outfielder,0,0,0,0,.000,1,1,0,2.0,0,0.00,0.00,0,0
+2026/04/23,True,San Francisco Giants,Jared Oliva,CF,Outfielder,0,6,0,0,1.000,3,3,2,16.0,6,3.38,2.00,0,0
+2026/04/23,True,Houston Astros,Bryan Abreu,P,Pitcher,0,0,0,0,.000,9,9,0,7.1,0,0.00,0.00,0,0
+2026/04/23,True,St. Louis Cardinals,Iván Herrera,C,Catcher,1,51,1,0,1.000,9,9,9,78.0,50,5.88,5.67,0,0
+2026/04/23,True,St. Louis Cardinals,Iván Herrera,DH,Designated Hitter,0,0,0,0,.000,15,15,15,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Philadelphia Phillies,Adolis García,RF,Outfielder,2,37,0,1,.973,24,24,24,208.0,34,1.56,1.50,1,0
+2026/04/23,True,San Diego Padres,Jake Cronenworth,2B,Second Base,48,89,12,0,1.000,22,22,21,191.0,41,4.19,4.05,0,0
+2026/04/23,True,San Diego Padres,Jake Cronenworth,SS,Shortstop,1,2,1,0,1.000,1,1,1,9.0,1,2.00,2.00,0,0
+2026/04/23,True,Arizona Diamondbacks,Lourdes Gurriel,LF,Outfielder,1,7,0,0,1.000,4,4,4,34.0,6,1.85,1.75,0,0
+2026/04/23,True,Pittsburgh Pirates,Gregory Soto,P,Pitcher,3,4,0,0,1.000,13,13,0,12.2,1,3.00,0.31,0,0
+2026/04/23,True,Baltimore Orioles,Yennier Cano,P,Pitcher,0,0,0,0,.000,12,12,0,8.1,0,0.00,0.00,0,0
+2026/04/23,True,Miami Marlins,Owen Caissie,RF,Outfielder,0,31,0,0,1.000,20,20,17,147.0,31,1.90,1.55,0,0
+2026/04/23,True,Miami Marlins,Owen Caissie,DH,Designated Hitter,0,0,0,0,.000,3,3,2,0.0,0,-.--,0.00,0,0
+2026/04/23,True,St. Louis Cardinals,JJ Wetherholt,2B,Second Base,68,100,11,2,.980,24,24,23,211.0,30,4.18,4.08,2,0
+2026/04/23,True,Milwaukee Brewers,Brandon Woodruff,P,Pitcher,1,1,0,0,1.000,4,4,4,23.2,0,0.39,0.25,0,0
+2026/04/23,True,Pittsburgh Pirates,Spencer Horwitz,1B,First Base,13,131,11,0,1.000,20,20,18,156.0,118,7.56,6.55,0,0
+2026/04/23,True,Chicago White Sox,Colson Montgomery,3B,Third Base,7,8,0,0,1.000,5,5,4,33.2,1,2.18,1.60,0,0
+2026/04/23,True,Chicago White Sox,Colson Montgomery,SS,Shortstop,43,66,7,0,1.000,20,20,17,157.0,23,3.78,3.30,0,0
+2026/04/23,True,Chicago White Sox,Colson Montgomery,DH,Designated Hitter,0,0,0,0,.000,1,1,1,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Jacksonville Jumbo Shrimp,Ryan Gusto,P,Pitcher,0,0,0,0,.000,1,1,0,1.0,0,0.00,0.00,0,0
+2026/04/23,True,Cincinnati Reds,Andrew Abbott,P,Pitcher,1,1,0,0,1.000,5,5,5,24.2,0,0.38,0.20,0,0
+2026/04/23,True,Miami Marlins,Eury Pérez,P,Pitcher,0,2,0,1,.500,5,5,5,26.0,1,0.35,0.20,1,0
+2026/04/23,True,Los Angeles Dodgers,Jake Eder,P,Pitcher,0,0,0,0,.000,1,1,0,1.0,0,0.00,0.00,0,0
+2026/04/23,True,San Diego Padres,Michael King,P,Pitcher,1,4,1,0,1.000,5,5,5,27.2,3,1.33,0.80,0,0
+2026/04/23,True,Miami Marlins,Javier Sanoja,2B,Second Base,3,4,0,0,1.000,2,2,0,5.0,1,7.20,2.00,0,0
+2026/04/23,True,Miami Marlins,Javier Sanoja,3B,Third Base,22,35,1,3,.914,14,14,10,91.0,10,3.16,2.29,1,0
+2026/04/23,True,Miami Marlins,Javier Sanoja,SS,Shortstop,0,0,0,0,.000,1,1,0,2.0,0,0.00,0.00,0,0
+2026/04/23,True,Miami Marlins,Javier Sanoja,LF,Outfielder,0,6,0,0,1.000,5,5,3,26.0,6,2.08,1.20,0,0
+2026/04/23,True,Miami Marlins,Javier Sanoja,CF,Outfielder,0,2,0,0,1.000,1,1,1,9.0,2,2.00,2.00,0,0
+2026/04/23,True,New York Yankees,Angel Chivilli,P,Pitcher,0,0,0,0,.000,2,2,0,2.1,0,0.00,0.00,0,0
+2026/04/23,True,Athletics,Aaron Civale,P,Pitcher,0,1,0,0,1.000,5,5,5,25.2,1,0.36,0.20,0,0
+2026/04/23,True,Baltimore Orioles,Albert Suárez,P,Pitcher,1,2,0,0,1.000,4,4,0,9.0,1,2.00,0.50,0,0
+2026/04/23,True,Rochester Red Wings,Jackson Rutledge,P,Pitcher,1,1,0,0,1.000,1,1,0,1.1,0,9.00,1.00,0,0
+2026/04/23,True,Washington Nationals,Daylen Lile,LF,Outfielder,1,54,0,1,.981,21,21,21,188.0,52,2.54,2.52,0,0
+2026/04/23,True,Washington Nationals,Daylen Lile,RF,Outfielder,0,1,0,0,1.000,1,1,0,1.0,1,9.00,1.00,0,0
+2026/04/23,True,Washington Nationals,Daylen Lile,DH,Designated Hitter,0,0,0,0,.000,3,3,3,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Minnesota Twins,Eric Orze,P,Pitcher,0,1,0,0,1.000,9,9,0,9.2,1,1.00,0.11,0,0
+2026/04/23,True,Arizona Diamondbacks,Jonathan Loáisiga,P,Pitcher,1,2,0,0,1.000,11,11,0,11.1,1,1.64,0.18,0,0
+2026/04/23,True,Tampa Bay Rays,Joe Boyle,P,Pitcher,1,1,0,0,1.000,3,3,3,15.2,0,0.60,0.33,0,0
+2026/04/23,True,Colorado Rockies,Jordan Beck,LF,Outfielder,0,14,0,0,1.000,10,10,9,78.1,14,1.62,1.40,0,0
+2026/04/23,True,Colorado Rockies,Jordan Beck,RF,Outfielder,1,11,0,1,.909,8,8,4,38.2,9,2.37,1.25,1,0
+2026/04/23,True,New York Mets,Freddy Peralta,P,Pitcher,0,1,0,0,1.000,5,5,5,26.2,1,0.35,0.20,0,0
+2026/04/23,True,San Francisco Giants,Heliot Ramos,LF,Outfielder,1,32,0,0,1.000,23,23,21,192.0,31,1.50,1.39,0,0
+2026/04/23,True,Chicago Cubs,Pete Crow-Armstrong,CF,Outfielder,2,72,0,1,.986,24,24,24,215.0,69,2.97,2.96,0,0
+2026/04/23,True,Colorado Rockies,Kyle Karros,3B,Third Base,46,66,2,2,.970,25,25,22,200.1,18,2.88,2.56,0,0
+2026/04/23,True,Baltimore Orioles,Coby Mayo,1B,First Base,0,10,0,0,1.000,2,2,1,9.0,10,10.00,5.00,0,0
+2026/04/23,True,Baltimore Orioles,Coby Mayo,3B,Third Base,16,35,6,1,.971,17,17,16,139.1,18,2.20,2.00,1,0
+2026/04/23,True,Baltimore Orioles,Coby Mayo,DH,Designated Hitter,0,0,0,0,.000,1,1,1,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Philadelphia Phillies,Andrew Painter,P,Pitcher,3,3,0,0,1.000,4,4,3,18.1,0,1.50,0.75,0,0
+2026/04/23,True,San Diego Padres,Xander Bogaerts,SS,Shortstop,41,73,12,1,.986,23,23,23,206.0,31,3.15,3.13,0,0
+2026/04/23,True,Baltimore Orioles,Dylan Beavers,LF,Outfielder,0,2,0,0,1.000,2,2,2,17.1,2,1.06,1.00,0,0
+2026/04/23,True,Baltimore Orioles,Dylan Beavers,CF,Outfielder,1,6,0,0,1.000,3,3,2,16.0,5,3.38,2.00,0,0
+2026/04/23,True,Baltimore Orioles,Dylan Beavers,RF,Outfielder,0,16,0,0,1.000,8,8,7,54.0,16,2.67,2.00,0,0
+2026/04/23,True,Baltimore Orioles,Dylan Beavers,DH,Designated Hitter,0,0,0,0,.000,7,7,6,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Cincinnati Reds,Pierce Johnson,P,Pitcher,0,0,0,0,.000,12,12,0,10.1,0,0.00,0.00,0,0
+2026/04/23,True,San Francisco Giants,Daniel Susac,C,Catcher,5,53,2,0,1.000,8,8,5,49.0,48,9.73,6.63,0,0
+2026/04/23,True,New York Mets,Brooks Raley,P,Pitcher,2,3,0,0,1.000,10,10,0,8.2,1,3.38,0.30,0,0
+2026/04/23,True,Washington Nationals,Luis García,1B,First Base,17,122,12,2,.984,20,20,16,130.0,103,8.31,6.00,1,0
+2026/04/23,True,Washington Nationals,Luis García,DH,Designated Hitter,0,0,0,0,.000,4,4,4,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Baltimore Orioles,Johnathan Rodríguez,RF,Outfielder,0,1,0,0,1.000,3,3,3,21.0,1,0.43,0.33,0,0
+2026/04/23,True,Baltimore Orioles,Johnathan Rodríguez,DH,Designated Hitter,0,0,0,0,.000,1,1,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Colorado Rockies,Tyler Freeman,2B,Second Base,2,6,2,0,1.000,2,2,0,6.0,4,9.00,3.00,0,0
+2026/04/23,True,Colorado Rockies,Tyler Freeman,RF,Outfielder,1,15,1,0,1.000,8,8,5,40.2,14,3.38,1.88,0,0
+2026/04/23,True,Colorado Rockies,Tyler Freeman,DH,Designated Hitter,0,0,0,0,.000,4,4,4,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Athletics,Max Muncy,3B,Third Base,24,46,5,1,.978,22,22,22,192.2,21,2.11,2.05,1,0
+2026/04/23,True,Athletics,Max Muncy,DH,Designated Hitter,0,0,0,0,.000,2,2,2,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Washington Nationals,Brady House,3B,Third Base,33,54,2,5,.907,20,20,17,159.0,16,2.77,2.45,2,0
+2026/04/23,True,Washington Nationals,Brady House,DH,Designated Hitter,0,0,0,0,.000,4,4,3,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Arizona Diamondbacks,Jordan Lawlar,LF,Outfielder,0,11,0,0,1.000,5,5,5,41.0,11,2.41,2.20,0,0
+2026/04/23,True,Arizona Diamondbacks,Jordan Lawlar,CF,Outfielder,0,6,0,0,1.000,1,1,1,9.0,6,6.00,6.00,0,0
+2026/04/23,True,Boston Red Sox,Marcelo Mayer,2B,Second Base,36,67,7,2,.970,19,19,17,144.1,29,4.06,3.42,1,0
+2026/04/23,True,Toronto Blue Jays,Joe Mantiply,P,Pitcher,2,2,0,0,1.000,7,7,0,8.0,0,2.25,0.29,0,0
+2026/04/23,True,Chicago White Sox,Grant Taylor,P,Pitcher,0,1,0,0,1.000,9,9,4,11.1,1,0.82,0.11,0,0
+2026/04/23,True,Los Angeles Dodgers,Edgardo Henriquez,P,Pitcher,0,1,0,1,.000,7,7,0,7.0,0,0.00,0.00,1,0
+2026/04/23,True,Detroit Tigers,Spencer Torkelson,1B,First Base,9,174,15,0,1.000,23,23,22,193.2,165,8.11,7.57,0,0
+2026/04/23,True,Milwaukee Brewers,Luis Rengifo,1B,First Base,1,6,1,0,1.000,2,2,1,7.0,5,7.71,3.00,0,0
+2026/04/23,True,Milwaukee Brewers,Luis Rengifo,3B,Third Base,21,41,2,0,1.000,18,18,14,129.0,20,2.86,2.28,0,0
+2026/04/23,True,Tampa Bay Rays,Chandler Simpson,LF,Outfielder,1,50,0,0,1.000,24,24,22,203.1,49,2.22,2.08,0,0
+2026/04/23,True,San Diego Padres,Nick Pivetta,P,Pitcher,1,2,0,0,1.000,4,4,4,16.0,1,1.13,0.50,0,0
+2026/04/23,True,Atlanta Braves,Robert Suarez,P,Pitcher,1,1,0,0,1.000,11,11,0,10.2,0,0.90,0.09,0,0
+2026/04/23,True,Pittsburgh Pirates,Dennis Santana,P,Pitcher,0,0,0,0,.000,12,12,0,12.0,0,0.00,0.00,0,0
+2026/04/23,True,New York Yankees,Amed Rosario,2B,Second Base,7,10,2,0,1.000,3,3,3,25.0,3,3.60,3.33,0,0
+2026/04/23,True,New York Yankees,Amed Rosario,3B,Third Base,12,19,0,1,.947,15,15,11,81.2,6,2.00,1.20,1,0
+2026/04/23,True,New York Yankees,Amed Rosario,RF,Outfielder,0,2,0,0,1.000,2,2,0,5.0,2,3.60,1.00,0,0
+2026/04/23,True,Omaha Storm Chasers,Mitch Spence,P,Pitcher,1,1,0,0,1.000,1,1,0,4.0,0,2.25,1.00,0,0
+2026/04/23,True,San Francisco Giants,Willy Adames,SS,Shortstop,52,79,13,3,.962,24,24,24,213.0,24,3.21,3.17,2,0
+2026/04/23,True,Philadelphia Phillies,Cristopher Sánchez,P,Pitcher,3,4,0,0,1.000,5,5,5,28.1,1,1.29,0.80,0,0
+2026/04/23,True,Toronto Blue Jays,Tommy Nance,P,Pitcher,0,2,0,1,.500,10,10,0,10.0,1,0.90,0.10,1,0
+2026/04/23,True,Minnesota Twins,Taylor Rogers,P,Pitcher,2,2,0,0,1.000,10,10,0,8.2,0,2.25,0.20,0,0
+2026/04/23,True,Milwaukee Brewers,Andrew Vaughn,1B,First Base,0,3,0,0,1.000,1,1,1,6.0,3,4.50,3.00,0,0
+2026/04/23,True,St. Louis Cardinals,Yohel Pozo,C,Catcher,0,8,0,0,1.000,3,3,0,6.0,8,12.00,2.67,0,0
+2026/04/23,True,St. Louis Cardinals,Yohel Pozo,DH,Designated Hitter,0,0,0,0,.000,3,3,2,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Chicago Cubs,Michael Busch,1B,First Base,23,175,18,0,1.000,23,23,22,194.0,152,8.12,7.61,0,0
+2026/04/23,True,Louisville Bats,Jose Franco,P,Pitcher,0,1,0,1,.000,3,3,0,5.2,0,0.00,0.00,1,0
+2026/04/23,True,Texas Rangers,Carter Baumler,P,Pitcher,1,2,0,0,1.000,4,4,0,5.2,1,3.60,0.50,0,0
+2026/04/23,True,St. Paul Saints,Zak Kent,P,Pitcher,0,0,0,0,.000,2,2,0,3.2,0,0.00,0.00,0,0
+2026/04/23,True,Colorado Rockies,Troy Johnston,1B,First Base,4,64,3,2,.969,11,11,8,62.0,58,9.00,5.64,1,0
+2026/04/23,True,Colorado Rockies,Troy Johnston,LF,Outfielder,0,0,0,0,.000,3,3,0,4.0,0,0.00,0.00,0,0
+2026/04/23,True,Colorado Rockies,Troy Johnston,RF,Outfielder,0,18,0,0,1.000,12,12,10,84.0,18,1.93,1.50,0,0
+2026/04/23,True,Colorado Rockies,Troy Johnston,DH,Designated Hitter,0,0,0,0,.000,2,2,2,0.0,0,-.--,0.00,0,0
+2026/04/23,True,San Francisco Giants,Christian Koss,P,Pitcher,0,0,0,0,.000,1,1,0,1.0,0,0.00,0.00,0,0
+2026/04/23,True,San Francisco Giants,Christian Koss,2B,Second Base,3,6,2,0,1.000,4,4,2,22.0,3,2.45,1.50,0,0
+2026/04/23,True,Cleveland Guardians,Hunter Gaddis,P,Pitcher,0,0,0,0,.000,4,4,0,4.0,0,0.00,0.00,0,0
+2026/04/23,True,Chicago Cubs,Caleb Thielbar,P,Pitcher,0,1,0,1,.000,10,10,0,8.2,0,0.00,0.00,1,0
+2026/04/23,True,Detroit Tigers,Jahmai Jones,LF,Outfielder,0,1,0,0,1.000,1,1,0,3.0,1,3.00,1.00,0,0
+2026/04/23,True,Detroit Tigers,Jahmai Jones,RF,Outfielder,0,0,0,0,.000,2,2,0,4.0,0,0.00,0.00,0,0
+2026/04/23,True,Detroit Tigers,Jahmai Jones,DH,Designated Hitter,0,0,0,0,.000,7,7,5,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Athletics,Austin Wynns,C,Catcher,2,61,0,0,1.000,9,9,7,64.2,59,8.58,6.78,0,0
+2026/04/23,True,Colorado Rockies,Hunter Goodman,C,Catcher,2,128,0,2,.984,17,17,16,134.0,124,8.46,7.41,1,0
+2026/04/23,True,Colorado Rockies,Hunter Goodman,DH,Designated Hitter,0,0,0,0,.000,8,8,6,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Houston Astros,Bryan King,P,Pitcher,0,1,0,0,1.000,9,9,0,10.2,1,0.90,0.11,0,0
+2026/04/23,True,San Diego Padres,Matt Waldron,P,Pitcher,0,0,0,0,.000,1,1,1,3.2,0,0.00,0.00,0,0
+2026/04/23,True,Kansas City Royals,Mason Black,P,Pitcher,1,1,0,0,1.000,2,2,0,2.2,0,4.50,0.50,0,0
+2026/04/23,True,Miami Marlins,John King,P,Pitcher,0,0,0,0,.000,11,11,0,10.0,0,0.00,0.00,0,0
+2026/04/23,True,Milwaukee Brewers,Blake Perkins,LF,Outfielder,0,9,0,0,1.000,6,6,6,44.0,9,1.84,1.50,0,0
+2026/04/23,True,Milwaukee Brewers,Blake Perkins,CF,Outfielder,0,4,0,0,1.000,6,6,3,28.0,4,1.29,0.67,0,0
+2026/04/23,True,Milwaukee Brewers,Blake Perkins,RF,Outfielder,0,2,0,0,1.000,2,2,0,8.0,2,2.25,1.00,0,0
+2026/04/23,True,Milwaukee Brewers,Greg Jones,LF,Outfielder,0,4,0,0,1.000,4,4,3,25.0,4,1.44,1.00,0,0
+2026/04/23,True,Milwaukee Brewers,Greg Jones,RF,Outfielder,0,1,0,0,1.000,1,1,0,2.0,1,4.50,1.00,0,0
+2026/04/23,True,Colorado Rockies,Ryan Feltner,P,Pitcher,1,2,0,0,1.000,4,4,4,18.0,1,1.00,0.50,0,0
+2026/04/23,True,Atlanta Braves,Mike Yastrzemski,LF,Outfielder,0,39,0,1,.974,23,23,19,165.0,38,2.07,1.65,0,0
+2026/04/23,True,Atlanta Braves,Mike Yastrzemski,CF,Outfielder,0,0,0,0,.000,1,1,0,2.0,0,0.00,0.00,0,0
+2026/04/23,True,Atlanta Braves,Mike Yastrzemski,RF,Outfielder,0,1,0,0,1.000,1,1,0,3.0,1,3.00,1.00,0,0
+2026/04/23,True,Cincinnati Reds,Dane Myers,CF,Outfielder,0,25,0,0,1.000,19,19,5,78.0,25,2.88,1.32,0,0
+2026/04/23,True,St. Louis Cardinals,Michael McGreevy,P,Pitcher,4,6,0,0,1.000,5,5,5,27.1,2,2.00,1.20,0,0
+2026/04/23,True,Los Angeles Angels,Sam Bachman,P,Pitcher,1,1,0,0,1.000,9,9,0,13.2,0,0.69,0.11,0,0
+2026/04/23,True,Pittsburgh Pirates,Bubba Chandler,P,Pitcher,1,4,1,0,1.000,4,4,4,20.0,3,1.80,1.00,0,0
+2026/04/23,True,Durham Bulls,Carson Williams,SS,Shortstop,14,21,2,1,.952,7,7,6,52.1,6,3.46,2.86,0,0
+2026/04/23,True,Houston Astros,Dustin Harris,LF,Outfielder,1,5,0,0,1.000,4,4,2,21.0,4,2.14,1.25,0,0
+2026/04/23,True,Houston Astros,Dustin Harris,LF,Outfielder,1,3,0,0,1.000,3,3,1,13.0,2,2.08,1.00,0,0
+2026/04/23,True,Houston Astros,Dustin Harris,LF,Outfielder,0,2,0,0,1.000,1,1,1,8.0,2,2.25,2.00,0,0
+2026/04/23,True,Houston Astros,Dustin Harris,RF,Outfielder,0,6,0,0,1.000,5,5,3,26.0,6,2.08,1.20,0,0
+2026/04/23,True,Houston Astros,Dustin Harris,RF,Outfielder,0,1,0,0,1.000,1,1,1,3.0,1,3.00,1.00,0,0
+2026/04/23,True,Houston Astros,Dustin Harris,RF,Outfielder,0,5,0,0,1.000,4,4,2,23.0,5,1.96,1.25,0,0
+2026/04/23,True,Norfolk Tides,Cade Povich,P,Pitcher,3,4,0,0,1.000,2,2,1,12.1,1,3.00,2.00,0,0
+2026/04/23,True,New York Yankees,Ben Rice,1B,First Base,10,159,10,1,.994,20,20,17,157.2,148,9.06,7.90,0,0
+2026/04/23,True,New York Yankees,Ben Rice,DH,Designated Hitter,0,0,0,0,.000,2,2,2,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Philadelphia Phillies,Kyle Backhus,P,Pitcher,0,1,0,0,1.000,8,8,1,7.2,1,1.29,0.13,0,0
+2026/04/23,True,Chicago White Sox,Davis Martin,P,Pitcher,2,3,0,0,1.000,4,4,4,25.0,1,1.08,0.75,0,0
+2026/04/23,True,Seattle Mariners,Luis Castillo,P,Pitcher,1,4,0,1,.750,5,5,5,23.1,2,1.17,0.60,1,0
+2026/04/23,True,Kansas City Royals,Kris Bubic,P,Pitcher,4,5,0,0,1.000,5,5,5,28.2,1,1.61,1.00,0,0
+2026/04/23,True,Kansas City Royals,Nick Loftin,2B,Second Base,6,11,1,0,1.000,3,3,2,23.0,5,4.30,3.67,0,0
+2026/04/23,True,Kansas City Royals,Nick Loftin,3B,Third Base,1,3,0,1,.667,2,2,0,7.0,1,2.57,1.00,1,0
+2026/04/23,True,Kansas City Royals,Nick Loftin,LF,Outfielder,0,2,0,0,1.000,1,1,1,7.0,2,2.57,2.00,0,0
+2026/04/23,True,Columbus Clippers,Kolby Allard,P,Pitcher,1,1,0,0,1.000,4,4,0,8.2,0,1.13,0.25,0,0
+2026/04/23,True,Chicago White Sox,Edgar Quero,C,Catcher,5,143,0,3,.979,17,17,16,140.0,135,9.00,8.24,1,0
+2026/04/23,True,Tampa Bay Rays,Ben Williamson,P,Pitcher,1,1,0,0,1.000,1,1,0,1.0,0,9.00,1.00,0,0
+2026/04/23,True,Tampa Bay Rays,Ben Williamson,2B,Second Base,31,49,4,1,.980,15,15,11,107.1,17,4.04,3.20,0,0
+2026/04/23,True,Tampa Bay Rays,Ben Williamson,3B,Third Base,1,1,0,0,1.000,1,1,0,1.0,0,9.00,1.00,0,0
+2026/04/23,True,Tampa Bay Rays,Ben Williamson,SS,Shortstop,9,13,1,0,1.000,4,4,4,34.0,4,3.44,3.25,0,0
+2026/04/23,True,Tampa Bay Rays,Ben Williamson,DH,Designated Hitter,0,0,0,0,.000,1,1,0,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Minnesota Twins,Cole Sands,P,Pitcher,1,1,0,0,1.000,10,10,0,10.1,0,0.90,0.10,0,0
+2026/04/23,True,Los Angeles Angels,Ryan Johnson,P,Pitcher,1,1,0,0,1.000,1,1,1,3.1,0,3.00,1.00,0,0
+2026/04/23,True,New York Mets,Jorge Polanco,1B,First Base,4,24,0,0,1.000,2,2,2,20.0,20,10.80,12.00,0,0
+2026/04/23,True,New York Mets,Jorge Polanco,DH,Designated Hitter,0,0,0,0,.000,12,12,12,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Boston Red Sox,Andruw Monasterio,1B,First Base,0,20,1,0,1.000,4,4,2,24.0,20,7.50,5.00,0,0
+2026/04/23,True,Boston Red Sox,Andruw Monasterio,2B,Second Base,0,0,0,0,.000,3,3,0,6.0,0,0.00,0.00,0,0
+2026/04/23,True,Boston Red Sox,Andruw Monasterio,3B,Third Base,5,5,0,0,1.000,1,1,1,8.0,0,5.63,5.00,0,0
+2026/04/23,True,Boston Red Sox,Andruw Monasterio,SS,Shortstop,1,4,0,0,1.000,2,2,2,18.0,3,2.00,2.00,0,0
+2026/04/23,True,Boston Red Sox,Andruw Monasterio,DH,Designated Hitter,0,0,0,0,.000,1,1,1,0.0,0,-.--,0.00,0,0
+2026/04/23,True,Chicago White Sox,Seranthony Domínguez,P,Pitcher,0,0,0,0,.000,9,9,0,8.0,0,0.00,0.00,0,0
+2026/04/23,True,Washington Nationals,Jacob Young,CF,Outfielder,0,43,0,0,1.000,20,20,19,174.0,43,2.22,2.15,0,0
+2026/04/23,True,Chicago Cubs,Shota Imanaga,P,Pitcher,0,2,0,0,1.000,5,5,5,29.0,2,0.62,0.40,0,0
+2026/04/23,True,Los Angeles Dodgers,Teoscar Hernández,LF,Outfielder,1,39,0,0,1.000,21,21,21,181.0,38,1.94,1.86,0,0
+2026/04/23,True,Chicago Cubs,Nico Hoerner,2B,Second Base,66,96,13,1,.990,24,24,24,213.0,29,4.01,3.96,1,0
+2026/04/23,True,Athletics,Lawrence Butler,CF,Outfielder,0,15,0,0,1.000,9,9,6,46.2,15,2.93,1.67,0,0
+2026/04/23,True,Athletics,Lawrence Butler,RF,Outfielder,0,27,0,0,1.000,20,20,14,137.2,27,1.77,1.35,0,0
+2026/04/23,True,Chicago White Sox,Bryan Hudson,P,Pitcher,1,1,0,0,1.000,11,11,0,10.2,0,0.90,0.09,0,0
+2026/04/23,True,Columbus Clippers,CJ Kayfus,LF,Outfielder,0,6,0,0,1.000,5,5,4,33.0,6,1.64,1.20,0,0
+2026/04/23,True,Columbus Clippers,CJ Kayfus,RF,Outfielder,0,4,0,0,1.000,4,4,3,29.0,4,1.24,1.00,0,0
+2026/04/23,True,Minnesota Twins,Taj Bradley,P,Pitcher,0,0,0,0,.000,5,5,5,27.2,0,0.00,0.00,0,0
+2026/04/23,True,Atlanta Braves,Michael Harris,CF,Outfielder,0,54,0,0,1.000,23,23,21,191.0,54,2.54,2.35,0,0
