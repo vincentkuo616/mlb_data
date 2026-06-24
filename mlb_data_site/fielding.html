@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>2026 MLB 防守數據查詢</title>
     <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/4.3.0/css/fixedColumns.dataTables.min.css">
+    
     <style>
         body { font-family: sans-serif; margin: 20px; background-color: #f4f4f9; }
         h2 { color: #008033; } /* MLB Green for Fielding */
@@ -18,6 +20,17 @@
 
         .filter-section { margin-bottom: 20px; display: flex; gap: 15px; flex-wrap: wrap; align-items: center; background: #f2fdf5; padding: 15px; border-radius: 5px; border-left: 5px solid #008033; }
         select { padding: 5px; border-radius: 4px; border: 1px solid #ccc; min-width: 130px; }
+
+        /* 🛠️ 核心優化：資深架構師防禦性 CSS */
+        /* 確保凍結欄位擁有不透明背景色，防止水平捲動時後方數字穿透重疊 */
+        #fieldingTable th,
+        #fieldingTable td {
+            background-color: #ffffff; 
+        }
+        /* 確保防守資料表頭凍結欄位維持清爽乾淨的淺灰色背景 */
+        #tableHeader th {
+            background-color: #f8f9fa !important;
+        }
     </style>
 </head>
 <body>
@@ -53,7 +66,7 @@
     </div>
 
     <hr>
-    <table id="fieldingTable" class="display" style="width:100%">
+    <table id="fieldingTable" class="display stripe cell-border" style="width:100%">
         <thead>
             <tr id="tableHeader"></tr>
         </thead>
@@ -63,10 +76,11 @@
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/fixedcolumns/4.3.0/js/dataTables.fixedColumns.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
 
 <script>
-    // 防守資料來源 (請確保檔名正確)
+    // 防守資料來源
     const csvUrl = 'https://raw.githubusercontent.com/vincentkuo616/mlb_data/main/mlbField_2026.csv';
     let allData = [];
     let table;
@@ -89,8 +103,14 @@
                 table = $('#fieldingTable').DataTable({
                     data: allData,
                     columns: columns.map(col => ({ data: col })),
-                    scrollX: true,
+                    scrollX: true, // 啟用水平滾動（凍結窗格之前提條件）
                     pageLength: 10,
+                    
+                    // 🛠️ 核心配置：啟動欄位固定機制，鎖定左側 4 個欄位
+                    fixedColumns: {
+                        left: 4
+                    },
+                    
                     language: { search: "關鍵字搜尋：" }
                 });
 
