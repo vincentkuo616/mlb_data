@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>2026 MLB 投手數據查詢</title>
     <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/4.3.0/css/fixedColumns.dataTables.min.css">
+    
     <style>
         body { font-family: sans-serif; margin: 20px; background-color: #f4f4f9; }
         h2 { color: #d50032; } /* MLB Red for Pitching */
@@ -18,6 +20,17 @@
 
         .filter-section { margin-bottom: 20px; display: flex; gap: 15px; align-items: center; background: #fdf2f2; padding: 15px; border-radius: 5px; border-left: 5px solid #d50032; }
         select { padding: 5px; border-radius: 4px; border: 1px solid #ccc; min-width: 150px; }
+
+        /* 🛠️ 核心優化：資深架構師防禦性 CSS */
+        /* 確保凍結欄位擁有不透明背景色，防止水平捲動時後方數字穿透重疊 */
+        #pitchTable th,
+        #pitchTable td {
+            background-color: #ffffff; 
+        }
+        /* 確保投手資料表頭凍結欄位維持清爽乾淨的淺灰色背景 */
+        #tableHeader th {
+            background-color: #f8f9fa !important;
+        }
     </style>
 </head>
 <body>
@@ -47,7 +60,7 @@
     </div>
 
     <hr>
-    <table id="pitchTable" class="display" style="width:100%">
+    <table id="pitchTable" class="display stripe cell-border" style="width:100%">
         <thead>
             <tr id="tableHeader"></tr>
         </thead>
@@ -57,10 +70,11 @@
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/fixedcolumns/4.3.0/js/dataTables.fixedColumns.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
 
 <script>
-    // 投手資料來源 (請確保檔名正確)
+    // 投手資料來源
     const csvUrl = 'https://raw.githubusercontent.com/vincentkuo616/mlb_data/main/mlbPitch_2026.csv';
     let allData = [];
     let table;
@@ -85,9 +99,15 @@
                 table = $('#pitchTable').DataTable({
                     data: allData,
                     columns: columns.map(col => ({ data: col })),
-                    scrollX: true,
+                    scrollX: true, // 啟用水平滾動（凍結窗格之必要條件）
                     pageLength: 10,
                     order: [[16, 'asc']], // 預設依 ERA (第17欄) 排序
+                    
+                    // 🛠️ 核心配置：啟動欄位固定機制，鎖定左側 4 個欄位
+                    fixedColumns: {
+                        left: 4
+                    },
+                    
                     language: { 
                         search: "關鍵字搜尋：",
                         lengthMenu: "顯示 _MENU_ 筆",
