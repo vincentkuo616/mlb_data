@@ -5,12 +5,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>2026 MLB 打者數據查詢</title>
     <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/4.3.0/css/fixedColumns.dataTables.min.css">
+    
     <style>
         body { font-family: sans-serif; margin: 20px; background-color: #f4f4f9; }
         h2 { color: #003263; }
         .container { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
         .filter-section { margin-bottom: 20px; display: flex; gap: 15px; align-items: center; background: #eef2f7; padding: 15px; border-radius: 5px; }
         select { padding: 5px; border-radius: 4px; border: 1px solid #ccc; min-width: 150px; }
+        
+        /* 導覽列樣式 */
+        .nav-menu { margin-bottom: 20px; background: #003263; padding: 10px; border-radius: 5px; }
+        .nav-menu a { color: white; text-decoration: none; padding: 10px 15px; margin-right: 5px; display: inline-block; }
+        .nav-menu a:hover { background: #0056b3; border-radius: 4px; }
+        .nav-menu a.active { background: #ffcc00; color: #003263; font-weight: bold; border-radius: 4px; }
+
+        /* 🛠️ 核心優化：資深架構師防禦性 CSS */
+        /* 確保凍結欄位擁有不透明的背景色，防止水平捲動時後方數字穿透、重疊文字 */
+        #mlbTable th,
+        #mlbTable td {
+            background-color: #ffffff; 
+        }
+        /* 確保表頭凍結欄位維持乾淨的淺灰色背景 */
+        #tableHeader th {
+            background-color: #f8f9fa !important;
+        }
     </style>
 </head>
 <body>
@@ -22,13 +41,6 @@
         <a href="fielding.html">防守數據 (Fielding)</a>
     </nav>
     
-    <style>
-        /* 導覽列樣式 */
-        .nav-menu { margin-bottom: 20px; background: #003263; padding: 10px; border-radius: 5px; }
-        .nav-menu a { color: white; text-decoration: none; padding: 10px 15px; margin-right: 5px; display: inline-block; }
-        .nav-menu a:hover { background: #0056b3; border-radius: 4px; }
-        .nav-menu a.active { background: #ffcc00; color: #003263; font-weight: bold; border-radius: 4px; }
-    </style>
     <h2>⚾ 2026 MLB 打者數據即時查詢</h2>
     
     <div class="filter-section">
@@ -47,7 +59,7 @@
     </div>
 
     <hr>
-    <table id="mlbTable" class="display" style="width:100%">
+    <table id="mlbTable" class="display stripe cell-border" style="width:100%">
         <thead>
             <tr id="tableHeader"></tr>
         </thead>
@@ -57,6 +69,7 @@
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/fixedcolumns/4.3.0/js/dataTables.fixedColumns.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
 
 <script>
@@ -82,8 +95,14 @@
                 table = $('#mlbTable').DataTable({
                     data: allData,
                     columns: columns.map(col => ({ data: col })),
-                    scrollX: true,
+                    scrollX: true, // 啟用水平滾動（凍結窗格的前提條件）
                     pageLength: 10,
+                    
+                    // 🛠️ 核心配置：啟動欄位固定機制，鎖定左側 4 個欄位
+                    fixedColumns: {
+                        left: 4
+                    },
+                    
                     language: { search: "關鍵字搜尋：" }
                 });
 
@@ -96,11 +115,9 @@
                 // 4. 當「球隊」變動時
                 $('#teamFilter').on('change', function() {
                     const selectedTeam = $(this).val();
-                    
-                    // A. 更新 DataTable 過濾 (球隊在第 3 欄，index 為 2)
+                    // 更新 DataTable 過濾 (球隊在第 3 欄，index 為 2)
                     table.column(2).search(selectedTeam).draw();
-
-                    // B. 連動更新「球員」下拉選單
+                    // 連動更新「球員」下拉選單
                     updateNameOptions(selectedTeam);
                 });
 
@@ -118,7 +135,6 @@
             const $nameSelect = $('#nameFilter');
             $nameSelect.html('<option value="">全部球員</option>'); // 重置
 
-            // 根據球隊篩選球員名單
             const filteredPlayers = team 
                 ? allData.filter(d => d.team === team)
                 : allData;
