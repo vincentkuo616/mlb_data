@@ -4,8 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>2026 MLB 投手數據查詢</title>
+    <!-- DataTables 核心 CSS -->
     <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+    <!-- 🛠️ 核心引入：FixedColumns, ColReorder, Buttons(ColVis) 專用外掛 CSS -->
     <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/4.3.0/css/fixedColumns.dataTables.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/colreorder/1.7.0/css/colReorder.dataTables.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/buttons/2.4.2/css/buttons.dataTables.min.css">
     
     <style>
         body { font-family: sans-serif; margin: 20px; background-color: #f4f4f9; }
@@ -18,19 +22,21 @@
         .nav-menu a:hover { background: #0056b3; border-radius: 4px; }
         .nav-menu a.active { background: #ffcc00; color: #003263; font-weight: bold; border-radius: 4px; }
 
-        .filter-section { margin-bottom: 20px; display: flex; gap: 15px; align-items: center; background: #fdf2f2; padding: 15px; border-radius: 5px; border-left: 5px solid #d50032; }
-        select { padding: 5px; border-radius: 4px; border: 1px solid #ccc; min-width: 150px; }
+        /* 彈性佈局篩選區塊 */
+        .filter-section { margin-bottom: 20px; display: flex; gap: 15px; flex-wrap: wrap; align-items: center; background: #fdf2f2; padding: 15px; border-radius: 5px; border-left: 5px solid #d50032; }
+        .filter-item { display: flex; align-items: center; gap: 5px; }
+        select, input[type="number"] { padding: 6px; border-radius: 4px; border: 1px solid #ccc; background: white; }
+        select { min-width: 140px; }
+        
+        /* 數值過濾專用區塊樣式 */
+        .num-filter-block { display: flex; align-items: center; gap: 8px; border-left: 2px solid #ccc; padding-left: 15px; }
 
-        /* 🛠️ 核心優化：資深架構師防禦性 CSS */
-        /* 確保凍結欄位擁有不透明背景色，防止水平捲動時後方數字穿透重疊 */
-        #pitchTable th,
-        #pitchTable td {
-            background-color: #ffffff; 
-        }
-        /* 確保投手資料表頭凍結欄位維持清爽乾淨的淺灰色背景 */
-        #tableHeader th {
-            background-color: #f8f9fa !important;
-        }
+        /* 🛠️ 資深架構師防禦性 CSS */
+        #pitchTable th, #pitchTable td { background-color: #ffffff; }
+        #tableHeader th { background-color: #f8f9fa !important; cursor: move; }
+        .dt-buttons { margin-bottom: 15px; }
+        .dt-button.colvis-btn { background: #d50032 !important; color: white !important; border-radius: 4px !important; padding: 6px 12px !important; border: none !important; font-weight: bold; }
+        .dt-button.colvis-btn:hover { background: #b3002a !important; }
     </style>
 </head>
 <body>
@@ -45,17 +51,28 @@
     <h2>🔥 2026 MLB 投手數據即時查詢</h2>
     
     <div class="filter-section">
-        <div>
+        <div class="filter-item">
             <label>球隊 (Team): </label>
-            <select id="teamFilter">
-                <option value="">全部球隊</option>
-            </select>
+            <select id="teamFilter"><option value="">全部球隊</option></select>
         </div>
-        <div>
+        <div class="filter-item">
             <label>投手姓名 (Name): </label>
-            <select id="nameFilter">
-                <option value="">全部投手</option>
+            <select id="nameFilter"><option value="">全部投手</option></select>
+        </div>
+        
+        <!-- 🛠️ 新增需求 2：投手數值動態過濾器 UI 面板 -->
+        <div class="num-filter-block">
+            <label style="font-weight: bold; color: #d50032;">📊 進階數值篩選: </label>
+            <select id="numFilterTarget"><option value="">選擇評分欄位</option></select>
+            <select id="numFilterCond" style="min-width: 70px;">
+                <option value="">條件</option>
+                <option value="gt">&gt;</option>
+                <option value="gte">&gt;=</option>
+                <option value="lt">&lt;</option>
+                <option value="lte">&lt;=</option>
+                <option value="eq">=</option>
             </select>
+            <input type="number" id="numFilterVal" step="any" placeholder="輸入數值" style="width: 90px;">
         </div>
     </div>
 
@@ -70,14 +87,42 @@
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<!-- 🛠️ 核心引入：FixedColumns, ColReorder, Buttons(ColVis) JS 驅動套件 -->
 <script src="https://cdn.datatables.net/fixedcolumns/4.3.0/js/dataTables.fixedColumns.min.js"></script>
+<script src="https://cdn.datatables.net/colreorder/1.7.0/js/dataTables.colReorder.min.js"></script>
+<script src="https://cdn.datatables.net/buttons/2.4.2/js/dataTables.buttons.min.js"></script>
+<script src="https://cdn.datatables.net/buttons/2.4.2/js/buttons.colVis.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
 
 <script>
-    // 投手資料來源
     const csvUrl = 'https://raw.githubusercontent.com/vincentkuo616/mlb_data/main/mlbPitch_2026.csv';
     let allData = [];
     let table;
+
+    // 🛠️ 新增需求 2：全域數值邊界攔截核心演算法 (抗扭曲對齊版)
+    $.fn.dataTable.ext.search.push(function(settings, data, dataIndex) {
+        const targetColName = $('#numFilterTarget').val();
+        const condition = $('#numFilterCond').val();
+        const filterVal = parseFloat($('#numFilterVal').val());
+
+        if (!targetColName || !condition || isNaN(filterVal)) return true;
+
+        // 🛡️ 抗換位防禦：透過 Name 反射取得動態 Index
+        const colIdx = table.column(targetColName + ':name').index();
+        if (colIdx === undefined) return true;
+
+        const cellVal = parseFloat(data[colIdx]);
+        if (isNaN(cellVal)) return false; 
+
+        switch (condition) {
+            case 'gt':  return cellVal > filterVal;
+            case 'gte': return cellVal >= filterVal;
+            case 'lt':  return cellVal < filterVal;
+            case 'lte': return cellVal <= filterVal;
+            case 'eq':  return cellVal === filterVal;
+            default:    return true;
+        }
+    });
 
     $(document).ready(function() {
         Papa.parse(csvUrl, {
@@ -95,19 +140,39 @@
                 columns.forEach(col => headerHtml += `<th>${col}</th>`);
                 $('#tableHeader').html(headerHtml);
 
+                // 數據注入：動態初始化「進階數值篩選」選單 (排除非數值文字型欄位)
+                columns.forEach(col => {
+                    if (col !== 'team' && col !== 'name' && col.trim() !== '') {
+                        $('#numFilterTarget').append(`<option value="${col}">${col}</option>`);
+                    }
+                });
+
+                // 🛡️ 核心防禦：動態推算 'ERA' 所在的原始位置，防止順序更動導致預設排序崩潰
+                const eraInitialIdx = columns.indexOf('ERA') !== -1 ? columns.indexOf('ERA') : 16;
+
                 // 2. 初始化 DataTable
                 table = $('#pitchTable').DataTable({
                     data: allData,
-                    columns: columns.map(col => ({ data: col })),
-                    scrollX: true, // 啟用水平滾動（凍結窗格之必要條件）
+                    // 🛡️ 防禦關鍵：綁定 data 與唯一 name
+                    columns: columns.map(col => ({ data: col, name: col })),
+                    scrollX: true, 
                     pageLength: 10,
-                    order: [[16, 'asc']], // 預設依 ERA (第17欄) 排序
+                    order: [[eraInitialIdx, 'asc']], // 套用安全動態 ERA 排序索引
                     
-                    // 🛠️ 核心配置：啟動欄位固定機制，鎖定左側 4 個欄位
+                    // 🛠️ 新增需求 1 配置：啟用顯示隱藏、欄位拖拉、與左側固定 4 欄
+                    dom: 'Blfrtip', 
+                    buttons: [
+                        {
+                            extend: 'colvis',
+                            text: '👁️ 隱藏 / 顯示特定欄位',
+                            className: 'colvis-btn'
+                        }
+                    ],
+                    colReorder: true, 
                     fixedColumns: {
                         left: 4
                     },
-                    
+                    stateSave: true, 
                     language: { 
                         search: "關鍵字搜尋：",
                         lengthMenu: "顯示 _MENU_ 筆",
@@ -124,14 +189,19 @@
                 // 4. 當「球隊」變動時
                 $('#teamFilter').on('change', function() {
                     const selectedTeam = $(this).val();
-                    table.column(2).search(selectedTeam).draw(); // Team 在第 3 欄
+                    table.column('team:name').search(selectedTeam).draw(); // 升級為安全名稱定址
                     updateNameOptions(selectedTeam);
                 });
 
                 // 5. 當「球員」變動時
                 $('#nameFilter').on('change', function() {
                     const selectedName = $(this).val();
-                    table.column(3).search(selectedName).draw(); // Name 在第 4 欄
+                    table.column('name:name').search(selectedName).draw(); // 升級為安全名稱定址
+                });
+
+                // 🛠️ 新增需求 2 監聽：當數值篩選面板條件變更時，即時重繪
+                $('#numFilterTarget, #numFilterCond, #numFilterVal').on('input change', function() {
+                    table.draw();
                 });
             }
         });
